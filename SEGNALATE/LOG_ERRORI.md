@@ -9,3 +9,7 @@
 - 2026-07-07 10:58 UTC — SZP42192: scheda in quarantena — campi mancanti: url_pdf
 
 - 2026-07-07 22:38 UTC — [radar] Sistema Penale: nessuna voce estratta: struttura pagina cambiata?
+
+- 2026-08-03 10:05 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto
+
+- 2026-08-03 10:10 UTC — [radar] La Legislazione Penale: HTTPSConnectionPool(host='www.lalegislazionepenale.eu', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lalegislazionepenale.eu', port=443) at 0x7fc659e0bd70>, 'Connection to www.lalegislazionepenale.eu timed out. (connect timeout=60)'))

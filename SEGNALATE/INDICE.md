@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-07-27 · Schede: 303 (247 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-08-03 · Schede: 308 (252 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -155,6 +155,7 @@
 
 ### Impugnazioni
 
+- **Cass. SU n. 28647/2026** · dep. 2026-07-29 → [scheda](2026/SU_28647_2026.md)
 - **Cass. Sez. III n. 23006/2026** · dep. 2026-06-22 → [scheda](2026/Cass_23006_2026.md)
 - **Cass. Sez. VI n. 19439/2026** · dep. 2026-05-28 → [scheda](2026/Cass_19439_2026.md)
 - **Cass. Sez. V n. 17971/2026** · dep. 2026-05-19 → [scheda](2026/Cass_17971_2026.md)
@@ -206,6 +207,7 @@
 
 ### Lavoro (diritto penale)
 
+- **Cass. Sez. III n. 28466/2026** · dep. 2026-07-31 → [scheda](2026/Cass_28466_2026.md)
 - **Cass. Sez. IV n. 34387/2024** · dep. 2024-09-12 → [scheda](2024/Cass_34387_2024.md)
 
 ### Leggi penali speciali (altre)
@@ -236,6 +238,7 @@
 
 ### Misure cautelari
 
+- **Cass. Sez. VI n. 29138/2026** · dep. 2026-07-31 → [scheda](2026/Cass_29138_2026.md)
 - **Cass. Sez. VI n. 27105/2026** · dep. 2026-07-17 → [scheda](2026/Cass_27105_2026.md)
 - **Cass. Sez. VI n. 21144/2026** · dep. 2026-06-09 → [scheda](2026/Cass_21144_2026.md)
 - **Cass. Sez. IV n. 10970/2026** · dep. 2026-03-23 → [scheda](2026/Cass_10970_2026.md)
@@ -349,6 +352,7 @@
 
 ### Procedimento penale
 
+- **Cass. Sez. II n. 28366/2026** · dep. 2026-07-27 → [scheda](2026/Cass_28366_2026.md)
 - **Cass. Sez. VI n. 27371/2026** · dep. 2026-07-21 → [scheda](2026/Cass_27371_2026.md)
 
 ### Procedimento penale militare
@@ -361,6 +365,7 @@
 
 ### Prove
 
+- **Cass. Sez. VI n. 29131/2026** · dep. 2026-07-31 → [scheda](2026/Cass_29131_2026.md)
 - **Cass. Sez. VI n. 40969/2025** · dep. 2025-12-19 → [scheda](2025/Cass_40969_2025.md)
 - **Cass. Sez. VI n. 29735/2025** · dep. 2025-08-26 → [scheda](2025/Cass_29735_2025.md)
 - **Cass. SU n. 10869/2025** · dep. 2025-03-18 → [scheda](2025/SU_10869_2025.md)
@@ -525,6 +530,11 @@
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
 | R.G. 9916/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
 | R.G. 6868/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-09-24 | `2026/QSP_6868_2026.md` |
+| n. 28466/2026 | sentenza | Terza | Lavoro (diritto penale) | dep. 2026-07-31 | `2026/Cass_28466_2026.md` |
+| n. 29131/2026 | sentenza | Sesta | Prove | dep. 2026-07-31 | `2026/Cass_29131_2026.md` |
+| n. 29138/2026 | sentenza | Sesta | Misure cautelari | dep. 2026-07-31 | `2026/Cass_29138_2026.md` |
+| n. 28647/2026 | ordinanza | Sezioni Unite | Impugnazioni | dep. 2026-07-29 | `2026/SU_28647_2026.md` |
+| n. 28366/2026 | sentenza | Seconda | Procedimento penale | dep. 2026-07-27 | `2026/Cass_28366_2026.md` |
 | n. 27520/2026 | sentenza | Sesta | Rapporti giurisdizionali con autorità straniere | dep. 2026-07-22 | `2026/Cass_27520_2026.md` |
 | n. 27371/2026 | ordinanza | Sesta | Procedimento penale | dep. 2026-07-21 | `2026/Cass_27371_2026.md` |
 | n. 27223/2026 | sentenza | Sesta | Reati contro l'amministrazione della giustizia | dep. 2026-07-20 | `2026/Cass_27223_2026.md` |
