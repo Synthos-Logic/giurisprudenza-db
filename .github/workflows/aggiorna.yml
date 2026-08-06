@@ -1,4 +1,4 @@
-# Pipeline di aggiornamento settimanale — cassazione-penale-db
+# Pipeline di aggiornamento settimanale — giurisprudenza-db (settori penale e civile)
 # Cron: lunedì 06:17 UTC — minuto off-peak: sul minuto zero GitHub ritarda
 # o salta i job schedulati (verificato 13/7/2026: cron 06:00 mai partito).
 # Trigger manuale: workflow_dispatch con dry_run (default true) e force.
@@ -37,16 +37,44 @@ jobs:
           python-version: "3.12"
 
       - name: Dipendenze
-        run: pip install --quiet requests beautifulsoup4
+        run: pip install --quiet requests beautifulsoup4 pdfplumber
 
-      - name: Esegui pipeline
+      - name: Pronunce segnalate — settore PENALE
         run: |
           ARGS=""
           if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
           if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
           if [ "${{ inputs.backfill }}" = "true" ]; then ARGS="$ARGS --backfill --max-schede 600"; fi
           echo "Argomenti: $ARGS"
-          python scripts/aggiorna_banca_dati.py $ARGS
+          python scripts/aggiorna_banca_dati.py --materia penale $ARGS
+
+      - name: Pronunce segnalate — settore CIVILE
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ "${{ inputs.backfill }}" = "true" ]; then ARGS="$ARGS --backfill --max-schede 600"; fi
+          python scripts/aggiorna_banca_dati.py --materia civile $ARGS
+
+      - name: Rinvii pregiudiziali art. 363-bis (civile)
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ "${{ inputs.backfill }}" = "true" ]; then ARGS="$ARGS --backfill"; fi
+          python scripts/rinvii_pregiudiziali.py $ARGS
+
+      - name: Rassegne mensili civili (non bloccante)
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          python scripts/rassegne_civili.py $ARGS || echo "::warning::rassegne civili fallite (non bloccante)"
+
+      - name: Radar civile (non bloccante)
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="--dry-run"; fi
+          python scripts/radar_civile.py $ARGS || echo "::warning::radar civile fallito (non bloccante)"
 
       - name: Radar merito (non bloccante)
         run: |
@@ -76,7 +104,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nessuna modifica da committare."
           else
-            git commit -m "data: aggiornamento pronunce segnalate ($(date -u +%F))"
+            git commit -m "data: aggiornamento pronunce segnalate penali e civili ($(date -u +%F))"
             git push
           fi
 

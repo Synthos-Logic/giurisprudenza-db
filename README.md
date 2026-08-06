@@ -1,4 +1,4 @@
-# cassazione-penale-db
+# giurisprudenza-db
 
 **Banca dati aperta di giurisprudenza penale con fonti verificabili**: le pronunce penali
 segnalate dall'Ufficio del Massimario della Corte Suprema di Cassazione, l'**archivio completo
@@ -12,6 +12,87 @@ open access.
 Una scheda Markdown per pronuncia: massima ufficiale (campo "Oggetto"), "L'esito in sintesi",
 estremi completi e link diretto alla scheda ufficiale e al PDF autentico sul sito della Corte.
 **Nessuna riformulazione**: solo testo ufficiale, verificabile con un clic.
+
+
+## Settore CIVILE (dal 5 agosto 2026)
+
+Il repository non è più solo penale. Le pronunce civili segnalate dall'Ufficio del Massimario
+(pagina "Giurisprudenza Civile", schede `SZC`) vivono in **`CIVILE/SEGNALATE/<anno>/`**, con lo
+stesso formato di scheda, lo stesso indice e lo stesso manifest del settore penale.
+
+```
+SEGNALATE/            ← settore penale (invariato: i kit già installati continuano a funzionare)
+CIVILE/SEGNALATE/     ← settore civile
+CONSULTA/             ← Corte costituzionale, condivisa tra le due materie
+```
+
+La Corte costituzionale resta **una sola copia**: i suoi open data non sono segmentati per materia,
+e duplicarli significherebbe far scaricare due volte lo stesso archivio agli utenti.
+
+Il motore è lo stesso script, con `--materia penale|civile`:
+
+```bash
+python3 scripts/aggiorna_banca_dati.py --materia civile [--dry-run] [--backfill]
+```
+
+Differenze reali della fonte civile, gestite dal parser: intestazione con data numerica
+(`Sentenza Numero: 24044, del 26/07/2026`), campo "Materia" su riga successiva, codici di
+classificazione per materia separati dall'oggetto (campo `classificazione`), ordinanze
+interlocutorie e decreti del Primo Presidente, e le pronunce **gemelle** pubblicate su un'unica
+scheda (`Sentenze Nr. 23488 e Nr. 23489`) che generano una scheda sola con il campo
+`numeri_collegati`. Nel civile **non esiste** l'equivalente delle questioni SU pendenti (`QSP`):
+l'analogo funzionale sono i rinvii pregiudiziali ex art. 363-bis c.p.c. (prefisso `RPC`), non
+ancora acquisiti.
+
+### Rinvii pregiudiziali ex art. 363-bis c.p.c. (`CIVILE/RPC/`)
+
+Nel civile non esiste l'equivalente delle questioni SU pendenti del penale: l'analogo funzionale e'
+il **rinvio pregiudiziale**, con cui il giudice di merito sospende il giudizio e rimette alla Corte
+una questione di diritto nuova, di particolare importanza e seriale.
+
+```bash
+python3 scripts/rinvii_pregiudiziali.py [--dry-run] [--backfill]
+```
+
+Archivio iniziale: **103 schede** (2023: 30 · 2024: 32 · 2025: 31 · 2026: 10), zero quarantena.
+Ogni scheda porta data dell'ordinanza, ufficio remittente, R.G. del giudizio a quo, materia e il
+**PDF ufficiale dell'ordinanza di rimessione**. Il quesito integrale non e' esposto sulla pagina
+della Corte e **non viene riassunto**: sta nel PDF, ed e' li' che va letto.
+
+⚠️ Sono questioni **pendenti**: non si citano come precedente. La pagina della Corte raccoglie anche
+rinvii provenienti da TAR, Corte dei conti e Corti di giustizia tributaria: l'ufficio remittente e'
+sempre riportato nella scheda, senza inferenze sulla giurisdizione.
+
+### Rassegne mensili civili (`CIVILE/RASSEGNE/`)
+
+La parte **citabile** della Knowledge Base: le Rassegne mensili dell'Ufficio del Massimario, che
+riportano le massime con il numero **Rv**. La Rassegna annuale consolida l'anno ma esce con 12-18
+mesi di ritardo: senza le mensili la Knowledge Base invecchia in silenzio.
+
+```bash
+python3 scripts/rassegne_civili.py [--dry-run] [--da-anno 2025] [--max-nuove N]
+```
+
+La pipeline scarica il PDF, lo **converte in Markdown con marcatori di pagina**, genera l'indice
+citazionale e **oscura i nominativi dei difensori** prima di pubblicare: l'utente riceve materiale
+gia' pronto, senza dover convertire nulla in locale.
+
+Due accorgimenti nati dai dati reali: il periodo si ricava **dal contenuto del PDF** e non dal nome
+del file (la mensile di ottobre 2025 e' pubblicata come "OTTOBRE_2026"), e i link si leggono dalle
+schede di dettaglio perche' i nomi non seguono uno schema (`rev.2`, `rev02`, un `mnesile` con refuso).
+Default `--da-anno 2025`: le annate precedenti sono gia' coperte dalle Rassegne annuali e prenderle
+due volte duplicherebbe le massime.
+
+Archivio: **10 rassegne** (gennaio 2025 - febbraio 2026), **3.958 massime**.
+
+### Radar civile (`CIVILE/RADAR/`)
+
+`scripts/radar_civile.py` raccoglie titolo, data e link degli articoli di cinque riviste civilistiche
+con feed verificato (Judicium, Il Diritto Processuale Civile, Diritto Bancario, Diritto.it, Ius in
+Itinere). **Solo metadati, mai il testo**; le voci **non si citano negli atti**. Passo non bloccante.
+
+Seed iniziale delle pronunce segnalate: **296 schede** (2023: 46 · 2024: 98 · 2025: 94 · 2026: 48), 4 in `_QUARANTENA`
+per campi mancanti alla fonte o intestazioni fuori formato — mai completate a mano, mai inventate.
 
 ## Perimetro
 

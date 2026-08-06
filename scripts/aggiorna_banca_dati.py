@@ -30,14 +30,54 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE = "https://www.cortedicassazione.it"
-URL_LISTA = BASE + "/it/giurisprudenza_penale.page"
-UA = ("cassazione-penale-db/1.0 "
-      "(+https://github.com/Synthos-Logic/cassazione-penale-db; aggiornamento settimanale)")
+UA = ("giurisprudenza-db/2.0 "
+      "(+https://github.com/Synthos-Logic/giurisprudenza-db; aggiornamento settimanale)")
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SEG = os.path.join(ROOT, "SEGNALATE")
+
+# --- CONFIGURAZIONE PER MATERIA -------------------------------------------------
+# Il penale resta ESATTAMENTE dov'era (SEGNALATE/) per non toccare i kit gia'
+# installati, che sincronizzano quella cartella. Il civile vive in CIVILE/SEGNALATE/.
+MATERIE = {
+    "penale": {
+        "lista": "/it/giurisprudenza_penale.page",
+        "prefissi": ("SZP", "QSP"),
+        "dettaglio": {"SZP": "penale_dettaglio.page", "QSP": "qsp_dettaglio.page"},
+        "dir": "SEGNALATE",
+        "sigla_cit": "Cass. pen.",
+        "titolo_indice": "Pronunce penali segnalate",
+        "pagina_fonte": 'pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione',
+        "schema": "cassazione-penale-db/1",
+    },
+    "civile": {
+        "lista": "/it/giurisprudenza_civile.page",
+        "prefissi": ("SZC",),
+        "dettaglio": {"SZC": "civile_dettaglio.page"},
+        "dir": os.path.join("CIVILE", "SEGNALATE"),
+        "sigla_cit": "Cass. civ.",
+        "titolo_indice": "Pronunce civili segnalate",
+        "pagina_fonte": 'pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione',
+        "schema": "giurisprudenza-db/civile/1",
+    },
+}
+
+MATERIA = "penale"           # impostata in main() da --materia
+CFG = MATERIE[MATERIA]
+URL_LISTA = BASE + CFG["lista"]
+SEG = os.path.join(ROOT, CFG["dir"])
 QUAR = os.path.join(SEG, "_QUARANTENA")
 LOG = os.path.join(SEG, "LOG_ERRORI.md")
+
+
+def imposta_materia(nome):
+    """Ricalcola le costanti globali per la materia scelta."""
+    global MATERIA, CFG, URL_LISTA, SEG, QUAR, LOG
+    MATERIA = nome
+    CFG = MATERIE[nome]
+    URL_LISTA = BASE + CFG["lista"]
+    SEG = os.path.join(ROOT, CFG["dir"])
+    QUAR = os.path.join(SEG, "_QUARANTENA")
+    LOG = os.path.join(SEG, "LOG_ERRORI.md")
 
 MESI = {"gennaio": 1, "febbraio": 2, "marzo": 3, "aprile": 4, "maggio": 5, "giugno": 6,
         "luglio": 7, "agosto": 8, "settembre": 9, "ottobre": 10, "novembre": 11, "dicembre": 12}
@@ -142,12 +182,13 @@ def registro_esistenti():
 def parse_lista(html):
     """Estrae i contentId SZP/QSP dalla pagina lista (i PPR/restituzioni restano fuori)."""
     trovati, visti = [], set()
-    for m in re.finditer(r"contentId=(SZP|QSP)(\d+)", html):
+    pat = r"contentId=(" + "|".join(CFG["prefissi"]) + r")(\d+)"
+    for m in re.finditer(pat, html):
         cid = m.group(1) + m.group(2)
         if cid in visti:
             continue
         visti.add(cid)
-        pagina = "penale_dettaglio.page" if m.group(1) == "SZP" else "qsp_dettaglio.page"
+        pagina = CFG["dettaglio"][m.group(1)]
         trovati.append({"content_id": cid, "kind": m.group(1),
                         "url": f"{BASE}/it/{pagina}?contentId={cid}"})
     return trovati
@@ -224,6 +265,88 @@ def parse_szp(html, cid, url):
     return d, (f"campi mancanti: {', '.join(mancanti)}" if mancanti else None)
 
 
+# ----------------------------------------------------------------------------- parsing dettaglio SZC (civile)
+
+def parse_szc(html, cid, url):
+    """Scheda civile. Struttura parallela alla penale, con tre differenze reali:
+    - intestazione "Sentenza Numero: 24044, del 26/07/2026" (data numerica, non "deposito del ...");
+    - "Materia:" e' su riga successiva rispetto all'etichetta;
+    - l'Oggetto e' preceduto dai codici di classificazione per materia ("38. COSTITUZIONE...").
+    Il PDF allegato e' la versione oscurata pubblicata dalla Corte."""
+    soup = BeautifulSoup(html, "html.parser")
+    main = soup.find("main") or soup
+    txt = main.get_text("\n")
+    txt = re.sub(r"[ \t]+", " ", txt.replace("\u00a0", " "))
+
+    d = {"content_id": cid, "url_scheda": url}
+
+    d["numeri_collegati"] = None
+    m = re.search(r"(Sentenza|Ordinanza interlocutoria|Ordinanza|Decreto Prima Presidente|Decreto)"
+                  r"\s+Numero:\s*(\d+)\s*,?\s*del\s+(\d{1,2}/\d{1,2}/\d{4})", txt)
+    if not m:
+        # la Corte pubblica talvolta due pronunce gemelle su un'unica scheda:
+        # "Sentenze Nr. 23488 e Nr. 23489, del 18/07/2026" -> una scheda, entrambi i numeri
+        # varianti reali: "Sentenze Nr. A e Nr. B", "Sentenze Nr. A, Nr. B",
+        # "Ordinanze interlocutorie nn. A e B" — numeri separati da virgola o "e"
+        m2 = re.search(r"(Sentenze|Ordinanze interlocutorie|Ordinanze)\s+"
+                       r"(?:Nr\.|nn\.|n\.)\s*((?:\d+\s*(?:,|e)\s*(?:Nr\.|nn\.|n\.)?\s*)+\d+)"
+                       r"\s*,?\s*del\s+(\d{1,2}/\d{1,2}/\d{4})", txt)
+        if not m2:
+            return None, "intestazione numero/data non trovata"
+        numeri = re.findall(r"\d+", m2.group(2))
+        d["tipo"] = ("sentenza" if m2.group(1) == "Sentenze"
+                     else "ordinanza-interlocutoria" if "interlocutorie" in m2.group(1) else "ordinanza")
+        d["numero"] = int(numeri[0])
+        d["numeri_collegati"] = ", ".join(numeri)
+        m = None
+        gg, mm_, aa = m2.group(3).split("/")
+    if m:
+        d["tipo"] = m.group(1).lower().replace(" ", "-")
+        d["numero"] = int(m.group(2))
+        gg, mm_, aa = m.group(3).split("/")
+    d["data_deposito"] = f"{aa}-{int(mm_):02d}-{int(gg):02d}"
+    d["anno"] = int(aa)
+
+    d["sezione"] = sezione_da_testo(txt)
+    mi = re.search(r"Data inserimento:\s*([^\n]+)", txt)
+    d["data_inserimento"] = data_it(mi.group(1)) if mi else None
+    mm = re.search(r"Materia:\s*\n?\s*([^\n]+)", txt)
+    d["materia"] = pulisci(mm.group(1)) if mm else None
+    mp = re.search(r"Presidente:\s*([^\n]+)", txt)
+    d["presidente"] = pulisci(mp.group(1)) if mp else None
+    mr = re.search(r"Relatore:\s*([^\n]+)", txt)
+    d["relatore"] = pulisci(mr.group(1)) if mr else None
+    mu = re.search(r"Data udienza:\s*([^\n]+)", txt)
+    d["data_udienza"] = data_it(mu.group(1)) if mu else None
+
+    blocco = blocco_tra(
+        txt, r"\bOggetto\b\s*\n",
+        [r"Presidente:", r"Relatore:", r"Data udienza:", r"L[\u2019\']\s*esito in sintesi", r"Allegat"])
+    # separa i codici di classificazione dal testo della massima
+    d["classificazione"], d["oggetto"] = None, blocco
+    if blocco:
+        righe = [r.strip() for r in blocco.split("\n") if r.strip()]
+        codici = [r for r in righe if re.match(r"^\d{2,3}\.\s+[A-ZÀ-Ù]", r)]
+        testo = [r for r in righe if r not in codici]
+        if codici:
+            d["classificazione"] = " · ".join(codici)
+        d["oggetto"] = pulisci("\n".join(testo)) or None
+
+    d["esito"] = blocco_tra(
+        txt, r"L[\u2019\']\s*esito in sintesi\s*\n",
+        [r"\bAllegat[oi]\b", r"Pi\u00e8 di pagina", r"Scarica Documento"])
+
+    d["url_pdf"] = None
+    for a in main.find_all("a", href=True):
+        if "/resources/cms/documents/" in a["href"] and a["href"].lower().endswith(".pdf"):
+            d["url_pdf"] = a["href"] if a["href"].startswith("http") else BASE + a["href"]
+            break
+
+    obbligatori = ["tipo", "numero", "anno", "sezione", "oggetto", "url_pdf"]
+    mancanti = [k for k in obbligatori if not d.get(k)]
+    return d, (f"campi mancanti: {', '.join(mancanti)}" if mancanti else None)
+
+
 # ----------------------------------------------------------------------------- parsing dettaglio QSP
 
 def parse_qsp(html, cid, url):
@@ -289,7 +412,8 @@ def parse_qsp(html, cid, url):
 
 def titolo_szp(d):
     sez = SEZ_ROMANO.get(d["sezione"], d["sezione"])
-    return f"Cass. pen., Sez. {sez}, n. {d['numero']}/{d['anno']}"
+    num = d.get("numeri_collegati") or d["numero"]
+    return f"{CFG['sigla_cit']}, Sez. {sez}, n. {num}/{d['anno']}"
 
 
 def blockquote(testo):
@@ -309,6 +433,8 @@ data_udienza: {d.get('data_udienza') or 'null'}
 data_deposito: {d.get('data_deposito') or 'null'}
 data_inserimento: {d.get('data_inserimento') or 'null'}
 materia: {q(d.get('materia'))}
+classificazione: {q(d.get('classificazione'))}
+numeri_collegati: {q(d.get('numeri_collegati'))}
 presidente: {q(d.get('presidente'))}
 relatore: {q(d.get('relatore'))}
 rv: null
@@ -398,13 +524,14 @@ def rigenera_indici(dry):
         return fm.get("data_deposito") or fm.get("data_udienza") or fm.get("data_inserimento") or ""
     schede.sort(key=data_ord, reverse=True)
 
-    pron = [s for s in schede if s.get("tipo") in ("sentenza", "ordinanza")]
+    pron = [s for s in schede if s.get("tipo") in ("sentenza", "ordinanza",
+                                                  "ordinanza-interlocutoria", "decreto")]
     qsp = [s for s in schede if s.get("tipo") == "questione-su"]
 
-    righe = ["# INDICE — Pronunce penali segnalate", "",
+    righe = [f"# INDICE — {CFG['titolo_indice']}", "",
              f"> Ultimo aggiornamento: {OGGI} · Schede: {len(schede)} "
              f"({len(pron)} sentenze/ordinanze, {len(qsp)} questioni SU)",
-             "> Fonte: pagina \"Giurisprudenza Penale\" del sito della Corte Suprema di Cassazione.",
+             f"> Fonte: {CFG['pagina_fonte']}.",
              "", "## Pronunce per materia", ""]
     per_materia = {}
     for s in pron:
@@ -413,7 +540,7 @@ def rigenera_indici(dry):
         righe.append(f"### {mat}\n")
         for s in per_materia[mat]:
             su = s.get("sezione") == "Sezioni Unite"
-            etich = f"Cass. {'SU' if su else 'Sez. ' + SEZ_ROMANO.get(s.get('sezione',''), s.get('sezione',''))} n. {s.get('numero')}/{s.get('anno')}"
+            etich = f"{CFG['sigla_cit'].split('.')[0]}. {'SU' if su else 'Sez. ' + SEZ_ROMANO.get(s.get('sezione',''), s.get('sezione',''))} n. {s.get('numero')}/{s.get('anno')}"
             righe.append(f"- **{etich}** · dep. {s.get('data_deposito','?')} → [scheda]({s['_rel']})")
         righe.append("")
     righe += ["## Questioni Sezioni Unite", ""]
@@ -434,7 +561,7 @@ def rigenera_indici(dry):
         righe.append(f"| {rif} | {tipo} | {s.get('sezione') or 'Sezioni Unite'} | "
                      f"{s.get('materia') or '—'} | {dt} | `{s['_rel']}` |")
 
-    manifest = {"schema": "cassazione-penale-db/1", "generato_il": OGGI,
+    manifest = {"schema": CFG["schema"], "generato_il": OGGI,
                 "tipo_fonte": "massimario-segnalate", "totale_schede": len(schede),
                 "collezioni": {}}
     for s in schede:
@@ -468,9 +595,13 @@ def main():
     ap.add_argument("--backfill", action="store_true",
                     help="scarica tutte le pagine dell'archivio (paginazione ?frame3_item=N)")
     ap.add_argument("--max-pagine", type=int, default=40, help="tetto pagine in backfill")
+    ap.add_argument("--materia", choices=sorted(MATERIE), default="penale",
+                    help="settore da aggiornare (default: penale)")
     args = ap.parse_args()
 
-    print(f"== cassazione-penale-db · pipeline {OGGI} · dry_run={args.dry_run} force={args.force} ==")
+    imposta_materia(args.materia)
+    print(f"== giurisprudenza-db · settore {args.materia} · {OGGI} · "
+          f"dry_run={args.dry_run} force={args.force} ==")
 
     per_id, chiavi = registro_esistenti()
     print(f"Schede in archivio: {len(per_id)}")
@@ -496,11 +627,11 @@ def main():
         if args.backfill:
             print(f"pagina {n}: +{len(v)} voci (totale {len(voci)})")
     if not voci:
-        log_errore("nessun contentId SZP/QSP trovato nella pagina lista: struttura cambiata?")
+        log_errore(f"nessun contentId {'/'.join(CFG['prefissi'])} trovato nella pagina lista: struttura cambiata?")
         scrivi_log() if not args.dry_run else None
         sys.exit(1)
-    print(f"Pronunce sulla pagina lista: {len(voci)} "
-          f"(SZP: {sum(1 for v in voci if v['kind']=='SZP')}, QSP: {sum(1 for v in voci if v['kind']=='QSP')})")
+    conteggi = ", ".join(f"{k}: {sum(1 for v in voci if v['kind'] == k)}" for k in CFG["prefissi"])
+    print(f"Pronunce sulla pagina lista: {len(voci)} ({conteggi})")
 
     nuove, aggiornate, saltate, quarantena = 0, 0, 0, 0
     for v in voci[: args.max_schede]:
@@ -520,7 +651,8 @@ def main():
             log_errore(f"{cid}: dettaglio non raggiungibile: {e}")
             continue
 
-        d, problema = (parse_szp if v["kind"] == "SZP" else parse_qsp)(html, cid, v["url"])
+        parser = {"SZP": parse_szp, "SZC": parse_szc, "QSP": parse_qsp}[v["kind"]]
+        d, problema = parser(html, cid, v["url"])
         if d is None:
             log_errore(f"{cid}: parsing fallito — {problema}")
             quarantena += 1
@@ -534,7 +666,7 @@ def main():
             quarantena += 1
             continue
 
-        nome, corpo = (scheda_szp if v["kind"] == "SZP" else scheda_qsp)(d)
+        nome, corpo = (scheda_qsp if v["kind"] == "QSP" else scheda_szp)(d)
         anno_dir = os.path.join(SEG, str(d["anno"]))
         dest = os.path.join(anno_dir, nome)
 
