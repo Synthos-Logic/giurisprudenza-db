@@ -1,13 +1,10 @@
 # INDICE — Rassegne mensili della giurisprudenza civile
 
-> Ultimo aggiornamento: 2026-08-06 · Rassegne in archivio: 10
+> Ultimo aggiornamento: 2026-08-10 · Rassegne in archivio: 10
 > Fonte: Ufficio del Massimario della Corte Suprema di Cassazione, settore civile.
 >
-> I Markdown sono gia' convertiti con marcatori di pagina e gia' privi dei nominativi dei
-> difensori. Ogni massima resta ancorabile: numero Rv, file, pagina.
->
-> Copertura: **dal 2025 in poi**. Le annate precedenti sono coperte dalle Rassegne ANNUALI,
-> che riportano le stesse massime consolidate con il numero Rv definitivo.
+> I Markdown sono gia' convertiti con marcatori di pagina e gia' privi dei nominativi
+> dei difensori. Ogni massima resta ancorabile: numero Rv, file, pagina.
 
 | Periodo | Pagine | Massime (Rv) | File |
 |---|---|---|---|

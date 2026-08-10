@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-08-05 · Schede: 296 (295 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-08-10 · Schede: 297 (296 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -509,6 +509,7 @@
 
 ### Successioni
 
+- **Cass. Sez. II n. 24491/2026** · dep. 2026-08-05 → [scheda](2026/Cass_24491_2026.md)
 - **Cass. SU n. 31310/2024** · dep. 2024-12-06 → [scheda](2024/SU_31310_2024.md)
 - **Cass. Sez. II n. 34852/2023** · dep. 2023-12-13 → [scheda](2023/Cass_34852_2023.md)
 - **Cass. Sez. II n. 22566/2023** · dep. 2023-07-26 → [scheda](2023/Cass_22566_2023.md)
@@ -551,6 +552,7 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 24491/2026 | ordinanza | Seconda | Successioni | dep. 2026-08-05 | `2026/Cass_24491_2026.md` |
 | n. 24317/2026 | ordinanza-interlocutoria | Quarta | Impiego pubblico | dep. 2026-07-31 | `2026/Cass_24317_2026.md` |
 | n. 24044/2026 | sentenza | Sezioni Unite | Costituzione della Repubblica | dep. 2026-07-26 | `2026/SU_24044_2026.md` |
 | n. 24045/2026 | sentenza | Sezioni Unite | Stranieri | dep. 2026-07-26 | `2026/SU_24045_2026.md` |

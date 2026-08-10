@@ -13,3 +13,5 @@
 - 2026-08-03 10:05 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto
 
 - 2026-08-03 10:10 UTC — [radar] La Legislazione Penale: HTTPSConnectionPool(host='www.lalegislazionepenale.eu', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lalegislazionepenale.eu', port=443) at 0x7fc659e0bd70>, 'Connection to www.lalegislazionepenale.eu timed out. (connect timeout=60)'))
+
+- 2026-08-10 08:04 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto

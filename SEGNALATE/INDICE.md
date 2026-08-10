@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-08-03 · Schede: 308 (252 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-08-10 · Schede: 309 (253 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -390,6 +390,10 @@
 
 - **Cass. Sez. VI n. 27223/2026** · dep. 2026-07-20 → [scheda](2026/Cass_27223_2026.md)
 
+### Reati contro l'ordine pubblico
+
+- **Cass. Sez. I n. 28586/2026** · dep. 2026-07-28 → [scheda](2026/Cass_28586_2026.md)
+
 ### Reati contro la Pubblica Amministrazione
 
 - **Cass. Sez. VI n. 21104/2024** · dep. 2024-05-29 → [scheda](2024/Cass_21104_2024.md)
@@ -534,6 +538,7 @@
 | n. 29131/2026 | sentenza | Sesta | Prove | dep. 2026-07-31 | `2026/Cass_29131_2026.md` |
 | n. 29138/2026 | sentenza | Sesta | Misure cautelari | dep. 2026-07-31 | `2026/Cass_29138_2026.md` |
 | n. 28647/2026 | ordinanza | Sezioni Unite | Impugnazioni | dep. 2026-07-29 | `2026/SU_28647_2026.md` |
+| n. 28586/2026 | sentenza | Prima | Reati contro l'ordine pubblico | dep. 2026-07-28 | `2026/Cass_28586_2026.md` |
 | n. 28366/2026 | sentenza | Seconda | Procedimento penale | dep. 2026-07-27 | `2026/Cass_28366_2026.md` |
 | n. 27520/2026 | sentenza | Sesta | Rapporti giurisdizionali con autorità straniere | dep. 2026-07-22 | `2026/Cass_27520_2026.md` |
 | n. 27371/2026 | ordinanza | Sesta | Procedimento penale | dep. 2026-07-21 | `2026/Cass_27371_2026.md` |
