@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-08-10 · Schede: 297 (296 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-08-17 · Schede: 298 (297 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -320,6 +320,7 @@
 
 ### Prescrizione e decadenza
 
+- **Cass. SU n. 24599/2026** · dep. 2026-08-10 → [scheda](2026/SU_24599_2026.md)
 - **Cass. SU n. 6474/2026** · dep. 2026-03-18 → [scheda](2026/SU_6474_2026.md)
 - **Cass. Sez. III n. 25643/2025** · dep. 2025-09-17 → [scheda](2025/Cass_25643_2025.md)
 - **Cass. Sez. I n. 3334/2025** · dep. 2025-02-10 → [scheda](2025/Cass_3334_2025.md)
@@ -552,6 +553,7 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 24599/2026 | sentenza | Sezioni Unite | Prescrizione e decadenza | dep. 2026-08-10 | `2026/SU_24599_2026.md` |
 | n. 24491/2026 | ordinanza | Seconda | Successioni | dep. 2026-08-05 | `2026/Cass_24491_2026.md` |
 | n. 24317/2026 | ordinanza-interlocutoria | Quarta | Impiego pubblico | dep. 2026-07-31 | `2026/Cass_24317_2026.md` |
 | n. 24044/2026 | sentenza | Sezioni Unite | Costituzione della Repubblica | dep. 2026-07-26 | `2026/SU_24044_2026.md` |

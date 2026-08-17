@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-08-10 · Schede: 309 (253 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-08-17 · Schede: 310 (254 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -348,6 +348,7 @@
 
 ### Procedimenti speciali
 
+- **Cass. Sez. IV n. 31016/2026** · dep. 2026-08-12 → [scheda](2026/Cass_31016_2026.md)
 - **Cass. SU n. 27059/2025** · dep. 2025-07-23 → [scheda](2025/SU_27059_2025.md)
 
 ### Procedimento penale
@@ -496,9 +497,9 @@
 - **QSP R.G. 2878/2025 · DECISA** · ud. 2025-06-26 → [scheda](2025/QSP_2878_2025.md)
 - **QSP R.G. 2880/2025 · DECISA** · ud. 2025-06-26 → [scheda](2025/QSP_2880_2025.md)
 - **QSP R.G. 18402/2024 · DECISA** · ud. 2025-06-26 → [scheda](2024/QSP_18402_2024.md)
-- **QSP R.G. 36993/2023 · DECISA** · ud. 2025-05-29 → [scheda](2023/QSP_36993_2023.md)
 - **QSP R.G. 29938/2024 · DECISA** · ud. 2025-05-29 → [scheda](2024/QSP_29938_2024.md)
 - **QSP R.G. 39137/2024 · DECISA** · ud. 2025-05-29 → [scheda](2024/QSP_39137_2024.md)
+- **QSP R.G. 36993/2023 · DECISA** · ud. 2025-05-29 → [scheda](2023/QSP_36993_2023.md)
 - **QSP R.G. 18439/2024 · DECISA** · ud. 2025-04-10 → [scheda](2024/QSP_18439_2024.md)
 - **QSP R.G. 27791/2024 · DECISA** · ud. 2025-03-27 → [scheda](2024/QSP_27791_2024.md)
 - **QSP R.G. 34910/2024 · DECISA** · ud. 2025-02-27 → [scheda](2024/QSP_34910_2024.md)
@@ -507,8 +508,8 @@
 - **QSP R.G. 7505/2024 · DECISA** · ud. 2024-12-12 → [scheda](2024/QSP_7505_2024.md)
 - **QSP R.G. 2187/2024 · DECISA** · ud. 2024-11-28 → [scheda](2024/QSP_2187_2024.md)
 - **QSP R.G. 7197/2024 · DECISA** · ud. 2024-11-28 → [scheda](2024/QSP_7197_2024.md)
-- **QSP R.G. 36218/2023 · DECISA** · ud. 2024-10-24 → [scheda](2023/QSP_36218_2023.md)
 - **QSP R.G. 6578/2024 · DECISA** · ud. 2024-10-24 → [scheda](2024/QSP_6578_2024.md)
+- **QSP R.G. 36218/2023 · DECISA** · ud. 2024-10-24 → [scheda](2023/QSP_36218_2023.md)
 - **QSP R.G. 31775/2023 · DECISA** · ud. 2024-09-26 → [scheda](2023/QSP_31775_2023.md)
 - **QSP R.G. 42353/2023 · DECISA** · ud. 2024-09-26 → [scheda](2023/QSP_42353_2023.md)
 - **QSP R.G. 46389/2023 · DECISA** · ud. 2024-07-11 → [scheda](2023/QSP_46389_2023.md)
@@ -534,6 +535,7 @@
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
 | R.G. 9916/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
 | R.G. 6868/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-09-24 | `2026/QSP_6868_2026.md` |
+| n. 31016/2026 | sentenza | Quarta | Procedimenti speciali | dep. 2026-08-12 | `2026/Cass_31016_2026.md` |
 | n. 28466/2026 | sentenza | Terza | Lavoro (diritto penale) | dep. 2026-07-31 | `2026/Cass_28466_2026.md` |
 | n. 29131/2026 | sentenza | Sesta | Prove | dep. 2026-07-31 | `2026/Cass_29131_2026.md` |
 | n. 29138/2026 | sentenza | Sesta | Misure cautelari | dep. 2026-07-31 | `2026/Cass_29138_2026.md` |
@@ -550,8 +552,8 @@
 | R.G. 9966/2026 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-07-09 | `2026/QSP_9966_2026.md` |
 | n. 24677/2026 | sentenza | Sesta | Confisca | dep. 2026-07-02 | `2026/Cass_24677_2026.md` |
 | n. 23723/2026 | sentenza | Terza | Navigazione | dep. 2026-06-26 | `2026/Cass_23723_2026.md` |
-| R.G. 37184/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-06-25 | `2025/QSP_37184_2025.md` |
 | n. 23496/2026 | sentenza | Terza | Pena | dep. 2026-06-25 | `2026/Cass_23496_2026.md` |
+| R.G. 37184/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-06-25 | `2025/QSP_37184_2025.md` |
 | n. 23006/2026 | sentenza | Terza | Impugnazioni | dep. 2026-06-22 | `2026/Cass_23006_2026.md` |
 | n. 22068/2026 | sentenza | Sesta | Rapporti giurisdizionali con autorità straniere | dep. 2026-06-18 | `2026/Cass_22068_2026.md` |
 | n. 21622/2026 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2026-06-11 | `2026/Cass_21622_2026.md` |
@@ -561,8 +563,8 @@
 | n. 21077/2026 | sentenza | Sezioni Unite | Misure di prevenzione | dep. 2026-06-08 | `2026/SU_21077_2026.md` |
 | n. 20105/2026 | sentenza | Sesta | Estradizione per l'estero | dep. 2026-06-01 | `2026/Cass_20105_2026.md` |
 | n. 19652/2026 | sentenza | Sezioni Unite | Competenza | dep. 2026-05-29 | `2026/SU_19652_2026.md` |
-| R.G. 20697/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-05-28 | `2025/QSP_20697_2025.md` |
 | n. 19439/2026 | sentenza | Sesta | Impugnazioni | dep. 2026-05-28 | `2026/Cass_19439_2026.md` |
+| R.G. 20697/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-05-28 | `2025/QSP_20697_2025.md` |
 | n. 18797/2026 | sentenza | Sesta | Delitti contro l'amministrazione della giustizia | dep. 2026-05-25 | `2026/Cass_18797_2026.md` |
 | n. 18497/2026 | ordinanza | Prima | Esecuzione e ordinamento penitenziario | dep. 2026-05-22 | `2026/Cass_18497_2026.md` |
 | n. 17971/2026 | sentenza | Quinta | Impugnazioni | dep. 2026-05-19 | `2026/Cass_17971_2026.md` |
@@ -573,8 +575,8 @@
 | n. 16114/2026 | sentenza | Sezioni Unite | Reati contro il patrimonio | dep. 2026-05-05 | `2026/SU_16114_2026.md` |
 | n. 14882/2026 | sentenza | Sesta | Delitti contro la persona | dep. 2026-04-24 | `2026/Cass_14882_2026.md` |
 | n. 14860/2026 | ordinanza | Sezioni Unite | Reato | dep. 2026-04-24 | `2026/SU_14860_2026.md` |
-| R.G. 28808/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-04-23 | `2025/QSP_28808_2025.md` |
 | n. 14741/2026 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2026-04-23 | `2026/Cass_14741_2026.md` |
+| R.G. 28808/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-04-23 | `2025/QSP_28808_2025.md` |
 | n. 14575/2026 | sentenza | Sesta | Estradizione per l'estero | dep. 2026-04-21 | `2026/Cass_14575_2026.md` |
 | n. 14172/2026 | sentenza | Sesta | Indagini preliminari | dep. 2026-04-17 | `2026/Cass_14172_2026.md` |
 | n. 14179/2026 | sentenza | Sesta | Misure di sicurezza patrimoniali | dep. 2026-04-17 | `2026/Cass_14179_2026.md` |
@@ -698,9 +700,9 @@
 | n. 20989/2025 | sentenza | Sezioni Unite | Prescrizione | dep. 2025-06-05 | `2025/SU_20989_2025.md` |
 | n. 20255/2025 | sentenza | Sesta | Patteggiamento | dep. 2025-05-30 | `2025/Cass_20255_2025.md` |
 | n. 20257/2025 | ordinanza | Sesta | Impugnazioni | dep. 2025-05-30 | `2025/Cass_20257_2025.md` |
-| R.G. 36993/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-05-29 | `2023/QSP_36993_2023.md` |
 | R.G. 29938/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-05-29 | `2024/QSP_29938_2024.md` |
 | R.G. 39137/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-05-29 | `2024/QSP_39137_2024.md` |
+| R.G. 36993/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-05-29 | `2023/QSP_36993_2023.md` |
 | n. 19715/2025 | sentenza | Sesta | Delitti contro la famiglia | dep. 2025-05-27 | `2025/Cass_19715_2025.md` |
 | n. 19717/2025 | sentenza | Sesta | Misure cautelari | dep. 2025-05-27 | `2025/Cass_19717_2025.md` |
 | n. 19469/2025 | sentenza | Sesta | Misure di prevenzione | dep. 2025-05-26 | `2025/Cass_19469_2025.md` |
@@ -768,8 +770,8 @@
 | n. 42125/2024 | sentenza | Sezioni Unite | Termini processuali | dep. 2024-11-15 | `2024/SU_42125_2024.md` |
 | n. 41956/2024 | sentenza | Quinta | Delitti contro la persona | dep. 2024-11-14 | `2024/Cass_41956_2024.md` |
 | n. 40763/2024 | sentenza | Quinta | Misure di prevenzione | dep. 2024-11-06 | `2024/Cass_40763_2024.md` |
-| R.G. 36218/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-10-24 | `2023/QSP_36218_2023.md` |
 | R.G. 6578/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-10-24 | `2024/QSP_6578_2024.md` |
+| R.G. 36218/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-10-24 | `2023/QSP_36218_2023.md` |
 | n. 37751/2024 | sentenza | Quarta | Persona giuridica | dep. 2024-10-15 | `2024/Cass_37751_2024.md` |
 | n. 37899/2024 | sentenza | Prima | Esecuzione | dep. 2024-10-15 | `2024/Cass_37899_2024.md` |
 | n. 37650/2024 | sentenza | Quarta | Processo Penale | dep. 2024-10-14 | `2024/Cass_37650_2024.md` |
@@ -794,23 +796,23 @@
 | n. 30016/2024 | sentenza | Sezioni Unite | Delitti contro il patrimonio | dep. 2024-07-22 | `2024/SU_30016_2024.md` |
 | n. 28501/2024 | sentenza | Terza | Stupefacenti | dep. 2024-07-16 | `2024/Cass_28501_2024.md` |
 | n. 28594/2024 | sentenza | Sesta | Fonti del diritto | dep. 2024-07-16 | `2024/Cass_28594_2024.md` |
-| R.G. 46389/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-07-11 | `2023/QSP_46389_2023.md` |
 | n. 27654/2024 | sentenza | Sesta | Mandato d'arresto europeo | dep. 2024-07-11 | `2024/Cass_27654_2024.md` |
 | n. 27727/2024 | sentenza | Sezioni Unite | Stupefacenti | dep. 2024-07-11 | `2024/SU_27727_2024.md` |
+| R.G. 46389/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-07-11 | `2023/QSP_46389_2023.md` |
 | n. 27435/2024 | sentenza | Prima | Pena | dep. 2024-07-10 | `2024/Cass_27435_2024.md` |
 | n. 26919/2024 | sentenza | Quinta | Delitti contro la persona | dep. 2024-07-08 | `2024/Cass_26919_2024.md` |
+| n. 25401/2024 | sentenza | Quarta | Intercettazioni telefoniche | dep. 2024-06-27 | `2024/Cass_25401_2024.md` |
 | R.G. 35543/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-06-27 | `2023/QSP_35543_2023.md` |
 | R.G. 35719/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-06-27 | `2023/QSP_35719_2023.md` |
-| n. 25401/2024 | sentenza | Quarta | Intercettazioni telefoniche | dep. 2024-06-27 | `2024/Cass_25401_2024.md` |
 | n. 24901/2024 | sentenza | Seconda | Delitti contro l'ordine pubblico | dep. 2024-06-24 | `2024/Cass_24901_2024.md` |
 | n. 23755/2024 | sentenza | Sezioni Unite | Rapporti giurisdizionali con autorità straniere | dep. 2024-06-14 | `2024/SU_23755_2024.md` |
 | n. 23756/2024 | sentenza | Sezioni Unite | Rapporti giurisdizionali con autorità straniere | dep. 2024-06-14 | `2024/SU_23756_2024.md` |
 | n. 23639/2024 | sentenza | Sesta | Giudice (atti e provvedimenti) | dep. 2024-06-12 | `2024/Cass_23639_2024.md` |
 | n. 23296/2024 | sentenza | Sesta | Mandato d'arresto europeo | dep. 2024-06-10 | `2024/Cass_23296_2024.md` |
 | n. 22854/2024 | sentenza | Quarta | Patrocinio dei non abbienti | dep. 2024-06-06 | `2024/Cass_22854_2024.md` |
-| R.G. 26680/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-05-30 | `2023/QSP_26680_2023.md` |
 | n. 21603/2024 | sentenza | Prima | Reato | dep. 2024-05-30 | `2024/Cass_21603_2024.md` |
 | n. 21955/2024 | sentenza | Sesta | Estradizione per l'estero | dep. 2024-05-30 | `2024/Cass_21955_2024.md` |
+| R.G. 26680/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-05-30 | `2023/QSP_26680_2023.md` |
 | n. 21104/2024 | sentenza | Sesta | Reati contro la Pubblica Amministrazione | dep. 2024-05-29 | `2024/Cass_21104_2024.md` |
 | n. 21177/2024 | sentenza | Quinta | Patteggiamento | dep. 2024-05-29 | `2024/Cass_21177_2024.md` |
 | n. 21005/2024 | sentenza | Quinta | Impugnazioni | dep. 2024-05-28 | `2024/Cass_21005_2024.md` |
@@ -820,17 +822,17 @@
 | n. 17316/2024 | sentenza | Sesta | Estradizione per l'estero | dep. 2024-04-24 | `2024/Cass_17316_2024.md` |
 | n. 16659/2024 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2024-04-19 | `2024/Cass_16659_2024.md` |
 | n. 16403/2024 | sentenza | Sezioni Unite | Patteggiamento | dep. 2024-04-19 | `2024/SU_16403_2024.md` |
-| R.G. 15760/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-04-18 | `2023/QSP_15760_2023.md` |
 | n. 16327/2024 | sentenza | Prima | Esecuzione e ordinamento penitenziario | dep. 2024-04-18 | `2024/Cass_16327_2024.md` |
+| R.G. 15760/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-04-18 | `2023/QSP_15760_2023.md` |
 | n. 16153/2024 | sentenza | Sezioni Unite | Leggi penali speciali (altre) | dep. 2024-04-17 | `2024/SU_16153_2024.md` |
 | n. 15403/2024 | sentenza | Sezioni Unite | Impugnazioni | dep. 2024-04-12 | `2024/SU_15403_2024.md` |
 | n. 15069/2024 | sentenza | Sezioni Unite | Misure cautelari | dep. 2024-04-11 | `2024/SU_15069_2024.md` |
 | n. 14657/2024 | sentenza | Seconda | Misure cautelari | dep. 2024-04-09 | `2024/Cass_14657_2024.md` |
 | n. 13326/2024 | sentenza | Prima | Armi | dep. 2024-04-02 | `2024/Cass_13326_2024.md` |
-| R.G. 26583/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-03-28 | `2023/QSP_26583_2023.md` |
-| R.G. 78/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-03-28 | `2023/QSP_78_2023.md` |
 | n. 13016/2024 | sentenza | Quinta | Reati fallimentari | dep. 2024-03-28 | `2024/Cass_13016_2024.md` |
 | n. 12759/2024 | sentenza | Sezioni Unite | Competenza | dep. 2024-03-28 | `2024/SU_12759_2024.md` |
+| R.G. 26583/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-03-28 | `2023/QSP_26583_2023.md` |
+| R.G. 78/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-03-28 | `2023/QSP_78_2023.md` |
 | n. 11726/2024 | sentenza | Sesta | Impugnazioni | dep. 2024-03-20 | `2024/Cass_11726_2024.md` |
 | R.G. 33544/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-02-29 | `2023/QSP_33544_2023.md` |
 | R.G. 41618/2023 | questione SU (decisa) | Sezioni Unite | — | ud. 2024-02-29 | `2023/QSP_41618_2023.md` |

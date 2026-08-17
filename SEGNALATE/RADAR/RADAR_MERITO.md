@@ -8,6 +8,15 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-08-17
+
+- **2026-08-12** · Giurisprudenza Penale — [Estradizione verso gli Stati Uniti (caso Lee Gilley): l’ordinanza con cui la Corte di Appello di Torino ha chiesto rassicurazioni](https://www.giurisprudenzapenale.com/2026/08/12/estradizione-verso-gli-stati-uniti-caso-lee-gilley-lordinanza-con-cui-la-corte-di-appello-di-torino-ha-chiesto-rassicurazioni/)
+- **2024-10-07** · Giustizia Insieme · Giustizia e pene — [Il principio di non discriminazione tra i sessi e norme e tutela della maternità e della prole nell’ambito dell’esecuzione penale](https://www.giustiziainsieme.it/articolo/3263-il-principio-di-non-discriminazione-tra-i-sessi-e.php)
+- **2024-09-06** · Giustizia Insieme · Giustizia e pene — [La conversione in legge 112/2024 delle misure (anche) in materia penitenziaria del d.l. 92/2024](https://www.giustiziainsieme.it/articolo/3238-la-conversione-in-legge-1122024-delle-misure-anche-in-materia-penitenziaria-del-dl-922024.php)
+- **2024-07-10** · Giustizia Insieme · Giustizia e pene — [Osservazioni sugli interventi in materia di Liberazione anticipata e misure in materia penitenziaria di cui al Decreto legge n. 92 del 4 luglio 2024](https://www.giustiziainsieme.it/articolo/3204-osservazioni-sugli-interventi-in-materia-di-libera.php)
+- **2024-07-09** · Giustizia Insieme · Giustizia e pene — [D.L. 92/2024 “Carcere Sicuro”, note sparse ad una prima lettura](https://www.giustiziainsieme.it/articolo/3200-dl-922024-carcere-sicuro-note-sparse-ad-una-prima-lettura.php)
+- **2023-06-20** · Giustizia Insieme · Cartabia penale — [In difesa della riforma Cartabia](https://www.giustiziainsieme.it/articolo/2806-in-difesa-della-riforma-cartabia.php)
+
 ## Aggiornamento del 2026-08-10
 
 - **2026-08-06** · Penale Diritto e Procedura — [I pericoli di un giudizio fuori dal processo. Il giudizio mediatico come sistema alternativo di accertamento della responsabilità](https://www.penaledp.it/i-pericoli-di-un-giudizio-fuori-dal-processo-il-giudizio-mediatico-come-sistema-alternativo-di-accertamento-della-responsabilita/?utm_source=rss&utm_medium=rss&utm_campaign=i-pericoli-di-un-giudizio-fuori-dal-processo-il-giudizio-mediatico-come-sistema-alternativo-di-accertamento-della-responsabilita)
