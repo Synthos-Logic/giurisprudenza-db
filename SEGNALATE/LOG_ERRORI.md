@@ -19,3 +19,7 @@
 - 2026-08-17 07:16 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto
 
 - 2026-08-17 07:22 UTC — [radar] La Legislazione Penale: HTTPSConnectionPool(host='www.lalegislazionepenale.eu', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.lalegislazionepenale.eu', port=443) at 0x7fc6756e50d0>, 'Connection to www.lalegislazionepenale.eu timed out. (connect timeout=60)'))
+
+- 2026-08-24 07:20 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto
+
+- 2026-08-24 07:24 UTC — [radar] DisCrimen: HTTPSConnectionPool(host='discrimen.it', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'discrimen.it'. (_ssl.c:1010)")))

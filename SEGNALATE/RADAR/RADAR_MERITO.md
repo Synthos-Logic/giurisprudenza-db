@@ -8,6 +8,24 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-08-24
+
+- **2023-05-02** · Giustizia Insieme · Cartabia penale — [La legge “Cartabia” tra pene sostitutive e sorveglianza](https://www.giustiziainsieme.it/articolo/2741-la-legge-cartabia-tra-pene-sostitutive-e-sorveglianza.php)
+- **2023-04-14** · Giustizia Insieme · Cartabia penale — [La nuova disciplina dell’esecuzione della pena pecuniaria](https://www.giustiziainsieme.it/articolo/2711-la-nuova-disciplina-dell-esecuzione-della-pena-pecuniaria.php)
+- **2023-03-23** · Giustizia Insieme · Cartabia penale — [Nessuna restituzione in termini per il nuovo abbreviato](https://www.giustiziainsieme.it/articolo/2708-nessuna-restituzione-in-termini-per-il-nuovo-abbreviato.php)
+- **2023-02-28** · Giustizia Insieme · Cartabia penale — [L’imputato del giusto processo](https://www.giustiziainsieme.it/articolo/2664-l-imputato-del-giusto-processo.php)
+- **2023-02-27** · Giustizia Insieme · Cartabia penale — [Interrogando ChatGPT sulla nuova disciplina del 425 c.p.p.](https://www.giustiziainsieme.it/articolo/2635-interrogando-chatgpt-sulla-nuova-disciplina-del-425-cpp.php)
+- **2023-02-20** · Giustizia Insieme · Cartabia penale — [Prime riflessioni sulla nuova “revisione europea”](https://www.giustiziainsieme.it/articolo/2652-prime-riflessioni-sulla-nuova-revisione-europea.php)
+- **2023-02-14** · Giustizia Insieme · Cartabia penale — [Acquiescenza alla condanna nel giudizio abbreviato e riconoscimento della riduzione di un sesto della pena](https://www.giustiziainsieme.it/articolo/2643-acquiescenza-alla-condanna-nel-giudizio-abbreviato-e-riconoscimento-della-riduzione-di-un-sesto-della-pena.php)
+- **2023-02-07** · Giustizia Insieme · Cartabia penale — [Riforma Cartabia e pene sostitutive: la rottura “definitiva” della sequenza cognizione-esecuzione](https://www.giustiziainsieme.it/articolo/2639-riforma-cartabia-e-pene-sostitutive-la-rottura-definitiva-della-sequenza-cognizione-esecuzione.php)
+- **2023-01-31** · Giustizia Insieme · Cartabia penale — [Le notificazioni dopo la Riforma Cartabia o “Come l’eroe tecnologico fu sconfitto dal temibile Mostro verde”](https://www.giustiziainsieme.it/articolo/2604-le-notificazioni-dopo-la-riforma-cartabia-o-come-l-eroe-tecnologico-fu-sconfitto-dal-temibile-mostro-verde.php)
+- **2023-01-19** · Giustizia Insieme · Cartabia penale — [La giustizia riparativa. L’impatto della riforma Cartabia sui Tribunali](https://www.giustiziainsieme.it/articolo/2618-la-giustizia-riparativa-l-impatto-della-riforma-cartabia-sui-tribunali.php)
+- **2023-01-13** · Giustizia Insieme · Cartabia penale — [Pensieri sparsi sul nuovo giudizio penale di appello (ex d.lgs. 150/2022)](https://www.giustiziainsieme.it/articolo/2603-pensieri-sparsi-sul-nuovo-giudizio-penale-di-appello-ex-dlgs-1502022.php)
+- **2023-01-09** · Giustizia Insieme · Cartabia penale — [Un filtro più potente precede un bivio più netto: nuove possibili prospettive di equilibrio tra udienza preliminare, riti speciali e giudizio nel quadro della riforma Cartabia](https://www.giustiziainsieme.it/articolo/2598-un-filtro-piu-potente-precede-un-bivio-piu-netto-n.php)
+- **2022-12-14** · Giustizia Insieme · Cartabia penale — [Scheda n. 17 - Le impugnazioni](https://www.giustiziainsieme.it/articolo/2580-scheda-n-17--le-impugnazioni.php)
+- **2022-12-02** · Giustizia Insieme · Cartabia penale — [Scheda n. 11 - La sospensione del procedimento con messa alla prova](https://www.giustiziainsieme.it/articolo/2560-scheda-n-11-la-sospensione-del-procedimento-con-messa-alla-prova)
+- **2022-12-02** · Giustizia Insieme · Cartabia penale — [Scheda n. 12 - Il processo in assenza dell’imputato (artt. 420, 420 bis, 420 ter, 484 e 489 c.p.p.)](https://www.giustiziainsieme.it/articolo/2561-scheda-n-12-il-processo-in-assenza-dell-imputato-artt-420-420-bis-420-ter-484-e-489-c-p-p)
+
 ## Aggiornamento del 2026-08-17
 
 - **2026-08-12** · Giurisprudenza Penale — [Estradizione verso gli Stati Uniti (caso Lee Gilley): l’ordinanza con cui la Corte di Appello di Torino ha chiesto rassicurazioni](https://www.giurisprudenzapenale.com/2026/08/12/estradizione-verso-gli-stati-uniti-caso-lee-gilley-lordinanza-con-cui-la-corte-di-appello-di-torino-ha-chiesto-rassicurazioni/)

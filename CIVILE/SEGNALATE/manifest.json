@@ -1,12 +1,13 @@
 {
   "schema": "giurisprudenza-db/civile/1",
-  "generato_il": "2026-08-17",
+  "generato_il": "2026-08-24",
   "tipo_fonte": "massimario-segnalate",
-  "totale_schede": 298,
+  "totale_schede": 299,
   "collezioni": {
     "2026": {
-      "schede": 53,
+      "schede": 54,
       "files": [
+        "2026/SU_24699_2026.md",
         "2026/SU_24599_2026.md",
         "2026/Cass_24491_2026.md",
         "2026/Cass_24317_2026.md",

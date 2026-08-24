@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-08-17 · Schede: 310 (254 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-08-24 · Schede: 311 (255 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -78,6 +78,7 @@
 
 ### Delitti contro la persona
 
+- **Cass. Sez. V n. 31583/2026** · dep. 2026-08-19 → [scheda](2026/Cass_31583_2026.md)
 - **Cass. Sez. III n. 16564/2026** · dep. 2026-05-08 → [scheda](2026/Cass_16564_2026.md)
 - **Cass. Sez. VI n. 14882/2026** · dep. 2026-04-24 → [scheda](2026/Cass_14882_2026.md)
 - **Cass. Sez. V n. 41956/2024** · dep. 2024-11-14 → [scheda](2024/Cass_41956_2024.md)
@@ -535,6 +536,7 @@
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
 | R.G. 9916/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
 | R.G. 6868/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-09-24 | `2026/QSP_6868_2026.md` |
+| n. 31583/2026 | sentenza | Quinta | Delitti contro la persona | dep. 2026-08-19 | `2026/Cass_31583_2026.md` |
 | n. 31016/2026 | sentenza | Quarta | Procedimenti speciali | dep. 2026-08-12 | `2026/Cass_31016_2026.md` |
 | n. 28466/2026 | sentenza | Terza | Lavoro (diritto penale) | dep. 2026-07-31 | `2026/Cass_28466_2026.md` |
 | n. 29131/2026 | sentenza | Sesta | Prove | dep. 2026-07-31 | `2026/Cass_29131_2026.md` |

@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-08-17 · Schede: 298 (297 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-08-24 · Schede: 299 (298 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -494,6 +494,7 @@
 
 ### Spese giudiziali civili
 
+- **Cass. SU n. 24699/2026** · dep. 2026-08-18 → [scheda](2026/SU_24699_2026.md)
 - **Cass. SU n. 11417/2026** · dep. 2026-04-27 → [scheda](2026/SU_11417_2026.md)
 - **Cass. Sez. II n. 20929/2025** · dep. 2025-07-23 → [scheda](2025/Cass_20929_2025.md)
 - **Cass. SU n. 20805/2025** · dep. 2025-07-23 → [scheda](2025/SU_20805_2025.md)
@@ -553,6 +554,7 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 24699/2026 | ordinanza | Sezioni Unite | Spese giudiziali civili | dep. 2026-08-18 | `2026/SU_24699_2026.md` |
 | n. 24599/2026 | sentenza | Sezioni Unite | Prescrizione e decadenza | dep. 2026-08-10 | `2026/SU_24599_2026.md` |
 | n. 24491/2026 | ordinanza | Seconda | Successioni | dep. 2026-08-05 | `2026/Cass_24491_2026.md` |
 | n. 24317/2026 | ordinanza-interlocutoria | Quarta | Impiego pubblico | dep. 2026-07-31 | `2026/Cass_24317_2026.md` |
