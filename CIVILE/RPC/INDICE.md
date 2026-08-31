@@ -1,6 +1,6 @@
 # INDICE — Rinvii pregiudiziali ex art. 363-bis c.p.c.
 
-> Ultimo aggiornamento: 2026-08-24 · Schede: 103
+> Ultimo aggiornamento: 2026-08-31 · Schede: 106
 > Fonte: pagina "Rinvii pregiudiziali" del sito della Corte Suprema di Cassazione.
 >
 > ⚠️ Sono questioni **pendenti**: non si citano come precedente. Servono a segnalare
@@ -8,6 +8,9 @@
 
 | Rinvio | Ordinanza | Ufficio remittente | Materia | Scheda |
 |---|---|---|---|---|
+| n. 9682/2026 | 2026-08-25 | Tribunale di Napoli | Mutuo | `2026/RPC_9682_2026.md` |
+| n. 19/2026 | 2026-08-21 | Tribunale di Viterbo | Controversie agrarie | `2026/RPC_19_2026.md` |
+| n. 20/2026 | 2026-08-21 | Tribunale di Viterbo | Controversie agrarie | `2026/RPC_20_2026.md` |
 | n. 18/2026 | 2026-07-30 | Tribunale di Viterbo | Controversie agrarie | `2026/RPC_18_2026.md` |
 | n. 167/2026 | 2026-06-19 | Corte di Giustizia Tributaria di 1° grado di Savona | Tributi | `2026/RPC_167_2026.md` |
 | n. 50/2026 | 2026-06-03 | Corte dei Conti - Sezione giurisdizionale Campania | Indebita percezione reddito di cittadinanza - Giurisdizione | `2026/RPC_50_2026.md` |
@@ -170,6 +173,8 @@
 
 ### Controversie agrarie
 
+- **n. 19/2026** · ord. 2026-08-21 · Tribunale di Viterbo → [scheda](2026/RPC_19_2026.md)
+- **n. 20/2026** · ord. 2026-08-21 · Tribunale di Viterbo → [scheda](2026/RPC_20_2026.md)
 - **n. 18/2026** · ord. 2026-07-30 · Tribunale di Viterbo → [scheda](2026/RPC_18_2026.md)
 
 ### Divisione
@@ -240,6 +245,7 @@
 
 ### Mutuo
 
+- **n. 9682/2026** · ord. 2026-08-25 · Tribunale di Napoli → [scheda](2026/RPC_9682_2026.md)
 - **n. 1237/2024** · ord. 2024-07-17 · Corte di Appello di Firenze → [scheda](2024/RPC_1237_2024.md)
 - **n. 9585/2023** · ord. 2023-07-19 · Tribunale di Salerno → [scheda](2023/RPC_9585_2023.md)
 

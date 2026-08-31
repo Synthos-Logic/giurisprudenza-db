@@ -1,12 +1,15 @@
 {
   "schema": "giurisprudenza-db/rpc/1",
-  "generato_il": "2026-08-24",
+  "generato_il": "2026-08-31",
   "tipo_fonte": "rinvio-pregiudiziale",
-  "totale_schede": 103,
+  "totale_schede": 106,
   "collezioni": {
     "2026": {
-      "schede": 10,
+      "schede": 13,
       "files": [
+        "2026/RPC_9682_2026.md",
+        "2026/RPC_19_2026.md",
+        "2026/RPC_20_2026.md",
         "2026/RPC_18_2026.md",
         "2026/RPC_167_2026.md",
         "2026/RPC_50_2026.md",

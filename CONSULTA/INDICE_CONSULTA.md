@@ -1,6 +1,6 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-08-24 · Schede: 22389 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-08-31 · Schede: 22389 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
@@ -25,7 +25,7 @@
 - **Sent. n. 138/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_138_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 4-bis, comma 2, lettera a), della 
 - **Sent. n. 137/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_137_2026.md) — 1) dichiara inammissibile la questione di legittimità costituzionale dell'art. 1, comma 812, lettera a), numer
 - **Sent. n. 136/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_136_2026.md) — dichiara non fondata la questione di legittimità costituzionale dell'art. 585, comma 1-bis, del codice di proc
-- **Sent. n. 135/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_135_2026.md) — 1) dichiara la manifesta infondatezza delle questioni di legittimità costituzionale dell'art. 37 del decreto-l
+- **Sent. n. 135/2026** · dep. 2026-07-21 · massime: 2 → [scheda](2026/S_135_2026.md) — 1) dichiara la manifesta infondatezza delle questioni di legittimità costituzionale dell'art. 37 del decreto-l
 - **Sent. n. 134/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_134_2026.md) — Dichiara non fondata la questione di legittimità costituzionale dell'art. 297, secondo comma, del codice civil
 - **Sent. n. 133/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_133_2026.md) — dichiara l'illegittimità costituzionale dell'art. 23, comma 1, del decreto legislativo 12 novembre 2020, n. 16
 - **Sent. n. 132/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_132_2026.md) — dichiara l'illegittimità costituzionale dell'art. 37 del codice di procedura penale, nella parte in cui non pr

@@ -8,6 +8,12 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-08-31
+
+- **2026-08-31** · Diritto di Difesa (UCPI) — [NOTA DI COMMENTO IN MERITO ALLE RECENTI DISPOSIZIONI IN MATERIA DI DETENZIONE DOMICILIARE PER IL RECUPERO DEI DETENUTI TOSSICODIPENDENTI O ALCOLDIPENDENTI – DI GIAN LUCA MALAVASI](https://dirittodidifesa.eu/nota-di-commento-in-merito-alle-recenti-disposizioni-in-materia-di-detenzione-domiciliare-per-il-recupero-dei-detenuti-tossicodipendenti-o-alcoldipendenti-di-gianluca-malavasi/)
+- **2026-08-26** · Penale Diritto e Procedura — [Tenuità del fatto, statuizioni civili e asimmetrie difensive](https://www.penaledp.it/tenuita-del-fatto-statuizioni-civili-e-asimmetrie-difensive/?utm_source=rss&utm_medium=rss&utm_campaign=tenuita-del-fatto-statuizioni-civili-e-asimmetrie-difensive)
+- **2026-08-24** · DisCrimen — [Il paradigma riparativo nel prisma della finalità rieducativa delle pene](https://discrimen.it/il-paradigma-riparativo-nel-prisma-della-finalita-rieducativa-delle-pene/)
+
 ## Aggiornamento del 2026-08-24
 
 - **2023-05-02** · Giustizia Insieme · Cartabia penale — [La legge “Cartabia” tra pene sostitutive e sorveglianza](https://www.giustiziainsieme.it/articolo/2741-la-legge-cartabia-tra-pene-sostitutive-e-sorveglianza.php)

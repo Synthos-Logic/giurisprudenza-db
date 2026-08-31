@@ -1,6 +1,6 @@
 # RADAR CIVILE — segnalazioni dalle riviste giuridiche
 
-> Aggiornato il 2026-08-24 · fonti interrogate: 5 · voci nuove in questa esecuzione: 20
+> Aggiornato il 2026-08-31 · fonti interrogate: 5 · voci nuove in questa esecuzione: 19
 >
 > **A che cosa serve.** A sapere di che cosa si discute: dottrina, commenti a sentenza,
 > note a prima lettura. Sono **solo segnalazioni**: titolo, data e link alla fonte.
@@ -18,29 +18,28 @@
 
 ## Diritto Bancario _(bancario e finanziario)_
 
-- **Operazioni di concentrazione fra imprese e poteri di controllo della Commissione UE** · Fri, 21 Aug 2026 → [apri](https://www.dirittobancario.it/art/operazioni-di-concentrazione-fra-imprese-e-poteri-di-controllo-della-commissione-ue/)
-- **Effetti del sequestro di azioni ai fini dell’IVA di gruppo** · Fri, 21 Aug 2026 → [apri](https://www.dirittobancario.it/art/effetti-del-sequestro-di-azioni-ai-fini-delliva-di-gruppo/)
-- **Fideiussione, clausole abusive e controllo del giudice dell’esecuzione** · Fri, 21 Aug 2026 → [apri](https://www.dirittobancario.it/art/fideiussione-clausole-abusive-e-controllo-del-giudice-dellesecuzione/)
-- **Chiusura forzosa del conto corrente e buona fede** · Fri, 21 Aug 2026 → [apri](https://www.dirittobancario.it/art/chiusura-forzosa-del-conto-corrente-e-buona-fede/)
-- **Il Consiglio di Stato estende all’INL la verifica sostanziale delle retribuzioni** · Fri, 21 Aug 2026 → [apri](https://www.dirittobancario.it/art/il-consiglio-di-stato-estende-allinl-la-verifica-sostanziale-delle-retribuzioni/)
-- **ACN sulle minacce cyber in Italia a luglio 2026** · Fri, 21 Aug 2026 → [apri](https://www.dirittobancario.it/art/acn-sulle-minacce-cyber-in-italia-a-luglio-2026/)
-- **Sul conferimento del socio in conto futuro aumento di capitale** · Thu, 20 Aug 2026 → [apri](https://www.dirittobancario.it/art/sul-conferimento-del-socio-in-conto-futuro-aumento-di-capitale/)
-- **Banca d’Italia sull’influenza del private equity nelle imprese UE** · Thu, 20 Aug 2026 → [apri](https://www.dirittobancario.it/art/banca-ditalia-sullinfluenza-del-private-equity-nelle-imprese-ue/)
-- **Ammissione di responsabilità e decadenza dall’indennizzo assicurativo** · Thu, 20 Aug 2026 → [apri](https://www.dirittobancario.it/art/ammissione-di-responsabilita-e-decadenza-dallindennizzo-assicurativo/)
-- **Frode nei pagamenti e responsabilità concorrente dell’intermediario** · Thu, 20 Aug 2026 → [apri](https://www.dirittobancario.it/art/frode-nei-pagamenti-e-responsabilita-concorrente-dellintermediario/)
+- **Controlli su conto corrente: invalidità dell’accertamento fiscale** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/controlli-su-conto-corrente-invalidita-dellaccertamento-fiscale/)
+- **Rischi cat-nat e diffusione polizze assicurative** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/rischi-cat-nat-e-diffusione-polizze-assicurative/)
+- **Recesso della banca dal conto corrente e motivazione** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/recesso-della-banca-dal-conto-corrente-e-motivazione/)
+- **Prelazione del creditore pignoratizio e identificabilità del credito** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/prelazione-del-creditore-pignoratizio-e-identificabilita-del-credito/)
+- **Legge Foti, colpa grave e giurisdizione della Corte dei Conti** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/legge-foti-colpa-grave-e-giurisdizione-della-corte-dei-conti/)
+- **Rischi informatici: il FSB sull’impatto dell’IA più avanzata** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/rischi-informatici-il-fsb-sullimpatto-dellia-piu-avanzata/)
+- **Nullità fideiussioni da modello ABI: le Sezioni Unite chiariscono i limiti** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/nullita-fideiussioni-da-modello-abi-le-sezioni-unite-chiariscono-i-limiti/)
+- **Destinazione dei proventi: applicazione ai prodotti bancari e finanziari** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/destinazione-dei-proventi-applicazione-ai-prodotti-bancari-e-finanziari/)
+- **Dati bancari del contribuente inutilizzabili senza autorizzazione motivata** · Fri, 28 Aug 2026 → [apri](https://www.dirittobancario.it/art/dati-bancari-del-contribuente-inutilizzabili-senza-autorizzazione-motivata/)
 
 ## Diritto.it _(generalista)_
 
-- **Rapporti tra nonni e nipoti minorenni: i confini del ricorso per cassazione e nomina del curatore speciale** · Mon, 24 Aug 2026 → [apri](https://www.diritto.it/rapporti-nonni-nipoti-quando-ricorrere-cassazione/)
-- **Dolori al petto ma codice verde al Pronto Soccorso: l’errore di triage costa il 35% di chance di sopravvivenza** · Fri, 21 Aug 2026 → [apri](https://www.diritto.it/errore-triage-pronto-soccorso-responsabilita/)
-- **Viareggio, 15 anni dopo la strage: perché la Cassazione è intervenuta ancora sulle condanne** · Fri, 21 Aug 2026 → [apri](https://www.diritto.it/strage-di-viareggio-la-cassazione-calcolo-pena/)
-- **Usa i soldi della società per sé o la famiglia: per la Cassazione è bancarotta fraudolenta** · Fri, 21 Aug 2026 → [apri](https://www.diritto.it/bancarotta-fraudolenta-spese-personali-amministra/)
-- **Contrae un’infezione in ospedale, ma la struttura non risponde: decisiva la prova dei protocolli applicati** · Thu, 20 Aug 2026 → [apri](https://www.diritto.it/infezioni-nosocomiali-quando-ospedale-non-risponde/)
-- **Bancarotta fraudolenta, la Cassazione cambia prospettiva: la distrazione da sola non basta** · Thu, 20 Aug 2026 → [apri](https://www.diritto.it/bancarotta-fraudolenta-distrazione-pericolo-credito/)
-- **Lesione al nervo dopo l’intervento: la check-list non basta a escludere la responsabilità dell’ospedale** · Wed, 19 Aug 2026 → [apri](https://www.diritto.it/lesione-nervo-sala-operatoria-responsabile-ospedale/)
-- **Strage di Bologna, 45 anni dopo: confermato l’ultimo ergastolo** · Wed, 19 Aug 2026 → [apri](https://www.diritto.it/strage-di-bologna-la-cassazione-conferma-ergastolo/)
-- **Sequestro di denaro, patrimonio insufficiente? Per la Cassazione non basta** · Wed, 19 Aug 2026 → [apri](https://www.diritto.it/sequestro-preventivo-patrimonio-insufficiente/)
-- **Infezione dopo l’intervento e terapia iniziata in ritardo: struttura e medico condannati** · Tue, 18 Aug 2026 → [apri](https://www.diritto.it/infezione-post-operatoria-responsabilita-medico/)
+- **Bilanci bancari, dal 2027 cambia tutto: cosa devono sapere avvocati e consulenti** · Mon, 31 Aug 2026 → [apri](https://www.diritto.it/bilanci-bancari-2027-le-novita-avvocati-consulenti/)
+- **Fideiussioni bancarie, le Sezioni Unite mettono un limite alla nullità delle clausole ABI** · Mon, 31 Aug 2026 → [apri](https://www.diritto.it/fideiussioni-abi-sezioni-unite-quando-nullita/)
+- **Ex Ilva, nuove garanzie ambientali: cosa cambia con il DL 154/2026** · Mon, 31 Aug 2026 → [apri](https://www.diritto.it/dl-154-2026-garanzie-ambientali-impianti-strategici/)
+- **Meta paga miliardi negli USA, ma il vero caso è un altro: cosa cambia per privacy e algoritmi in Europa** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/caso-meta-privacy-minori-e-algoritmi-tra-usa-e-ue/)
+- **Avvocato non paga la segretaria per 21 mesi e invia contabili di bonifici mai eseguiti: sospeso** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/avvocato-non-paga-21-stipendi-segretaria-stop-mesi/)
+- **La struttura paga 100mila euro e chiede il rimborso al medico: perché la rivalsa viene bocciata** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/rivalsa-sanitaria-niente-azione-senza-avviso-medico/)
+- **Violenza sessuale, la vita privata della vittima può metterne in dubbio la credibilità? La Cassazione fa chiarezza** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/violenza-sessuale-costumi-vittima-sono-irrilevanti/)
+- **Immobile abusivo nell’eredità: la Cassazione chiarisce cosa possono fare gli eredi** · Thu, 27 Aug 2026 → [apri](https://www.diritto.it/immobile-abusivo-in-eredita-cosa-succede-divisione/)
+- **Giustizia tributaria, cambia lo statuto dei magistrati: ruolo unico, incompatibilità e sanzioni dal 26 agosto** · Thu, 27 Aug 2026 → [apri](https://www.diritto.it/giustizia-tributaria-novita-d-lgs-n-149-2026/)
+- **Infezione fatale dopo il ricovero: la struttura risponde anche se il contagio è avvenuto altrove** · Thu, 27 Aug 2026 → [apri](https://www.diritto.it/infezione-ospedaliera-risponde-seconda-struttura/)
 
 ## Ius in Itinere _(generalista)_
 
