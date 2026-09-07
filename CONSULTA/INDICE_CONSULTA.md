@@ -1,6 +1,6 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-08-31 · Schede: 22389 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-09-07 · Schede: 22389 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
@@ -32,7 +32,7 @@
 - **Ord. n. 131/2026** · dep. 2026-07-17 · massime: 0 → [scheda](2026/O_131_2026.md) — dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 9, comma 1, del 
 - **Sent. n. 130/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_130_2026.md) — 1) dichiara non fondata la questione di legittimità costituzionale dell'art. 2 del decreto legislativo 10 otto
 - **Sent. n. 129/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_129_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 11 del decreto-legge 11 giugno 202
-- **Sent. n. 128/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_128_2026.md) — dichiara non fondata la questione di legittimità costituzionale dell'art. 89, secondo comma, secondo periodo, 
+- **Sent. n. 128/2026** · dep. 2026-07-16 · massime: 2 → [scheda](2026/S_128_2026.md) — dichiara non fondata la questione di legittimità costituzionale dell'art. 89, secondo comma, secondo periodo, 
 - **Sent. n. 127/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_127_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 5, commi 1 e 2, del decreto-legge 15
 - **Sent. n. 126/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_126_2026.md) — dichiara l'illegittimità costituzionale dell'art. 104-bis, comma 1-bis, secondo periodo, del decreto legislati
 - **Sent. n. 125/2026** · dep. 2026-07-14 · massime: 0 → [scheda](2026/S_125_2026.md) — dichiara l'illegittimità costituzionale dell'art. 509, comma 3, del decreto legislativo 16 aprile 1994, n. 297
@@ -58,7 +58,7 @@
 - **Ord. n. 105/2026** · dep. 2026-06-11 · massime: 0 → [scheda](2026/O_105_2026.md) — dichiara la manifesta infondatezza delle questioni di legittimità costituzionale dell'art. 624-bis, primo comm
 - **Ord. n. 104/2026** · dep. 2026-06-11 · massime: 0 → [scheda](2026/O_104_2026.md) — ordina la restituzione degli atti ai giudici rimettenti.
 - **Sent. n. 103/2026** · dep. 2026-06-11 · massime: 0 → [scheda](2026/S_103_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 22-bis del decreto-legge 12 settembr
-- **Ord. n. 102/2026** · dep. 2026-06-09 · massime: 0 → [scheda](2026/O_102_2026.md) — 1) dichiara inammissibili gli interventi spiegati dalla Confederazione degli Italiani nel mondo nei giudizi is
+- **Ord. n. 102/2026** · dep. 2026-06-09 · massime: 4 → [scheda](2026/O_102_2026.md) — 1) dichiara inammissibili gli interventi spiegati dalla Confederazione degli Italiani nel mondo nei giudizi is
 - **Ord. n. 101/2026** · dep. 2026-06-09 · massime: 0 → [scheda](2026/O_101_2026.md) — 1) dichiara ammissibili gli interventi spiegati da R. F.; da R. E., P. F., R. I., D. M., L. M., A. P., M.L. R.
 - **Sent. n. 100/2026** · dep. 2026-06-09 · massime: 11 → [scheda](2026/S_100_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 28 della legge della Regione Sardegna 17 giugno 2025, n. 
 - **Ord. n. 99/2026** · dep. 2026-06-08 · massime: 0 → [scheda](2026/O_99_2026.md) — dichiara ammissibile l'intervento di Alex Marini.

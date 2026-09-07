@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-08-31 · Schede: 301 (300 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-09-07 · Schede: 302 (301 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -262,6 +262,7 @@
 
 ### Iva
 
+- **Cass. Sez. V n. 24935/2026** · dep. 2026-09-02 → [scheda](2026/Cass_24935_2026.md)
 - **Cass. SU n. 18284/2024** · dep. 2024-07-04 → [scheda](2024/SU_18284_2024.md)
 - **Cass. SU n. 13162/2024** · dep. 2024-05-14 → [scheda](2024/SU_13162_2024.md)
 
@@ -562,6 +563,7 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 24935/2026 | ordinanza-interlocutoria | Quinta | Iva | dep. 2026-09-02 | `2026/Cass_24935_2026.md` |
 | n. 24845/2026 | ordinanza | Sezioni Unite | Espropriazione presso terzi | dep. 2026-08-29 | `2026/SU_24845_2026.md` |
 | n. 24825/2026 | sentenza | Sezioni Unite | Banche | dep. 2026-08-28 | `2026/SU_24825_2026.md` |
 | n. 24699/2026 | ordinanza | Sezioni Unite | Spese giudiziali civili | dep. 2026-08-18 | `2026/SU_24699_2026.md` |

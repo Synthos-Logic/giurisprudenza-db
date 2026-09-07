@@ -25,3 +25,5 @@
 - 2026-08-24 07:24 UTC — [radar] DisCrimen: HTTPSConnectionPool(host='discrimen.it', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'discrimen.it'. (_ssl.c:1010)")))
 
 - 2026-08-31 13:50 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto
+
+- 2026-09-07 12:33 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto

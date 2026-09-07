@@ -1,6 +1,6 @@
 # RADAR CIVILE — segnalazioni dalle riviste giuridiche
 
-> Aggiornato il 2026-08-31 · fonti interrogate: 5 · voci nuove in questa esecuzione: 19
+> Aggiornato il 2026-09-07 · fonti interrogate: 5 · voci nuove in questa esecuzione: 21
 >
 > **A che cosa serve.** A sapere di che cosa si discute: dottrina, commenti a sentenza,
 > note a prima lettura. Sono **solo segnalazioni**: titolo, data e link alla fonte.
@@ -14,32 +14,33 @@
 
 ## Il Diritto Processuale Civile _(processo civile)_
 
-*Nessuna voce nuova.*
+- **L’udienza c.d. cartolare e la dichiarazione dell’evento interruttivo  nelle note di trattazione scritta** · Wed, 02 Sep 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/09/02/ludienza-c-d-cartolare-e-la-dichiarazione-dellevento-interruttivo-nelle-note-di-trattazione-scritta/)
 
 ## Diritto Bancario _(bancario e finanziario)_
 
-- **Controlli su conto corrente: invalidità dell’accertamento fiscale** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/controlli-su-conto-corrente-invalidita-dellaccertamento-fiscale/)
-- **Rischi cat-nat e diffusione polizze assicurative** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/rischi-cat-nat-e-diffusione-polizze-assicurative/)
-- **Recesso della banca dal conto corrente e motivazione** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/recesso-della-banca-dal-conto-corrente-e-motivazione/)
-- **Prelazione del creditore pignoratizio e identificabilità del credito** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/prelazione-del-creditore-pignoratizio-e-identificabilita-del-credito/)
-- **Legge Foti, colpa grave e giurisdizione della Corte dei Conti** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/legge-foti-colpa-grave-e-giurisdizione-della-corte-dei-conti/)
-- **Rischi informatici: il FSB sull’impatto dell’IA più avanzata** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/rischi-informatici-il-fsb-sullimpatto-dellia-piu-avanzata/)
-- **Nullità fideiussioni da modello ABI: le Sezioni Unite chiariscono i limiti** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/nullita-fideiussioni-da-modello-abi-le-sezioni-unite-chiariscono-i-limiti/)
-- **Destinazione dei proventi: applicazione ai prodotti bancari e finanziari** · Mon, 31 Aug 2026 → [apri](https://www.dirittobancario.it/art/destinazione-dei-proventi-applicazione-ai-prodotti-bancari-e-finanziari/)
-- **Dati bancari del contribuente inutilizzabili senza autorizzazione motivata** · Fri, 28 Aug 2026 → [apri](https://www.dirittobancario.it/art/dati-bancari-del-contribuente-inutilizzabili-senza-autorizzazione-motivata/)
+- **ISDA su CDM, accordi quadro e modifiche contrattuali** · Mon, 07 Sep 2026 → [apri](https://www.dirittobancario.it/art/isda-su-cdm-accordi-quadro-e-modifiche-contrattuali/)
+- **IASB: sulle informazioni sui flussi di cassa utilizzate dagli investitori** · Mon, 07 Sep 2026 → [apri](https://www.dirittobancario.it/art/iasb-sulle-informazioni-sui-flussi-di-cassa-utilizzate-dagli-investitori/)
+- **Il servizio “Trasmissioni Merchant” per banche e intermediari** · Mon, 07 Sep 2026 → [apri](https://www.dirittobancario.it/art/il-servizio-trasmissioni-merchant-per-banche-e-intermediari/)
+- **Trasparenza retributiva, distacchi e gruppi d’imprese** · Mon, 07 Sep 2026 → [apri](https://www.dirittobancario.it/art/trasparenza-retributiva-distacchi-e-gruppi-dimprese/)
+- **IVASS sugli schemi di bilancio assicurativo** · Mon, 07 Sep 2026 → [apri](https://www.dirittobancario.it/art/ivass-sugli-schemi-di-bilancio-assicurativo/)
+- **Le nuove aspettative Banca d’Italia sui conti di base: webinar 15/10** · Fri, 04 Sep 2026 → [apri](https://www.dirittobancario.it/art/le-nuove-aspettative-banca-ditalia-sui-conti-di-base-webinar-15-10/)
+- **Conto di base: le nuove aspettative di Vigilanza** · Fri, 04 Sep 2026 → [apri](https://www.dirittobancario.it/art/conto-di-base-le-nuove-aspettative-di-vigilanza/)
+- **Violazione art. 21 TUF e responsabilità dell’esponente aziendale** · Fri, 04 Sep 2026 → [apri](https://www.dirittobancario.it/art/violazione-art-21-tuf-e-responsabilita-dellesponente-aziendale/)
+- **FATF/GAFI: sulla crescita dell’hawala e dei flussi finanziari illeciti** · Fri, 04 Sep 2026 → [apri](https://www.dirittobancario.it/art/fatf-gafi-sulla-crescita-dellhawala-e-dei-flussi-finanziari-illeciti/)
+- **Sulla pubblicazione dei dati personali degli azionisti** · Fri, 04 Sep 2026 → [apri](https://www.dirittobancario.it/art/sulla-pubblicazione-dei-dati-personali-degli-azionisti/)
 
 ## Diritto.it _(generalista)_
 
-- **Bilanci bancari, dal 2027 cambia tutto: cosa devono sapere avvocati e consulenti** · Mon, 31 Aug 2026 → [apri](https://www.diritto.it/bilanci-bancari-2027-le-novita-avvocati-consulenti/)
-- **Fideiussioni bancarie, le Sezioni Unite mettono un limite alla nullità delle clausole ABI** · Mon, 31 Aug 2026 → [apri](https://www.diritto.it/fideiussioni-abi-sezioni-unite-quando-nullita/)
-- **Ex Ilva, nuove garanzie ambientali: cosa cambia con il DL 154/2026** · Mon, 31 Aug 2026 → [apri](https://www.diritto.it/dl-154-2026-garanzie-ambientali-impianti-strategici/)
-- **Meta paga miliardi negli USA, ma il vero caso è un altro: cosa cambia per privacy e algoritmi in Europa** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/caso-meta-privacy-minori-e-algoritmi-tra-usa-e-ue/)
-- **Avvocato non paga la segretaria per 21 mesi e invia contabili di bonifici mai eseguiti: sospeso** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/avvocato-non-paga-21-stipendi-segretaria-stop-mesi/)
-- **La struttura paga 100mila euro e chiede il rimborso al medico: perché la rivalsa viene bocciata** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/rivalsa-sanitaria-niente-azione-senza-avviso-medico/)
-- **Violenza sessuale, la vita privata della vittima può metterne in dubbio la credibilità? La Cassazione fa chiarezza** · Fri, 28 Aug 2026 → [apri](https://www.diritto.it/violenza-sessuale-costumi-vittima-sono-irrilevanti/)
-- **Immobile abusivo nell’eredità: la Cassazione chiarisce cosa possono fare gli eredi** · Thu, 27 Aug 2026 → [apri](https://www.diritto.it/immobile-abusivo-in-eredita-cosa-succede-divisione/)
-- **Giustizia tributaria, cambia lo statuto dei magistrati: ruolo unico, incompatibilità e sanzioni dal 26 agosto** · Thu, 27 Aug 2026 → [apri](https://www.diritto.it/giustizia-tributaria-novita-d-lgs-n-149-2026/)
-- **Infezione fatale dopo il ricovero: la struttura risponde anche se il contagio è avvenuto altrove** · Thu, 27 Aug 2026 → [apri](https://www.diritto.it/infezione-ospedaliera-risponde-seconda-struttura/)
+- **Conservazione dati, svolta possibile nella giurisprudenza UE: apertura alla conservazione generalizzata** · Mon, 07 Sep 2026 → [apri](https://www.diritto.it/conservazione-dati-apertura-avvocato-generale-ue/)
+- **Nuovo Codice della Strada: cantiere aperto sulla riforma** · Mon, 07 Sep 2026 → [apri](https://www.diritto.it/nuovo-codice-strada-riforma-ancora-elaborazione/)
+- **Titolo estero per il sostegno: ecco quando il Ministero può negare il riconoscimento** · Mon, 07 Sep 2026 → [apri](https://www.diritto.it/titolo-estero-sostegno-riconoscimento-e-negato/)
+- **Tabelle millesimali cambiate a maggioranza: la delibera e nulla** · Mon, 07 Sep 2026 → [apri](https://www.diritto.it/condominio-tabelle-millesimali-quando-unanimita/)
+- **Mutui Euribor, la CGUE cambia le regole: chi può ancora agire** · Fri, 04 Sep 2026 → [apri](https://www.diritto.it/mutui-euribor-dopo-la-sentenza-cgue-cosa-cambia/)
+- **Indagini bancarie e tutela della privacy** · Fri, 04 Sep 2026 → [apri](https://www.diritto.it/indagini-bancarie-e-tutela-della-privacy/)
+- **Compensazioni IVA oltre soglia, il nuovo tetto può cancellare le sanzioni? Il caso alle Sezioni Unite** · Fri, 04 Sep 2026 → [apri](https://www.diritto.it/compensazioni-iva-cassazione-rimette-sezioni-unite/)
+- **Errore medico, il risarcimento non è automatico: cosa bisogna provare** · Fri, 04 Sep 2026 → [apri](https://www.diritto.it/responsabilita-medica-errore-non-basta-risarcimento/)
+- **DASPO, la squadra cessa l’attività: che succede all’obbligo di presentazione?** · Fri, 04 Sep 2026 → [apri](https://www.diritto.it/daspo-quando-perde-efficacia-obbligo-presentazione/)
+- **Frontalieri Italia-Svizzera, quando il contratto non basta: il caso che può far perdere il regime fiscale** · Thu, 03 Sep 2026 → [apri](https://www.diritto.it/frontalieri-italia-svizzera-salta-regime-fiscale/)
 
 ## Ius in Itinere _(generalista)_
 

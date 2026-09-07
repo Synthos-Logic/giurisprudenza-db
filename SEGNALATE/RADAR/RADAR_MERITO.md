@@ -8,6 +8,16 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-09-07
+
+- **2026-09-07** · Giustizia Insieme · Processo penale — [Le impugnazioni del pubblico ministero](https://www.giustiziainsieme.it/articolo/4081-le-impugnazioni-del-pubblico-ministero.php)
+- **2026-09-03** · Penale Diritto e Procedura — [Datore, caporale o schiavista?](https://www.penaledp.it/datore-caporale-o-schiavista/?utm_source=rss&utm_medium=rss&utm_campaign=datore-caporale-o-schiavista)
+- **2026-09-03** · Archivio Penale · Articoli — [L’arresto differito come espressione delle, e come rimedio alle recenti tendenze  di politica legislativa criminale](https://archiviopenale.it/larresto-differito-come-espressione-delle-e-come-rimedio-alle-recenti-tendenze-di-politica-legislativa-criminale/articoli/51063)
+- **2026-09-01** · Diritto di Difesa (UCPI) — [VARCARE LA LINEA D’OMBRA: IL SISTEMA PENALE TRA PULSIONI POPULISTE ED ESIGENZE GARANTISTE – DI ENRICO AMATI](https://dirittodidifesa.eu/varcare-la-linea-dombra-il-sistema-penale-tra-pulsioni-populiste-ed-esigenze-garantiste-di-enrico-amati/)
+- **2026-09-01** · DisCrimen — [Il diritto penale “imposto”. Gli obblighi di tutela costituzionali e sovrastatali](https://discrimen.it/il-diritto-penale-imposto-gli-obblighi-di-tutela-costituzionali-e-sovrastatali/)
+- **2026-07-04** · Diritto di Difesa (UCPI) — [NEWSLETTER GIURISPRUDENZA N. 188 – 1° GIUGNO 2026](https://dirittodidifesa.eu/newsletter-giurisprudenza-n-188-1-giugno-2026/)
+- **2026-05-04** · Diritto di Difesa (UCPI) — [NEWSLETTER GIURISPRUDENZA N. 187 – 1° MAGGIO 2026](https://dirittodidifesa.eu/newsletter-giurisprudenza-n-187-1-maggio-2026/)
+
 ## Aggiornamento del 2026-08-31
 
 - **2026-08-31** · Diritto di Difesa (UCPI) — [NOTA DI COMMENTO IN MERITO ALLE RECENTI DISPOSIZIONI IN MATERIA DI DETENZIONE DOMICILIARE PER IL RECUPERO DEI DETENUTI TOSSICODIPENDENTI O ALCOLDIPENDENTI – DI GIAN LUCA MALAVASI](https://dirittodidifesa.eu/nota-di-commento-in-merito-alle-recenti-disposizioni-in-materia-di-detenzione-domiciliare-per-il-recupero-dei-detenuti-tossicodipendenti-o-alcoldipendenti-di-gianluca-malavasi/)
