@@ -1,6 +1,6 @@
 # INDICE — Rassegne mensili della giurisprudenza civile
 
-> Ultimo aggiornamento: 2026-09-07 · Rassegne in archivio: 10
+> Ultimo aggiornamento: 2026-09-14 · Rassegne in archivio: 11
 > Fonte: Ufficio del Massimario della Corte Suprema di Cassazione, settore civile.
 >
 > I Markdown sono gia' convertiti con marcatori di pagina e gia' privi dei nominativi
@@ -8,6 +8,7 @@
 
 | Periodo | Pagine | Massime (Rv) | File |
 |---|---|---|---|
+| 2026 03 Rassegna Mensile Civile | 596 | 820 | `2026_03_Rassegna_Mensile_Civile.md` |
 | 2026 02 Rassegna Mensile Civile | 230 | 282 | `2026_02_Rassegna_Mensile_Civile.md` |
 | 2026 01 Rassegna Mensile Civile | 218 | 252 | `2026_01_Rassegna_Mensile_Civile.md` |
 | 2025 12 Rassegna Mensile Civile | 329 | 408 | `2025_12_Rassegna_Mensile_Civile.md` |

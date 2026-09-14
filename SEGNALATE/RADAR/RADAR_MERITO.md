@@ -8,6 +8,18 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-09-14
+
+- **2026-09-14** · Giustizia Insieme · Processo penale — [La nuova presunzione di imputabilità del minore](https://www.giustiziainsieme.it/articolo/4089-la-nuova-presunzione-di-imputabilita-del-minore.php)
+- **2026-09-11** · Giurisprudenza Penale — [Il Tribunale di Ferrara si pronuncia in tema di udienza predibattimentale e sospensione del processo per incapacità dell’imputato (art. 71 c.p.p.)](https://www.giurisprudenzapenale.com/2026/09/11/il-tribunale-di-ferrara-si-pronuncia-in-tema-di-udienza-predibattimentale-e-sospensione-del-processo-ex-art-71-c-p-p/)
+- **2026-09-11** · Penale Diritto e Procedura — [L’arte della parola tra retorica e letteratura, il ruolo dell’avvocato[1]](https://www.penaledp.it/larte-della-parola-tra-retorica-e-letteratura-il-ruolo-dellavvocato1/?utm_source=rss&utm_medium=rss&utm_campaign=larte-della-parola-tra-retorica-e-letteratura-il-ruolo-dellavvocato1)
+- **2026-09-10** · DisCrimen — [Rosario Livatino: la forma della giustizia e il dovere di comprendere](https://discrimen.it/rosario-livatino-la-forma-della-giustizia-e-il-dovere-di-comprendere/)
+- **2026-09-10** · Penale Diritto e Procedura — [Reati di stagione. Le rassicurazioni effimere del diritto penale fast fashion](https://www.penaledp.it/reati-di-stagione-le-rassicurazioni-effimere-del-diritto-penale-fast-fashion/?utm_source=rss&utm_medium=rss&utm_campaign=reati-di-stagione-le-rassicurazioni-effimere-del-diritto-penale-fast-fashion)
+- **2026-09-10** · Penale Diritto e Procedura — [Oltre il femminicidio. Il diritto penale di fronte alla complessità della violenza di genere](https://www.penaledp.it/oltre-il-femminicidio-il-diritto-penale-di-fronte-alla-complessita-della-violenza-di-genere/?utm_source=rss&utm_medium=rss&utm_campaign=oltre-il-femminicidio-il-diritto-penale-di-fronte-alla-complessita-della-violenza-di-genere)
+- **2026-09-10** · Penale Diritto e Procedura — [Recensione a “Mandato di arresto europeo e procedure di estradizione. Guida operativa alla difesa della persona richiesta”, a cura di Lorenzo Nicolò Meazza, Lorenzo Roccatagliata e Guido Stampanoni Bassi](https://www.penaledp.it/recensione-a-mandato-di-arresto-europeo-e-procedure-di-estradizione-guida-operativa-alla-difesa-della-persona-richiesta-a-cura-di-lorenzo-nicolo-meazza-lorenzo-roccatagliata-e-gui/?utm_source=rss&utm_medium=rss&utm_campaign=recensione-a-mandato-di-arresto-europeo-e-procedure-di-estradizione-guida-operativa-alla-difesa-della-persona-richiesta-a-cura-di-lorenzo-nicolo-meazza-lorenzo-roccatagliata-e-gui)
+- **2026-09-09** · La Legislazione Penale — [Il manifestante come nuovo tipo pericoloso? Il ruolo delle misure di prevenzione personale nel contrasto delle forme di dissenso – Marco Colacurci](https://www.lalegislazionepenale.eu/il-manifestante-come-nuovo-tipo-pericoloso-il-ruolo-delle-misure-di-prevenzione-personale-nel-contrasto-delle-forme-di-dissenso-marco-colacurci/)
+- **2026-09-08** · Archivio Penale · Articoli — [Recensione a FABIO FIORENTIN E CARLO FIORIO Diritto penitenziario e giustizia riparativa. La Tribuna, 2025, p. 616](https://archiviopenale.it/recensione-a-fabio-fiorentin-e-carlo-fiorio-diritto-penitenziario-e-giustizia-riparativa-la-tribuna-2025-p-616/articoli/51064)
+
 ## Aggiornamento del 2026-09-07
 
 - **2026-09-07** · Giustizia Insieme · Processo penale — [Le impugnazioni del pubblico ministero](https://www.giustiziainsieme.it/articolo/4081-le-impugnazioni-del-pubblico-ministero.php)

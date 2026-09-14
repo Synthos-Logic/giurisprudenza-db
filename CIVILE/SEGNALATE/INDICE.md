@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-09-07 · Schede: 302 (301 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-09-14 · Schede: 303 (302 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -211,6 +211,7 @@
 
 ### Giudizio civile e penale
 
+- **Cass. Sez. I n. 25224/2026** · dep. 2026-09-11 → [scheda](2026/Cass_25224_2026.md)
 - **Cass. Sez. III n. 4944/2026** · dep. 2026-03-05 → [scheda](2026/Cass_4944_2026.md)
 
 ### Giudizio di cassazione
@@ -563,6 +564,7 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 25224/2026 | sentenza | Prima | Giudizio civile e penale | dep. 2026-09-11 | `2026/Cass_25224_2026.md` |
 | n. 24935/2026 | ordinanza-interlocutoria | Quinta | Iva | dep. 2026-09-02 | `2026/Cass_24935_2026.md` |
 | n. 24845/2026 | ordinanza | Sezioni Unite | Espropriazione presso terzi | dep. 2026-08-29 | `2026/SU_24845_2026.md` |
 | n. 24825/2026 | sentenza | Sezioni Unite | Banche | dep. 2026-08-28 | `2026/SU_24825_2026.md` |
