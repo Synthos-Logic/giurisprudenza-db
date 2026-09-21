@@ -29,3 +29,5 @@
 - 2026-09-07 12:33 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto
 
 - 2026-09-14 12:47 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto
+
+- 2026-09-21 12:48 UTC — SZP51691: scheda in quarantena — campi mancanti: oggetto

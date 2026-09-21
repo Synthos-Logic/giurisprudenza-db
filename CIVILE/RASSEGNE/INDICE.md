@@ -1,6 +1,6 @@
 # INDICE — Rassegne mensili della giurisprudenza civile
 
-> Ultimo aggiornamento: 2026-09-14 · Rassegne in archivio: 11
+> Ultimo aggiornamento: 2026-09-21 · Rassegne in archivio: 11
 > Fonte: Ufficio del Massimario della Corte Suprema di Cassazione, settore civile.
 >
 > I Markdown sono gia' convertiti con marcatori di pagina e gia' privi dei nominativi

@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-09-14 · Schede: 313 (257 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-09-21 · Schede: 315 (259 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -156,6 +156,7 @@
 
 ### Impugnazioni
 
+- **Cass. Sez. V n. 33829/2026** · dep. 2026-09-17 → [scheda](2026/Cass_33829_2026.md)
 - **Cass. SU n. 28647/2026** · dep. 2026-07-29 → [scheda](2026/SU_28647_2026.md)
 - **Cass. Sez. III n. 23006/2026** · dep. 2026-06-22 → [scheda](2026/Cass_23006_2026.md)
 - **Cass. Sez. VI n. 19439/2026** · dep. 2026-05-28 → [scheda](2026/Cass_19439_2026.md)
@@ -391,6 +392,7 @@
 
 ### Reati contro l'amministrazione della giustizia
 
+- **Cass. Sez. VI n. 33634/2026** · dep. 2026-09-16 → [scheda](2026/Cass_33634_2026.md)
 - **Cass. Sez. VI n. 27223/2026** · dep. 2026-07-20 → [scheda](2026/Cass_27223_2026.md)
 
 ### Reati contro l'ordine pubblico
@@ -538,6 +540,8 @@
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
 | R.G. 9916/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
 | R.G. 6868/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-09-24 | `2026/QSP_6868_2026.md` |
+| n. 33829/2026 | sentenza | Quinta | Impugnazioni | dep. 2026-09-17 | `2026/Cass_33829_2026.md` |
+| n. 33634/2026 | sentenza | Sesta | Reati contro l'amministrazione della giustizia | dep. 2026-09-16 | `2026/Cass_33634_2026.md` |
 | n. 32649/2026 | sentenza | Sesta | Stupefacenti | dep. 2026-09-02 | `2026/Cass_32649_2026.md` |
 | n. 32652/2026 | sentenza | Sesta | Misure cautelari | dep. 2026-09-02 | `2026/Cass_32652_2026.md` |
 | n. 31583/2026 | sentenza | Quinta | Delitti contro la persona | dep. 2026-08-19 | `2026/Cass_31583_2026.md` |

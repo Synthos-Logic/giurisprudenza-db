@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-09-14 · Schede: 303 (302 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-09-21 · Schede: 304 (303 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -211,6 +211,7 @@
 
 ### Giudizio civile e penale
 
+- **Cass. Sez. III n. 25298/2026** · dep. 2026-09-14 → [scheda](2026/Cass_25298_2026.md)
 - **Cass. Sez. I n. 25224/2026** · dep. 2026-09-11 → [scheda](2026/Cass_25224_2026.md)
 - **Cass. Sez. III n. 4944/2026** · dep. 2026-03-05 → [scheda](2026/Cass_4944_2026.md)
 
@@ -564,6 +565,7 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 25298/2026 | ordinanza-interlocutoria | Terza | Giudizio civile e penale | dep. 2026-09-14 | `2026/Cass_25298_2026.md` |
 | n. 25224/2026 | sentenza | Prima | Giudizio civile e penale | dep. 2026-09-11 | `2026/Cass_25224_2026.md` |
 | n. 24935/2026 | ordinanza-interlocutoria | Quinta | Iva | dep. 2026-09-02 | `2026/Cass_24935_2026.md` |
 | n. 24845/2026 | ordinanza | Sezioni Unite | Espropriazione presso terzi | dep. 2026-08-29 | `2026/SU_24845_2026.md` |

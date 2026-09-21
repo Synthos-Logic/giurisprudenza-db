@@ -1,6 +1,6 @@
 # RADAR CIVILE — segnalazioni dalle riviste giuridiche
 
-> Aggiornato il 2026-09-14 · fonti interrogate: 5 · voci nuove in questa esecuzione: 21
+> Aggiornato il 2026-09-21 · fonti interrogate: 5 · voci nuove in questa esecuzione: 23
 >
 > **A che cosa serve.** A sapere di che cosa si discute: dottrina, commenti a sentenza,
 > note a prima lettura. Sono **solo segnalazioni**: titolo, data e link alla fonte.
@@ -10,37 +10,39 @@
 
 ## Judicium _(processo civile)_
 
-*Nessuna voce nuova.*
+- **Fideiussioni omnibus e ambito della declaratoria di nullità delle clausole restrittive della concorrenza: note “a caldo” sulla sentenza delle SS.UU. n. 24825/2026** · Mon, 21 Sep 2026 → [apri](https://www.judicium.it/fideiussioni-omnibus-e-ambito-della-declaratoria-di-nullita-delle-clausole-restrittive-della-concorrenza-note-a-caldo-sulla-sentenza-delle-ss-uu-n-24825-2026/)
+- **La latitudine oggettiva del diritto del correntista alla (ri)consegna della documentazione bancaria: l’estensione operata da Cass. n. 10728/2026** · Tue, 15 Sep 2026 → [apri](https://www.judicium.it/la-latitudine-oggettiva-del-diritto-del-correntista-alla-riconsegna-della-documentazione-bancaria-lestensione-operata-da-cass-n-10728-2026/)
+- **Profili di legittimazione delle associazioni ambientaliste  nei giudizi per “danno ambientale” e in quelli per “danno climatico”** · Mon, 14 Sep 2026 → [apri](https://www.judicium.it/profili-di-legittimazione-delle-associazioni-ambientaliste-nei-giudizi-per-danno-ambientale-e-in-quelli-per-danno-climatico/)
 
 ## Il Diritto Processuale Civile _(processo civile)_
 
-- **Profili della discovery algoritmica nel processo civile** · Mon, 14 Sep 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/09/14/profili-della-discovery-algoritmica-nel-processo-civile/)
+*Nessuna voce nuova.*
 
 ## Diritto Bancario _(bancario e finanziario)_
 
-- **Direttiva CER: le soglie per individuare soggetti critici e notificare incidenti** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/direttiva-cer-le-soglie-per-individuare-soggetti-critici-e-notificare-incidenti/)
-- **Sistemi di pagamento istantaneo e costo delle rimesse** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/sistemi-di-pagamento-istantaneo-e-costo-delle-rimesse/)
-- **Collegio Consultivo Tecnico: cause di incompatibilità e requisiti** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/collegio-consultivo-tecnico-cause-di-incompatibilita-e-requisiti/)
-- **Vademecum ACN con adempimenti per i soggetti NIS** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/vademecum-acn-con-adempimenti-per-i-soggetti-nis/)
-- **Solvency II: informazioni tecniche per le segnalazioni del III trimestre** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/solvency-ii-informazioni-tecniche-per-le-segnalazioni-del-iii-trimestre/)
-- **CCD2 e Decreto CICR del 9 luglio 2026** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/ccd2-e-decreto-cicr-del-9-luglio-2026/)
-- **Il Garante su comunicazioni commerciali e diritto di opposizione** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/il-garante-su-comunicazioni-commerciali-e-diritto-di-opposizione/)
-- **Cybersecurity e IA: le richieste delle Autorità per rafforzare la governance** · Mon, 14 Sep 2026 → [apri](https://www.dirittobancario.it/art/cybersecurity-e-ia-le-richieste-delle-autorita-per-rafforzare-la-governance/)
-- **Global minimum tax: nuovo pacchetto di misure OCSE** · Fri, 11 Sep 2026 → [apri](https://www.dirittobancario.it/art/global-minimum-tax-nuovo-pacchetto-di-misure-ocse/)
-- **Adeguata verifica AML e restrizioni al conto corrente** · Fri, 11 Sep 2026 → [apri](https://www.dirittobancario.it/art/adeguata-verifica-aml-e-restrizioni-al-conto-corrente/)
+- **Incertezza identificativa dell’immobile e nullità dell’ipoteca** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/incertezza-identificativa-dellimmobile-e-nullita-dellipoteca/)
+- **Standard Initial Margin Model: aggiornato il Governance Framework ISDA** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/standard-initial-margin-model-aggiornato-il-governance-framework-isda/)
+- **Banca d’Italia sulle sfide geopolitiche e tecnologiche** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/banca-ditalia-sulle-sfide-geopolitiche-e-tecnologiche/)
+- **CPMI e IOSCO: toolkit e rischi per la resilienza informatica** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/cpmi-e-iosco-toolkit-e-rischi-per-la-resilienza-informatica/)
+- **La comparazione degli strumenti finanziari dalla MiFID II alla RIS** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/la-comparazione-degli-strumenti-finanziari-dalla-mifid-ii-alla-ris/)
+- **Rendicontazione di sostenibilità: regolamenti attuativi di Omnibus I** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/rendicontazione-di-sostenibilita-regolamenti-attuativi-di-omnibus-i/)
+- **Consob: rapporto 2025 sulla corporate governance nelle quotate** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/consob-sulla-corporate-governance-nelle-quotate/)
+- **Rapporto 2025 sull’attuazione del Codice per la corporate governance** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/rapporto-2025-sullattuazione-del-codice-per-la-corporate-governance/)
+- **Le nuove linee guida EBA sulla gestione del rischio di terze parti non-ICT** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/le-nuove-linee-guida-eba-sulla-gestione-del-rischio-di-terze-parti/)
+- **Condotta antisindacale: la legittimazione ad agire del sindacato** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/condotta-antisindacale-la-legittimazione-ad-agire-del-sindacato/)
 
 ## Diritto.it _(generalista)_
 
-- **Rinvio ex art. 622 c.p.p., errore sul giudice: la Cassazione salva la riassunzione** · Mon, 14 Sep 2026 → [apri](https://www.diritto.it/art-622-c-p-p-errore-giudice-translatio-iudicii/)
-- **Prodotti scaduti e procedure violate: la Cassazione conferma il licenziamento della responsabile del negozio** · Mon, 14 Sep 2026 → [apri](https://www.diritto.it/licenziamento-per-prodotti-scaduti-si-cassazione/)
-- **Esame avvocato 2026-2027, domande dal 1° ottobre: tutte le info** · Mon, 14 Sep 2026 → [apri](https://www.diritto.it/esame-avvocato-2026-27-tutte-informazioni-preparar/)
-- **Intercettazioni, potrebbero cambiare di nuovo le regole: cosa prevede la proposta di legge** · Sat, 12 Sep 2026 → [apri](https://www.diritto.it/intercettazioni-cambia-articolo-270-c-p-p-proposta/)
-- **Esame avvocato 2026-2027: tutti i consigli per la preparazione** · Fri, 11 Sep 2026 → [apri](https://www.diritto.it/esame-avvocato-2026-2027-consigli-per-prepararsi/)
-- **Contributi INPS, stop sugli utili non distribuiti ai soci Srl: cosa ha deciso il Tribunale** · Fri, 11 Sep 2026 → [apri](https://www.diritto.it/contributi-inps-soci-srl-no-utili-non-distribuiti/)
-- **Avvocato sospeso per le offese ai Carabinieri: il CNF ribadisce i doveri anche nella vita privata** · Fri, 11 Sep 2026 → [apri](https://www.diritto.it/avvocato-sospeso-doveri-deontologici-fuori-studio/)
-- **Affitti brevi a Verona, stop alle nuove locazioni turistiche nel centro storico: cosa prevede la Variante 70** · Fri, 11 Sep 2026 → [apri](https://www.diritto.it/affitti-brevi-verona-cosa-prevede-la-variante-70/)
-- **Custodia cautelare, la sospensione vale anche sul termine massimo: cosa dice la Cassazione** · Fri, 11 Sep 2026 → [apri](https://www.diritto.it/custodia-cautelare-quando-sospesi-termini-massimi/)
-- **Affordable Housing Act, l’UE prepara nuove regole per le aree sotto stress abitativo** · Thu, 10 Sep 2026 → [apri](https://www.diritto.it/affordable-housing-act-nuove-regole-ue-casa-affitti/)
+- **Eu kids act: nuove regole per social, verifica dell’età e tutela dei minori online** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/eu-kids-act-social-vietati-under-13-regole-fino-15/)
+- **Appello notificato in ritardo nel rito del lavoro: per la Cassazione non c’è rimedio** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/rito-lavoro-appello-senza-notifica-improcedibile/)
+- **Ipoteca nulla se il bene non è identificabile: cosa ha deciso la Cassazione** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/ipoteca-nulla-se-il-bene-e-incerto-cassazione-25519/)
+- **Condominio, verbale incompleto: quando basta un’omissione per annullare la delibera** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/condominio-verbale-incompleto-annulla-delibera/)
+- **Pena accessoria al massimo: la Cassazione chiarisce quando la motivazione non basta** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/pena-accessoria-oltre-media-motivazione-rafforzata/)
+- **Chi decide davvero in condominio? I poteri di assemblea, amministratore e proprietari** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/condominio-chi-decide-tra-assemblea-e-proprietari/)
+- **Rifiutare il confronto con i sindacati può essere condotta antisindacale** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/condotta-antisindacale-anche-senza-ccnl-cassazione/)
+- **Concorso Ministero Giustizia 2970 posti: assegnati sedi e uffici, presa di servizio il 1° ottobre** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/concorso-ministero-giustizia-bando-2970-2600-assist/)
+- **Spese della parte civile nel processo penale: la Cassazione chiama la Consulta** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/spese-di-parte-civile-cassazione-va-alla-consulta/)
+- **Sexting, foto intime e minori: quando scatta il reato secondo la Cassazione** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/sexting-e-foto-intime-quando-diventano-reato/)
 
 ## Ius in Itinere _(generalista)_
 

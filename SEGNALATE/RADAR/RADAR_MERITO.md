@@ -8,6 +8,16 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-09-21
+
+- **2026-09-18** · Archivio Penale · Articoli — [Il contrasto “mite” della criminalità d’impresa. Sul ruolo improprio del codice antimafia](https://archiviopenale.it/il-contrasto-mite-della-criminalita-dimpresa-sul-ruolo-improprio-del-codice-antimafia/articoli/51066)
+- **2026-09-17** · Questione Giustizia · Diritto penale — [Adeguamento della normativa nazionale alle disposizioni del regolamento (UE) 2024/1689 in materia di utilizzo dei sistemi di intelligenza artificiale per l'attività di polizia e di responsabilità penale e civile. Atto del Governo n. 418](https://www.questionegiustizia.it/articolo/adeguamento-della-normativa-nazionale-alle-disposizioni-del-regolamento-ue-2024-1689-in-materia-di-utilizzo-dei-sistemi-di-intelligenza-artificiale-per-l-attivita-di-polizia-e-di-responsabilita-penale-e-civile-atto-del-governo-n-418)
+- **2026-09-16** · Giurisprudenza Penale — [Violenza sessuale e misure cautelari: il provvedimento del Tribunale del riesame di Torino in un recente caso di cronaca](https://www.giurisprudenzapenale.com/2026/09/16/violenza-sessuale-e-misure-cautelari-il-provvedimento-del-tribunale-del-riesame-di-torino-in-un-recente-caso-di-cronaca/)
+- **2026-09-16** · DisCrimen — [Riapertis verbisI macarons del devoto](https://discrimen.it/riapertis-verbisi-macarons-del-devoto-160/)
+- **2026-09-15** · Giurisprudenza Penale — [Caso Mario Roggero: l’ordinanza con cui il Tribunale di sorveglianza di Torino ha rigettato l’istanza di differimento della pena in pendenza della domanda di grazia](https://www.giurisprudenzapenale.com/2026/09/15/roggero-sorveglianza-torino-rigetto-grazia-differimento/)
+- **2026-09-15** · Giustizia Insieme · Processo penale — [Un nuovo rito speciale per la detenzione domiciliare di tossico- (e alcol-) dipendenti](https://www.giustiziainsieme.it/articolo/4092-un-nuovo-rito-speciale-per-la-detenzione-domiciliare-di-tossico-e-alcol-dipendenti.php)
+- **2026-09-14** · Penale Diritto e Procedura — [La storia (non ancora finita) del delitto di abuso d’ufficio](https://www.penaledp.it/la-storia-non-ancora-finita-del-delitto-di-abuso-dufficio/?utm_source=rss&utm_medium=rss&utm_campaign=la-storia-non-ancora-finita-del-delitto-di-abuso-dufficio)
+
 ## Aggiornamento del 2026-09-14
 
 - **2026-09-14** · Giustizia Insieme · Processo penale — [La nuova presunzione di imputabilità del minore](https://www.giustiziainsieme.it/articolo/4089-la-nuova-presunzione-di-imputabilita-del-minore.php)
