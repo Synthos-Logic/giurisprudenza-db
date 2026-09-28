@@ -1,6 +1,6 @@
 # RADAR CIVILE — segnalazioni dalle riviste giuridiche
 
-> Aggiornato il 2026-09-21 · fonti interrogate: 5 · voci nuove in questa esecuzione: 23
+> Aggiornato il 2026-09-28 · fonti interrogate: 5 · voci nuove in questa esecuzione: 23
 >
 > **A che cosa serve.** A sapere di che cosa si discute: dottrina, commenti a sentenza,
 > note a prima lettura. Sono **solo segnalazioni**: titolo, data e link alla fonte.
@@ -10,9 +10,9 @@
 
 ## Judicium _(processo civile)_
 
-- **Fideiussioni omnibus e ambito della declaratoria di nullità delle clausole restrittive della concorrenza: note “a caldo” sulla sentenza delle SS.UU. n. 24825/2026** · Mon, 21 Sep 2026 → [apri](https://www.judicium.it/fideiussioni-omnibus-e-ambito-della-declaratoria-di-nullita-delle-clausole-restrittive-della-concorrenza-note-a-caldo-sulla-sentenza-delle-ss-uu-n-24825-2026/)
-- **La latitudine oggettiva del diritto del correntista alla (ri)consegna della documentazione bancaria: l’estensione operata da Cass. n. 10728/2026** · Tue, 15 Sep 2026 → [apri](https://www.judicium.it/la-latitudine-oggettiva-del-diritto-del-correntista-alla-riconsegna-della-documentazione-bancaria-lestensione-operata-da-cass-n-10728-2026/)
-- **Profili di legittimazione delle associazioni ambientaliste  nei giudizi per “danno ambientale” e in quelli per “danno climatico”** · Mon, 14 Sep 2026 → [apri](https://www.judicium.it/profili-di-legittimazione-delle-associazioni-ambientaliste-nei-giudizi-per-danno-ambientale-e-in-quelli-per-danno-climatico/)
+- **L’arbitrato assicurativo  come forma di giustizia consultiva** · Mon, 28 Sep 2026 → [apri](https://www.judicium.it/larbitrato-assicurativo-come-forma-di-giustizia-consultiva/)
+- **La stabilità degli accordi di negoziazione assistita familiare in base all’oggetto** · Wed, 23 Sep 2026 → [apri](https://www.judicium.it/la-stabilita-degli-accordi-di-negoziazione-assistita-familiare-in-base-alloggetto/)
+- **Le trasformazioni della genitorialità: status adottivo straniero, continuità della cura e ordine pubblico tra appartenenza familiare e plurigenitorialità.  Riflessioni a margine di Corte d’Appello di Bari, sez. I, 13 gennaio 2026, n. 73.** · Tue, 22 Sep 2026 → [apri](https://www.judicium.it/le-trasformazioni-della-genitorialita-status-adottivo-straniero-continuita-della-cura-e-ordine-pubblico-tra-appartenenza-familiare-e-plurigenitorialita-riflessioni-a-margine-di-corte-dapp/)
 
 ## Il Diritto Processuale Civile _(processo civile)_
 
@@ -20,29 +20,29 @@
 
 ## Diritto Bancario _(bancario e finanziario)_
 
-- **Incertezza identificativa dell’immobile e nullità dell’ipoteca** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/incertezza-identificativa-dellimmobile-e-nullita-dellipoteca/)
-- **Standard Initial Margin Model: aggiornato il Governance Framework ISDA** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/standard-initial-margin-model-aggiornato-il-governance-framework-isda/)
-- **Banca d’Italia sulle sfide geopolitiche e tecnologiche** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/banca-ditalia-sulle-sfide-geopolitiche-e-tecnologiche/)
-- **CPMI e IOSCO: toolkit e rischi per la resilienza informatica** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/cpmi-e-iosco-toolkit-e-rischi-per-la-resilienza-informatica/)
-- **La comparazione degli strumenti finanziari dalla MiFID II alla RIS** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/la-comparazione-degli-strumenti-finanziari-dalla-mifid-ii-alla-ris/)
-- **Rendicontazione di sostenibilità: regolamenti attuativi di Omnibus I** · Mon, 21 Sep 2026 → [apri](https://www.dirittobancario.it/art/rendicontazione-di-sostenibilita-regolamenti-attuativi-di-omnibus-i/)
-- **Consob: rapporto 2025 sulla corporate governance nelle quotate** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/consob-sulla-corporate-governance-nelle-quotate/)
-- **Rapporto 2025 sull’attuazione del Codice per la corporate governance** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/rapporto-2025-sullattuazione-del-codice-per-la-corporate-governance/)
-- **Le nuove linee guida EBA sulla gestione del rischio di terze parti non-ICT** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/le-nuove-linee-guida-eba-sulla-gestione-del-rischio-di-terze-parti/)
-- **Condotta antisindacale: la legittimazione ad agire del sindacato** · Fri, 18 Sep 2026 → [apri](https://www.dirittobancario.it/art/condotta-antisindacale-la-legittimazione-ad-agire-del-sindacato/)
+- **Euro digitale: Banca d’Italia su quadro normativo e fase esecutiva** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/euro-digitale-banca-ditalia-su-quadro-normativo-e-fase-esecutiva/)
+- **Finanziamenti in pool e scientia decotionis nella revocatoria delle rimesse** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/finanziamenti-in-pool-e-scientia-decotionis-nella-revocatoria-delle-rimesse/)
+- **EIOPA sulle proprie iniziative di semplificazione** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/eiopa-sulle-proprie-iniziative-di-semplificazione/)
+- **BCE sulle richieste di autorizzazione per diventare enti creditizi** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/bce-sulle-richieste-di-autorizzazione-per-diventare-enti-creditizi/)
+- **Risk Dashboard EBA del II trimestre 2026** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/risk-dashboard-eba-del-ii-trimestre-2026/)
+- **Il programma annuale per il 2027 di ESMA** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/il-programma-annuale-per-il-2027-di-esma/)
+- **Aggiornamento alla guida sui servizi dell’Agenzia delle entrate** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/aggiornamento-alla-guida-sui-servizi-dellagenzia-delle-entrate/)
+- **La responsabilità della banca per frodi nei servizi di pagamento** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/la-responsabilita-della-banca-per-frodi-nei-servizi-di-pagamento/)
+- **Effetti delle fusioni: lo studio della Commissione UE** · Mon, 28 Sep 2026 → [apri](https://www.dirittobancario.it/art/effetti-delle-fusioni-lo-studio-della-commissione-ue/)
+- **CPB: liquidazione della società e imputazione dei redditi ai soci** · Fri, 25 Sep 2026 → [apri](https://www.dirittobancario.it/art/cpb-liquidazione-della-societa-e-imputazione-dei-redditi-ai-soci/)
 
 ## Diritto.it _(generalista)_
 
-- **Eu kids act: nuove regole per social, verifica dell’età e tutela dei minori online** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/eu-kids-act-social-vietati-under-13-regole-fino-15/)
-- **Appello notificato in ritardo nel rito del lavoro: per la Cassazione non c’è rimedio** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/rito-lavoro-appello-senza-notifica-improcedibile/)
-- **Ipoteca nulla se il bene non è identificabile: cosa ha deciso la Cassazione** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/ipoteca-nulla-se-il-bene-e-incerto-cassazione-25519/)
-- **Condominio, verbale incompleto: quando basta un’omissione per annullare la delibera** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/condominio-verbale-incompleto-annulla-delibera/)
-- **Pena accessoria al massimo: la Cassazione chiarisce quando la motivazione non basta** · Mon, 21 Sep 2026 → [apri](https://www.diritto.it/pena-accessoria-oltre-media-motivazione-rafforzata/)
-- **Chi decide davvero in condominio? I poteri di assemblea, amministratore e proprietari** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/condominio-chi-decide-tra-assemblea-e-proprietari/)
-- **Rifiutare il confronto con i sindacati può essere condotta antisindacale** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/condotta-antisindacale-anche-senza-ccnl-cassazione/)
-- **Concorso Ministero Giustizia 2970 posti: assegnati sedi e uffici, presa di servizio il 1° ottobre** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/concorso-ministero-giustizia-bando-2970-2600-assist/)
-- **Spese della parte civile nel processo penale: la Cassazione chiama la Consulta** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/spese-di-parte-civile-cassazione-va-alla-consulta/)
-- **Sexting, foto intime e minori: quando scatta il reato secondo la Cassazione** · Fri, 18 Sep 2026 → [apri](https://www.diritto.it/sexting-e-foto-intime-quando-diventano-reato/)
+- **Privacy, il Lazio aggiorna le regole sui dati sensibili: cosa cambia per enti, ASL e partecipate** · Mon, 28 Sep 2026 → [apri](https://www.diritto.it/privacy-lazio-nuove-regole-dati-sensibili-giudizia/)
+- **Stalking, 10mila euro di risarcimento non bastano: il reato non si estingue** · Mon, 28 Sep 2026 → [apri](https://www.diritto.it/stalking-niente-estinzione-reato-con-risarcimento/)
+- **Vittima in casa rifugio esclusa dal processo: per la Cassazione la notifica formale non basta** · Mon, 28 Sep 2026 → [apri](https://www.diritto.it/vittima-casa-rifugio-notifica-inefficace-conoscenza/)
+- **Parcheggia davanti al cancello condominiale: il dissuasore è legittimo** · Mon, 28 Sep 2026 → [apri](https://www.diritto.it/dissuasore-condominiale-vs-sosta-abusiva-cassazione/)
+- **Giustizia, prorogati 1.350 lavoratori PNRR fino al 2027: ora si punta alla stabilizzazione** · Fri, 25 Sep 2026 → [apri](https://www.diritto.it/giustizia-proroga-pnrr-fino-al-2027-cosa-cambia/)
+- **Sottrazione internazionale di minori: tutele, residenza abituale e rapporti con i Paesi extra UE** · Fri, 25 Sep 2026 → [apri](https://www.diritto.it/sottrazione-internazionale-di-minori-norme-e-tutele/)
+- **Riconoscimento facciale, cambiano le regole: quando si può usare e chi deve autorizzarlo** · Fri, 25 Sep 2026 → [apri](https://www.diritto.it/riconoscimento-facciale-cosa-cambia-d-lgs-160-2026/)
+- **Perde un testicolo dopo la mancata diagnosi: riconosciuto il danno morale** · Fri, 25 Sep 2026 → [apri](https://www.diritto.it/malasanita-perdita-testicolo-danno-morale-risarcito/)
+- **Muffa in casa, quando paga l’inquilino? Il caso deciso dal Tribunale di Livorno** · Fri, 25 Sep 2026 → [apri](https://www.diritto.it/muffa-affitto-conduttore-deve-risarcire-danni/)
+- **Ricorso in Cassazione, attenzione al riesame cautelare: quando il motivo diventa inammissibile** · Fri, 25 Sep 2026 → [apri](https://www.diritto.it/ricorso-cassazione-limiti-dopo-riesame-cautelare/)
 
 ## Ius in Itinere _(generalista)_
 

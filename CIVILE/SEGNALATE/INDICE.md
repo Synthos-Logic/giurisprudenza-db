@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-09-21 · Schede: 304 (303 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-09-28 · Schede: 304 (303 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia

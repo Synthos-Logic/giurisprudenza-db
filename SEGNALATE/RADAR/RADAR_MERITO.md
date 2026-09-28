@@ -8,6 +8,16 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-09-28
+
+- **2026-09-28** · DisCrimen — [La riforma della responsabilità da reato degli enti tra garanzie ed effettività. Note critiche sul progetto del tavolo tecnico e sul disegno di legge del 4 agosto 2026](https://discrimen.it/la-riforma-della-responsabilita-da-reato-degli-enti-tra-garanzie-ed-effettivita-note-critiche-sul-progetto-del-tavolo-tecnico-e-sul-disegno-di-legge-del-4-agosto-2026/)
+- **2026-09-25** · Penale Diritto e Procedura — [Violenza di genere e diritto penale: l’ansia sociale e l’eterna emergenza](https://www.penaledp.it/violenza-di-genere-e-diritto-penale-lansia-sociale-e-leterna-emergenza/?utm_source=rss&utm_medium=rss&utm_campaign=violenza-di-genere-e-diritto-penale-lansia-sociale-e-leterna-emergenza)
+- **2026-09-24** · Diritto di Difesa (UCPI) — [IL PUBBLICO MINISTERO IN EUROPA: UNA MAPPA PER CAPIRE L’ANOMALIA ITALIANA – DI DIANA ARGENIO HUPPERTZ](https://dirittodidifesa.eu/il-pubblico-ministero-in-europa-una-mappa-per-capire-lanomalia-italiana-di-diana-argenio-huppertz/)
+- **2026-09-24** · La Legislazione Penale — [Implicazioni cognitive del conflitto pratico di giudicati e incompatibilità del giudice dell’esecuzione – Flora Romano](https://www.lalegislazionepenale.eu/implicazioni-cognitive-del-conflitto-pratico-di-giudicati-e-incompatibilita-del-giudice-dellesecuzione-flora-romano/)
+- **2026-09-24** · DisCrimen — [Osservatorio sulle Sezioni UniteInformazione provvisoria n. 11/2026](https://discrimen.it/osservatorio-sulle-sezioni-uniteinformazione-provvisoria-n-11-2026/)
+- **2026-09-23** · Diritto di Difesa (UCPI) — [DINANZI AL DISASTRO DELL’ESECUZIONE PENALE UNA SVOLTA CULTURALE E POLITICA – DI FRANCESCO PALAZZO](https://dirittodidifesa.eu/dinanzi-al-disastro-dellesecuzione-penale-una-svolta-culturale-e-politica-di-francesco-palazzo/)
+- **2026-09-23** · DisCrimen — [Riapertis verbisI macarons del devoto](https://discrimen.it/riapertis-verbisi-macarons-del-devoto-161/)
+
 ## Aggiornamento del 2026-09-21
 
 - **2026-09-18** · Archivio Penale · Articoli — [Il contrasto “mite” della criminalità d’impresa. Sul ruolo improprio del codice antimafia](https://archiviopenale.it/il-contrasto-mite-della-criminalita-dimpresa-sul-ruolo-improprio-del-codice-antimafia/articoli/51066)
