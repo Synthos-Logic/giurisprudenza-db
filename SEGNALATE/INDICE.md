@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-09-28 · Schede: 316 (260 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-10-05 · Schede: 319 (263 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -91,6 +91,7 @@
 
 ### Delitti contro la pubblica amministrazione
 
+- **Cass. Sez. VI n. 34812/2026** · dep. 2026-09-29 → [scheda](2026/Cass_34812_2026.md)
 - **Cass. Sez. VI n. 21622/2026** · dep. 2026-06-11 → [scheda](2026/Cass_21622_2026.md)
 - **Cass. Sez. VI n. 14741/2026** · dep. 2026-04-23 → [scheda](2026/Cass_14741_2026.md)
 - **Cass. Sez. VI n. 9180/2026** · dep. 2026-03-10 → [scheda](2026/Cass_9180_2026.md)
@@ -127,6 +128,7 @@
 
 ### Estradizione per l'estero
 
+- **Cass. Sez. VI n. 34813/2026** · dep. 2026-09-29 → [scheda](2026/Cass_34813_2026.md)
 - **Cass. Sez. VI n. 21634/2026** · dep. 2026-06-11 → [scheda](2026/Cass_21634_2026.md)
 - **Cass. Sez. VI n. 20105/2026** · dep. 2026-06-01 → [scheda](2026/Cass_20105_2026.md)
 - **Cass. Sez. VI n. 16482/2026** · dep. 2026-05-07 → [scheda](2026/Cass_16482_2026.md)
@@ -153,6 +155,10 @@
 ### Giudice di pace
 
 - **Cass. SU n. 23406/2025** · dep. 2025-06-23 → [scheda](2025/SU_23406_2025.md)
+
+### Giudizio
+
+- **Cass. Sez. II n. 34754/2026** · dep. 2026-09-28 → [scheda](2026/Cass_34754_2026.md)
 
 ### Impugnazioni
 
@@ -540,6 +546,9 @@
 |---|---|---|---|---|---|
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
 | R.G. 9916/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
+| n. 34812/2026 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2026-09-29 | `2026/Cass_34812_2026.md` |
+| n. 34813/2026 | sentenza | Sesta | Estradizione per l'estero | dep. 2026-09-29 | `2026/Cass_34813_2026.md` |
+| n. 34754/2026 | sentenza | Seconda | Giudizio | dep. 2026-09-28 | `2026/Cass_34754_2026.md` |
 | n. 34418/2026 | sentenza | Sesta | Termini processuali | dep. 2026-09-24 | `2026/Cass_34418_2026.md` |
 | R.G. 6868/2026 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-09-24 | `2026/QSP_6868_2026.md` |
 | n. 33829/2026 | sentenza | Quinta | Impugnazioni | dep. 2026-09-17 | `2026/Cass_33829_2026.md` |

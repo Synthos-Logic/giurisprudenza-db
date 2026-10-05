@@ -1,6 +1,6 @@
 # INDICE — Rinvii pregiudiziali ex art. 363-bis c.p.c.
 
-> Ultimo aggiornamento: 2026-09-28 · Schede: 106
+> Ultimo aggiornamento: 2026-10-05 · Schede: 107
 > Fonte: pagina "Rinvii pregiudiziali" del sito della Corte Suprema di Cassazione.
 >
 > ⚠️ Sono questioni **pendenti**: non si citano come precedente. Servono a segnalare
@@ -8,6 +8,7 @@
 
 | Rinvio | Ordinanza | Ufficio remittente | Materia | Scheda |
 |---|---|---|---|---|
+| (2026) | 2026-09-10 | Tribunale di Napoli | Fallimento | `2026/RPC_2026_RPC52373.md` |
 | n. 9682/2026 | 2026-08-25 | Tribunale di Napoli | Mutuo | `2026/RPC_9682_2026.md` |
 | n. 19/2026 | 2026-08-21 | Tribunale di Viterbo | Controversie agrarie | `2026/RPC_19_2026.md` |
 | n. 20/2026 | 2026-08-21 | Tribunale di Viterbo | Controversie agrarie | `2026/RPC_20_2026.md` |
@@ -194,6 +195,7 @@
 
 ### Fallimento
 
+- **rinvio 2026** · ord. 2026-09-10 · Tribunale di Napoli → [scheda](2026/RPC_2026_RPC52373.md)
 - **rinvio 2024** · ord. 2024-12-03 · Tribunale di Brindisi → [scheda](2024/RPC_2024_RPC40884.md)
 - **n. 75/2024** · ord. 2024-01-04 · Trinunale di Napoli Nord → [scheda](2024/RPC_75_2024.md)
 - **n. 37/2023** · ord. 2023-06-20 · Corte d'Appello di Firenze → [scheda](2023/RPC_37_2023.md)
