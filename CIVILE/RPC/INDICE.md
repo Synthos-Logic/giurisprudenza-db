@@ -1,6 +1,6 @@
 # INDICE — Rinvii pregiudiziali ex art. 363-bis c.p.c.
 
-> Ultimo aggiornamento: 2026-10-05 · Schede: 107
+> Ultimo aggiornamento: 2026-10-12 · Schede: 108
 > Fonte: pagina "Rinvii pregiudiziali" del sito della Corte Suprema di Cassazione.
 >
 > ⚠️ Sono questioni **pendenti**: non si citano come precedente. Servono a segnalare
@@ -8,6 +8,7 @@
 
 | Rinvio | Ordinanza | Ufficio remittente | Materia | Scheda |
 |---|---|---|---|---|
+| n. 75/2026 | 2026-10-07 | Corte dei Conti Regione Puglia | Danno erariale | `2026/RPC_75_2026.md` |
 | (2026) | 2026-09-10 | Tribunale di Napoli | Fallimento | `2026/RPC_2026_RPC52373.md` |
 | n. 9682/2026 | 2026-08-25 | Tribunale di Napoli | Mutuo | `2026/RPC_9682_2026.md` |
 | n. 19/2026 | 2026-08-21 | Tribunale di Viterbo | Controversie agrarie | `2026/RPC_19_2026.md` |
@@ -177,6 +178,10 @@
 - **n. 19/2026** · ord. 2026-08-21 · Tribunale di Viterbo → [scheda](2026/RPC_19_2026.md)
 - **n. 20/2026** · ord. 2026-08-21 · Tribunale di Viterbo → [scheda](2026/RPC_20_2026.md)
 - **n. 18/2026** · ord. 2026-07-30 · Tribunale di Viterbo → [scheda](2026/RPC_18_2026.md)
+
+### Danno erariale
+
+- **n. 75/2026** · ord. 2026-10-07 · Corte dei Conti Regione Puglia → [scheda](2026/RPC_75_2026.md)
 
 ### Divisione
 

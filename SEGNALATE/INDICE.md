@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-10-05 · Schede: 319 (263 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-10-12 · Schede: 319 (263 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
