@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-10-12 · Schede: 306 (305 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-10-19 · Schede: 308 (307 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -355,6 +355,7 @@
 
 ### Previdenza sociale
 
+- **Cass. Sez. IV n. 26864/2026** · dep. 2026-10-14 → [scheda](2026/Cass_26864_2026.md)
 - **Cass. Sez. IV n. 25175/2025** · dep. 2025-09-14 → [scheda](2025/Cass_25175_2025.md)
 - **Cass. Sez. IV n. 22066/2025** · dep. 2025-07-31 → [scheda](2025/Cass_22066_2025.md)
 - **Cass. Sez. IV n. 30785/2024** · dep. 2024-12-02 → [scheda](2024/Cass_30785_2024.md)
@@ -428,6 +429,7 @@
 
 ### Pubblica amministrazione
 
+- **Cass. SU n. 26806/2026** · dep. 2026-10-14 → [scheda](2026/SU_26806_2026.md)
 - **Cass. SU n. 26080/2025** · dep. 2025-09-25 → [scheda](2025/SU_26080_2025.md)
 - **Cass. SU n. 13249/2025** · dep. 2025-05-19 → [scheda](2025/SU_13249_2025.md)
 - **Cass. Sez. I n. 18009/2024** · dep. 2024-07-01 → [scheda](2024/Cass_18009_2024.md)
@@ -567,6 +569,8 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 26864/2026 | sentenza | Quarta | Previdenza sociale | dep. 2026-10-14 | `2026/Cass_26864_2026.md` |
+| n. 26806/2026 | sentenza | Sezioni Unite | Pubblica amministrazione | dep. 2026-10-14 | `2026/SU_26806_2026.md` |
 | n. 26355/2026 | sentenza | Sezioni Unite | Previdenza | dep. 2026-10-07 | `2026/SU_26355_2026.md` |
 | n. 26356/2026 | sentenza | Sezioni Unite | Previdenza | dep. 2026-10-07 | `2026/SU_26356_2026.md` |
 | n. 25298/2026 | ordinanza-interlocutoria | Terza | Giudizio civile e penale | dep. 2026-09-14 | `2026/Cass_25298_2026.md` |

@@ -1,12 +1,15 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-10-12 · Schede: 22404 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-10-19 · Schede: 22407 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
 
-## 2026 (168 pronunce)
+## 2026 (171 pronunce)
 
+- **Sent. n. 171/2026** · dep. 2026-10-15 · massime: 0 → [scheda](2026/S_171_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 276, comma 1-ter, del codice di pr
+- **Sent. n. 170/2026** · dep. 2026-10-13 · massime: 0 → [scheda](2026/S_170_2026.md) — riservata a separate pronunce la decisione sulle altre questioni di legittimità costituzionale promosse con il
+- **Sent. n. 169/2026** · dep. 2026-10-13 · massime: 0 → [scheda](2026/S_169_2026.md) — 1) dichiara che non spettava al Tribunale ordinario di Matera, sezione penale, adottare né i provvedimenti di 
 - **Ord. n. 168/2026** · dep. 2026-10-09 · massime: 0 → [scheda](2026/O_168_2026.md) — 1) dichiara ammissibili gli interventi spiegati nel giudizio iscritto al n. 62 reg. ord. del 2026; 2) dichiara
 - **Ord. n. 167/2026** · dep. 2026-10-09 · massime: 0 → [scheda](2026/O_167_2026.md) — 1) dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale degli artt. 18, comma 1
 - **Sent. n. 166/2026** · dep. 2026-10-09 · massime: 0 → [scheda](2026/S_166_2026.md) — dichiara non fondata la questione di legittimità costituzionale dell'art. 100 del decreto del Presidente della
@@ -24,17 +27,17 @@
 - **Sent. n. 154/2026** · dep. 2026-09-25 · massime: 0 → [scheda](2026/S_154_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 162-ter, quarto comma, del codice pe
 - **Sent. n. 153/2026** · dep. 2026-07-24 · massime: 0 → [scheda](2026/S_153_2026.md) — dichiara non fondate, nei sensi di cui in motivazione, le questioni di legittimità costituzionale del combinat
 - **Sent. n. 152/2026** · dep. 2026-07-24 · massime: 2 → [scheda](2026/S_152_2026.md) — 1) dichiara inammissibile la questione di legittimità costituzionale dell'art. 580 del codice penale, sollevat
-- **Sent. n. 151/2026** · dep. 2026-07-24 · massime: 0 → [scheda](2026/S_151_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 586 del codice di procedura civile, 
+- **Sent. n. 151/2026** · dep. 2026-07-24 · massime: 4 → [scheda](2026/S_151_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 586 del codice di procedura civile, 
 - **Sent. n. 150/2026** · dep. 2026-07-24 · massime: 0 → [scheda](2026/S_150_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 7, terzo comma, del d.P.R. 6 ap
 - **Sent. n. 149/2026** · dep. 2026-07-24 · massime: 0 → [scheda](2026/S_149_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 58-quater, comma 3, della legge 26 luglio 1975, n. 354 (N
-- **Sent. n. 148/2026** · dep. 2026-07-24 · massime: 0 → [scheda](2026/S_148_2026.md) — 1) dichiara l'illegittimità costituzionale degli artt. 2, commi 1 e 2, quest'ultimo nella parte in cui prevede
+- **Sent. n. 148/2026** · dep. 2026-07-24 · massime: 8 → [scheda](2026/S_148_2026.md) — 1) dichiara l'illegittimità costituzionale degli artt. 2, commi 1 e 2, quest'ultimo nella parte in cui prevede
 - **Ord. n. 147/2026** · dep. 2026-07-23 · massime: 1 → [scheda](2026/O_147_2026.md) — 1) dispone di sottoporre, ai sensi dell'art. 267 del Trattato sul funzionamento dell'Unione europea, alla Cort
 - **Sent. n. 146/2026** · dep. 2026-07-23 · massime: 5 → [scheda](2026/S_146_2026.md) — 1) dichiara inammissibile la questione di legittimità costituzionale degli artt. 189, comma 6, e 224, comma 3,
 - **Sent. n. 145/2026** · dep. 2026-07-23 · massime: 0 → [scheda](2026/S_145_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 12, comma 3, della legge 13 giu
 - **Sent. n. 144/2026** · dep. 2026-07-23 · massime: 0 → [scheda](2026/S_144_2026.md) — dichiara l'illegittimità costituzionale dell'art. 1, comma 1, lettera b), della legge della Regione Sardegna 6
 - **Sent. n. 143/2026** · dep. 2026-07-23 · massime: 0 → [scheda](2026/S_143_2026.md) — 1) dichiara l'illegittimità costituzionale degli artt. 2 e 4 della legge 20 dicembre 2012, n. 237 (Norme per l
 - **Sent. n. 142/2026** · dep. 2026-07-23 · massime: 5 → [scheda](2026/S_142_2026.md) — 1) dichiara l'illegittimità costituzionale degli artt. 25, 26, 27, 28 e 29 della legge della Regione Toscana 2
-- **Sent. n. 141/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_141_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 80, comma 19, della legge 23 di
+- **Sent. n. 141/2026** · dep. 2026-07-21 · massime: 3 → [scheda](2026/S_141_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 80, comma 19, della legge 23 di
 - **Sent. n. 140/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_140_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 2, comma 1, lettera ll), del de
 - **Sent. n. 139/2026** · dep. 2026-07-21 · massime: 1 → [scheda](2026/S_139_2026.md) — dichiara inammissibili le questioni di legittimità dell'art. 13-bis, comma 1, lettera a), del decreto-legge 1°
 - **Sent. n. 138/2026** · dep. 2026-07-21 · massime: 2 → [scheda](2026/S_138_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 4-bis, comma 2, lettera a), della 
@@ -81,7 +84,7 @@
 - **Sent. n. 97/2026** · dep. 2026-06-05 · massime: 2 → [scheda](2026/S_97_2026.md) — dichiara non fondate, nei sensi di cui in motivazione, le questioni di legittimità costituzionale dell'art. 34
 - **Sent. n. 96/2026** · dep. 2026-06-05 · massime: 2 → [scheda](2026/S_96_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 570-bis del codice penale, sollevate
 - **Ord. n. 95/2026** · dep. 2026-05-29 · massime: 1 → [scheda](2026/O_95_2026.md) — rinvia il giudizio a nuovo ruolo.
-- **Ord. n. 94/2026** · dep. 2026-05-28 · massime: 0 → [scheda](2026/O_94_2026.md) — 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e su
+- **Ord. n. 94/2026** · dep. 2026-05-28 · massime: 1 → [scheda](2026/O_94_2026.md) — 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e su
 - **Sent. n. 93/2026** · dep. 2026-05-28 · massime: 3 → [scheda](2026/S_93_2026.md) — 1) dichiara inammissibile la questione di legittimità costituzionale dell'art. 9, comma 19, lettera b), della 
 - **Sent. n. 92/2026** · dep. 2026-05-28 · massime: 3 → [scheda](2026/S_92_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 45 del codice di procedura civile so
 - **Sent. n. 91/2026** · dep. 2026-05-28 · massime: 7 → [scheda](2026/S_91_2026.md) — dichiara l'illegittimità costituzionale dell'art. 13 del regio decreto-legge 14 aprile 1939, n. 636 (Modificaz
@@ -93,17 +96,17 @@
 - **Sent. n. 85/2026** · dep. 2026-05-19 · massime: 4 → [scheda](2026/S_85_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 20, comma 6, del decreto legisl
 - **Sent. n. 84/2026** · dep. 2026-05-19 · massime: 5 → [scheda](2026/S_84_2026.md) — 1) dichiara inammissibili gli interventi spiegati da E. G., M. D.A., V. S. e F. I., nel giudizio relativo all'
 - **Sent. n. 83/2026** · dep. 2026-05-19 · massime: 4 → [scheda](2026/S_83_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 16 della legge della Regione Valle d'Aosta 26 maggio 2025
-- **Ord. n. 82/2026** · dep. 2026-05-18 · massime: 0 → [scheda](2026/O_82_2026.md) — dichiara inammissibile l'intervento di A.M.H.Y. H.
+- **Ord. n. 82/2026** · dep. 2026-05-18 · massime: 1 → [scheda](2026/O_82_2026.md) — dichiara inammissibile l'intervento di A.M.H.Y. H.
 - **Ord. n. 81/2026** · dep. 2026-05-18 · massime: 2 → [scheda](2026/O_81_2026.md) — dichiara inammissibile l'intervento spiegato da P. D.A.
 - **Ord. n. 80/2026** · dep. 2026-05-14 · massime: 1 → [scheda](2026/O_80_2026.md) — 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e su
-- **Ord. n. 79/2026** · dep. 2026-05-14 · massime: 0 → [scheda](2026/O_79_2026.md) — dichiara inammissibile l'intervento spiegato da L.M. B.R.
+- **Ord. n. 79/2026** · dep. 2026-05-14 · massime: 1 → [scheda](2026/O_79_2026.md) — dichiara inammissibile l'intervento spiegato da L.M. B.R.
 - **Sent. n. 78/2026** · dep. 2026-05-14 · massime: 2 → [scheda](2026/S_78_2026.md) — dichiara non fondata la questione di legittimità costituzionale degli artt. 6, comma 5, del decreto legislativ
 - **Sent. n. 77/2026** · dep. 2026-05-14 · massime: 3 → [scheda](2026/S_77_2026.md) — dichiara non fondate, nei sensi di cui in motivazione, le questioni di legittimità costituzionale dell'art. 87
 - **Sent. n. 76/2026** · dep. 2026-05-12 · massime: 1 → [scheda](2026/S_76_2026.md) — dichiara l'illegittimità costituzionale dell'art. 24, comma 5, del decreto legislativo 17 agosto 1999, n. 368 
 - **Sent. n. 75/2026** · dep. 2026-05-12 · massime: 5 → [scheda](2026/S_75_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 9, comma 3, ultimo periodo, del
 - **Sent. n. 74/2026** · dep. 2026-05-12 · massime: 0 → [scheda](2026/S_74_2026.md) — dichiara non fondata, nei sensi di cui in motivazione, la questione di legittimità costituzionale dell'art. 28
 - **Sent. n. 73/2026** · dep. 2026-05-12 · massime: 3 → [scheda](2026/S_73_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 1, comma 1097, della legge 27 dicembre 2017, n. 205 (Bila
-- **Sent. n. 72/2026** · dep. 2026-05-12 · massime: 0 → [scheda](2026/S_72_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui p
+- **Sent. n. 72/2026** · dep. 2026-05-12 · massime: 4 → [scheda](2026/S_72_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 69, quarto comma, del codice penale, nella parte in cui p
 - **Sent. n. 71/2026** · dep. 2026-05-12 · massime: 3 → [scheda](2026/S_71_2026.md) — dichiara l'illegittimità costituzionale dell'art. 29, comma 5, del decreto legislativo 13 luglio 2017, n. 116 
 - **Sent. n. 70/2026** · dep. 2026-05-07 · massime: 2 → [scheda](2026/S_70_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 29, comma 1, lettera c), della legge della Regione Friuli
 - **Ord. n. 69/2026** · dep. 2026-05-05 · massime: 1 → [scheda](2026/O_69_2026.md) — dichiara inammissibili gli interventi spiegati dall'associazione Patrimonio Italiano, dalla Confederazione deg

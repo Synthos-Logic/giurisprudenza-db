@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-10-12 · Schede: 319 (263 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-10-19 · Schede: 323 (267 sentenze/ordinanze, 56 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -150,6 +150,7 @@
 
 ### Giudice (atti e provvedimenti)
 
+- **Cass. Sez. VI n. 35986/2026** · dep. 2026-10-13 → [scheda](2026/Cass_35986_2026.md)
 - **Cass. Sez. VI n. 23639/2024** · dep. 2024-06-12 → [scheda](2024/Cass_23639_2024.md)
 
 ### Giudice di pace
@@ -334,6 +335,7 @@
 
 ### Pena
 
+- **Cass. Sez. I n. 36314/2026** · dep. 2026-10-15 → [scheda](2026/Cass_36314_2026.md)
 - **Cass. Sez. III n. 23496/2026** · dep. 2026-06-25 → [scheda](2026/Cass_23496_2026.md)
 - **Cass. Sez. VI n. 16971/2026** · dep. 2026-05-12 → [scheda](2026/Cass_16971_2026.md)
 - **Cass. Sez. VII n. 13507/2026** · dep. 2026-04-14 → [scheda](2026/Cass_13507_2026.md)
@@ -394,6 +396,8 @@
 
 ### Reati contro il patrimonio
 
+- **Cass. SU n. 36525/2026** · dep. 2026-10-16 → [scheda](2026/SU_36525_2026.md)
+- **Cass. SU n. 36526/2026** · dep. 2026-10-16 → [scheda](2026/SU_36526_2026.md)
 - **Cass. SU n. 16114/2026** · dep. 2026-05-05 → [scheda](2026/SU_16114_2026.md)
 
 ### Reati contro l'amministrazione della giustizia
@@ -546,6 +550,10 @@
 |---|---|---|---|---|---|
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
 | R.G. 9916/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
+| n. 36525/2026 | sentenza | Sezioni Unite | Reati contro il patrimonio | dep. 2026-10-16 | `2026/SU_36525_2026.md` |
+| n. 36526/2026 | sentenza | Sezioni Unite | Reati contro il patrimonio | dep. 2026-10-16 | `2026/SU_36526_2026.md` |
+| n. 36314/2026 | sentenza | Prima | Pena | dep. 2026-10-15 | `2026/Cass_36314_2026.md` |
+| n. 35986/2026 | sentenza | Sesta | Giudice (atti e provvedimenti) | dep. 2026-10-13 | `2026/Cass_35986_2026.md` |
 | n. 34812/2026 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2026-09-29 | `2026/Cass_34812_2026.md` |
 | n. 34813/2026 | sentenza | Sesta | Estradizione per l'estero | dep. 2026-09-29 | `2026/Cass_34813_2026.md` |
 | n. 34754/2026 | sentenza | Seconda | Giudizio | dep. 2026-09-28 | `2026/Cass_34754_2026.md` |

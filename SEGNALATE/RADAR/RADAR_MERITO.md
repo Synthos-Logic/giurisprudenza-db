@@ -8,6 +8,23 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-10-19
+
+- **s.d.** · Archivio Penale · Legittimità — [Getto o versamento di cose - Cass., Sez. I, 17 luglio 2026 (ud. 12 giugno 2026), n. 27109, con nota di S. Regini](https://archiviopenale.it/getto-o-versamento-di-cose--cass-sez-i-17-luglio-2026-(ud-12-giugno-2026)-n-27109-con-nota-di-s-regini/contenuti/31865)
+- **s.d.** · Archivio Penale · Legittimità — [Procura Europea - Cass., Sez. III, 5 giugno 2026 (c.c. 19 febbraio 2026), C.](https://archiviopenale.it/procura-europea--cass-sez-iii-5-giugno-2026-(cc-19-febbraio-2026)-c/contenuti/31864)
+- **2026-10-19** · Penale Diritto e Procedura — [Decreto Caivano e messa alla prova minorile:dalla Consulta “un colpo al cerchio e uno alla botte”. Note critiche a Corte cost., 29 dicembre 2025, n. 203.](https://www.penaledp.it/decreto-caivano-e-messa-alla-prova-minoriledalla-consulta-un-colpo-al-cerchio-e-uno-alla-botte-note-critiche-a-corte-cost-29-dicembre-2025-n-203/?utm_source=rss&utm_medium=rss&utm_campaign=decreto-caivano-e-messa-alla-prova-minoriledalla-consulta-un-colpo-al-cerchio-e-uno-alla-botte-note-critiche-a-corte-cost-29-dicembre-2025-n-203)
+- **2026-10-17** · DisCrimen — [Osservatorio sulle Sezioni UniteCass. pen., SS.UU., 26.2.2026 (16.10.2026), n. 36526](https://discrimen.it/osservatorio-sulle-sezioni-unitecass-pen-ss-uu-26-2-2026-16-10-2026-n-36526/)
+- **2026-10-17** · DisCrimen — [Osservatorio sulle Sezioni UniteCass. pen., SS.UU., 26.2.2026 (16.10.2026), n. 36525](https://discrimen.it/osservatorio-sulle-sezioni-unitecass-pen-ss-uu-26-2-2026-16-10-2026-n-36525/)
+- **2026-10-16** · Giurisprudenza Penale — [Discarica non autorizzata: il Tribunale di Rovigo si pronuncia in tema di confisca obbligatoria e principio di proporzionalità della pena](https://www.giurisprudenzapenale.com/2026/10/16/discarica-non-autorizzata-confisca-proporzionalita-tribunale-rovig/)
+- **2026-10-16** · DisCrimen — [Sguardi dal confine](https://discrimen.it/sguardi-dal-confine/)
+- **2026-10-14** · DisCrimen — [Interpretazione della legge e “politicità” del giudice](https://discrimen.it/interpretazione-della-legge-e-politicita-del-giudice/)
+- **2026-10-14** · DisCrimen — [Il Giudice “politico” e la fascinazione europea. La circolazione delle logiche decisorie della Corte EDU nel processo penale italiano](https://discrimen.it/il-giudice-politico-e-la-fascinazione-europea-la-circolazione-delle-logiche-decisorie-della-corte-edu-nel-processo-penale-italiano/)
+- **2026-10-14** · DisCrimen — [Il Giudice “politico” nella crisi della legalità penale. Discrezionalità, CEDU e coordinate costituzionali della giurisdizione](https://discrimen.it/il-giudice-politico-nella-crisi-della-legalita-penale-discrezionalita-cedu-e-coordinate-costituzionali-della-giurisdizione/)
+- **2026-10-14** · DisCrimen — [Riapertis verbisI macarons del devoto](https://discrimen.it/riapertis-verbisi-macarons-del-devoto-164/)
+- **2026-10-14** · Penale Diritto e Procedura — [Esecuzione delle pene non detentive e prevenzione dei reati: l’ordinamento penale italiano*](https://www.penaledp.it/esecuzione-delle-pene-non-detentive-e-prevenzione-dei-reati-lordinamento-penale-italiano/?utm_source=rss&utm_medium=rss&utm_campaign=esecuzione-delle-pene-non-detentive-e-prevenzione-dei-reati-lordinamento-penale-italiano)
+- **2026-10-14** · Archivio Penale · Articoli — [Alcune riflessioni sul rapporto tra giustizia riparativa e illecito bagatellare a partire dal volume “Minima non curat praetor. Ipertrofia del diritto penale e decriminalizzazione dei reati bagatellari” di Carlo Enrico Paliero](https://archiviopenale.it/alcune-riflessioni-sul-rapporto-tra-giustizia-riparativa-e-illecito-bagatellare-a-partire-dal-volume-minima-non-curat-praetor-ipertrofia-del-diritto/articoli/51077)
+- **2026-10-13** · Archivio Penale · Articoli — [Il deficit di conoscibilità dell’identificazione  biometrica remota in tempo reale nel nuovo  art. 359-ter c.p.p.](https://archiviopenale.it/il-deficit-di-conoscibilita-dellidentificazione-biometrica-remota-in-tempo-reale-nel-nuovo-art-359-ter-cpp/articoli/51074)
+
 ## Aggiornamento del 2026-10-12
 
 - **2026-10-09** · Penale Diritto e Procedura — [La qualificazione giuridica della c.d. tortura di stato al vaglio delle Sezioni Unite](https://www.penaledp.it/la-qualificazione-giuridica-della-c-d-tortura-di-stato-al-vaglio-delle-sezioni-unite/?utm_source=rss&utm_medium=rss&utm_campaign=la-qualificazione-giuridica-della-c-d-tortura-di-stato-al-vaglio-delle-sezioni-unite)

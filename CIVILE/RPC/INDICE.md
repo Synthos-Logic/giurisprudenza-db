@@ -1,6 +1,6 @@
 # INDICE — Rinvii pregiudiziali ex art. 363-bis c.p.c.
 
-> Ultimo aggiornamento: 2026-10-12 · Schede: 108
+> Ultimo aggiornamento: 2026-10-19 · Schede: 110
 > Fonte: pagina "Rinvii pregiudiziali" del sito della Corte Suprema di Cassazione.
 >
 > ⚠️ Sono questioni **pendenti**: non si citano come precedente. Servono a segnalare
@@ -8,6 +8,8 @@
 
 | Rinvio | Ordinanza | Ufficio remittente | Materia | Scheda |
 |---|---|---|---|---|
+| (2026) | 2026-10-14 | Corte d'Appello di Lecce | Lavoro | `2026/RPC_2026_RPC53205.md` |
+| (2026) | 2026-10-14 | Corte d'Appello di Napoli | Equa riparazione | `2026/RPC_2026_RPC53216.md` |
 | n. 75/2026 | 2026-10-07 | Corte dei Conti Regione Puglia | Danno erariale | `2026/RPC_75_2026.md` |
 | (2026) | 2026-09-10 | Tribunale di Napoli | Fallimento | `2026/RPC_2026_RPC52373.md` |
 | n. 9682/2026 | 2026-08-25 | Tribunale di Napoli | Mutuo | `2026/RPC_9682_2026.md` |
@@ -189,6 +191,7 @@
 
 ### Equa riparazione
 
+- **rinvio 2026** · ord. 2026-10-14 · Corte d'Appello di Napoli → [scheda](2026/RPC_2026_RPC53216.md)
 - **rinvio 2023** · ord. 2023-03-02 · Corte d'Appello di Napoli → [scheda](2023/RPC_2023_RPC7457.md)
 
 ### Esecuzione forzata
@@ -239,6 +242,10 @@
 - **rinvio 2025** · ord. 2025-10-06 · Tribunale di Roma → [scheda](2025/RPC_2025_RPC47285.md)
 - **n. 2910/2023** · ord. 2023-04-17 · Giudice di Pace di Caserta → [scheda](2023/RPC_2910_2023.md)
 - **n. 7959/2023** · ord. 2023-04-04 · Tribunale di Verona → [scheda](2023/RPC_7959_2023.md)
+
+### Lavoro
+
+- **rinvio 2026** · ord. 2026-10-14 · Corte d'Appello di Lecce → [scheda](2026/RPC_2026_RPC53205.md)
 
 ### Locazione
 

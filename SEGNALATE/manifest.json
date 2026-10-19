@@ -1,14 +1,18 @@
 {
   "schema": "cassazione-penale-db/1",
-  "generato_il": "2026-10-12",
+  "generato_il": "2026-10-19",
   "tipo_fonte": "massimario-segnalate",
-  "totale_schede": 319,
+  "totale_schede": 323,
   "collezioni": {
     "2026": {
-      "schede": 89,
+      "schede": 93,
       "files": [
         "2026/QSP_10092_2026.md",
         "2026/QSP_9916_2026.md",
+        "2026/SU_36525_2026.md",
+        "2026/SU_36526_2026.md",
+        "2026/Cass_36314_2026.md",
+        "2026/Cass_35986_2026.md",
         "2026/Cass_34812_2026.md",
         "2026/Cass_34813_2026.md",
         "2026/Cass_34754_2026.md",
