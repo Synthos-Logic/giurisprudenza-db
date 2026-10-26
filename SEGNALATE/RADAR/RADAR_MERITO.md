@@ -8,6 +8,22 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-10-26
+
+- **s.d.** · Archivio Penale · Costituzionale — [Manomissione del braccialetto elettronico e sostituzione della misura cautelare – Corte cost., n. 171 del 2026](https://archiviopenale.it/manomissione-del-braccialetto-elettronico-e-sostituzione-della-misura-cautelare-%E2%80%93-corte-cost-n-171-del-2026-/contenuti/31870)
+- **s.d.** · Archivio Penale · Europea — [Libertà di espressione - Corte EDU, Sez. I, 22 ottobre 2026, Casali c.San Marino](https://archiviopenale.it/liberta-di-espressione--corte-edu-sez-i-22-ottobre-2026-casali-csan-marino/contenuti/31871)
+- **2026-10-26** · Diritto di Difesa (UCPI) — [QUEL “RUBICONE” CHE IL LEGISLATORE SI OSTINA A NON VEDERE FRA DIFESA LEGITTIMA E (IL)LEGITTIMA OFFESA “REATTIVA” – DI DOMENICO NOTARO](https://dirittodidifesa.eu/quel-rubicone-che-il-legislatore-si-ostina-a-non-vedere-fra-difesa-legittima-e-illegittima-offesa-reattiva-di-domenico-notaro/)
+- **2026-10-26** · Penale Diritto e Procedura — [Automatismo custodiale e valutazione individualizzata nel procedimento di esecuzione del mandato d’arresto europeo: la sentenza Tsachkov](https://www.penaledp.it/automatismo-custodiale-e-valutazione-individualizzata-nel-procedimento-di-esecuzione-del-mandato-darresto-europeo-la-sentenza-tsachkov/?utm_source=rss&utm_medium=rss&utm_campaign=automatismo-custodiale-e-valutazione-individualizzata-nel-procedimento-di-esecuzione-del-mandato-darresto-europeo-la-sentenza-tsachkov)
+- **2026-10-24** · Penale Diritto e Procedura — [Tutela penale degli interessi finanziari dell’Unione: la CGUE conferma i margini di discrezionalità degli Stati membri](https://www.penaledp.it/tutela-penale-degli-interessi-finanziari-dellunione-la-ccgue-conferma-i-margini-di-discrezionalita-degli-stati-membri/?utm_source=rss&utm_medium=rss&utm_campaign=tutela-penale-degli-interessi-finanziari-dellunione-la-ccgue-conferma-i-margini-di-discrezionalita-degli-stati-membri)
+- **2026-10-23** · Giurisprudenza Penale — [Sequestro probatorio e interesse ad impugnare in capo all’indagato “terzo” rispetto al bene sequestrato: la Cassazione mette la parola fine al contrasto giurisprudenziale](https://www.giurisprudenzapenale.com/2026/10/23/sequestro-probatorio-interesse-impugnare-indagato-beni-terzi/)
+- **2026-10-23** · La Legislazione Penale — [L’interesse a impugnare del pubblico ministero: punti fermi e mutamenti di prospettiva – Wanda Nocerino](https://www.lalegislazionepenale.eu/linteresse-a-impugnare-del-pubblico-ministero-punti-fermi-e-mutamenti-di-prospettiva-wanda-nocerino/)
+- **2026-10-22** · Giurisprudenza Penale — [Suicidio del dipendente – autista di tir sottoposto a vessazioni e condizioni lavorative usuranti – e responsabilità del preposto e del datore di lavoro](https://www.giurisprudenzapenale.com/2026/10/22/suicidio-lavoratore-omicidio-colposo-tribunale-torino/)
+- **2026-10-21** · Diritto di Difesa (UCPI) — [LA CONVENZIONE TRADITA: LA POLITICA CRIMINALE SICURITARIA TRAVOLGE ANCHE LA GIUSTIZIA PENALE MINORILE – DI MARTA BERTOLINO](https://dirittodidifesa.eu/la-convenzione-tradita-la-politica-criminale-sicuritaria-travolge-anche-la-giustizia-penale-minorile-di-marta-bertolino/)
+- **2026-10-21** · DisCrimen — [Riapertis verbisI macarons del devoto](https://discrimen.it/riapertis-verbisi-macarons-del-devoto-165/)
+- **2026-10-21** · Penale Diritto e Procedura — [IV Convegno annuale: Il governo penale della (in)sicurezza](https://www.penaledp.it/__trashed-4/?utm_source=rss&utm_medium=rss&utm_campaign=__trashed-4)
+- **2026-10-20** · Giustizia Insieme · Diritto penale — [Norme (para-)ㅤpenali “in grigio” nella proposta riforma della 231](https://www.giustiziainsieme.it/articolo/4139-norme-para-penali-in-grigio-nella-proposta-riforma-della-231.php)
+- **2026-10-19** · Diritto di Difesa (UCPI) — [INSICUREZZA, PASSIONE PUNITIVA E CAPRI ESPIATORI – DI GIOVANNI FIANDACA](https://dirittodidifesa.eu/insicurezza-passione-punitiva-e-capri-espiatori-di-giovanni-fiandaca/)
+
 ## Aggiornamento del 2026-10-19
 
 - **s.d.** · Archivio Penale · Legittimità — [Getto o versamento di cose - Cass., Sez. I, 17 luglio 2026 (ud. 12 giugno 2026), n. 27109, con nota di S. Regini](https://archiviopenale.it/getto-o-versamento-di-cose--cass-sez-i-17-luglio-2026-(ud-12-giugno-2026)-n-27109-con-nota-di-s-regini/contenuti/31865)

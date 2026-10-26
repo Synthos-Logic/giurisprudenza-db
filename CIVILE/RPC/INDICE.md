@@ -1,6 +1,6 @@
 # INDICE — Rinvii pregiudiziali ex art. 363-bis c.p.c.
 
-> Ultimo aggiornamento: 2026-10-19 · Schede: 110
+> Ultimo aggiornamento: 2026-10-26 · Schede: 111
 > Fonte: pagina "Rinvii pregiudiziali" del sito della Corte Suprema di Cassazione.
 >
 > ⚠️ Sono questioni **pendenti**: non si citano come precedente. Servono a segnalare
@@ -8,6 +8,7 @@
 
 | Rinvio | Ordinanza | Ufficio remittente | Materia | Scheda |
 |---|---|---|---|---|
+| n. 30/2026 | 2026-10-22 | Corte dei Conti per la Regione Lombardia | Previdenza altro | `2026/RPC_30_2026.md` |
 | (2026) | 2026-10-14 | Corte d'Appello di Lecce | Lavoro | `2026/RPC_2026_RPC53205.md` |
 | (2026) | 2026-10-14 | Corte d'Appello di Napoli | Equa riparazione | `2026/RPC_2026_RPC53216.md` |
 | n. 75/2026 | 2026-10-07 | Corte dei Conti Regione Puglia | Danno erariale | `2026/RPC_75_2026.md` |
@@ -286,6 +287,10 @@
 
 - **n. 6965/2023** · ord. 2023-03-30 · Tribunale di Taranto → [scheda](2023/RPC_6965_2023.md)
 - **rinvio 2023** · ord. 2023-03-02 · Corte d'Appello di Napoli → [scheda](2023/RPC_2023_RPC7464.md)
+
+### Previdenza altro
+
+- **n. 30/2026** · ord. 2026-10-22 · Corte dei Conti per la Regione Lombardia → [scheda](2026/RPC_30_2026.md)
 
 ### Proprietà
 

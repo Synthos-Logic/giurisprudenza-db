@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-10-19 · Schede: 308 (307 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-10-26 · Schede: 311 (310 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -176,6 +176,7 @@
 
 ### Fallimento
 
+- **Cass. Sez. I n. 27546/2026** · dep. 2026-10-22 → [scheda](2026/Cass_27546_2026.md)
 - **Cass. Sez. I n. 2931/2025** · dep. 2025-02-05 → [scheda](2025/Cass_2931_2025.md)
 - **Cass. Sez. I n. 1679/2025** · dep. 2025-01-23 → [scheda](2025/Cass_1679_2025.md)
 - **Cass. SU n. 7337/2024** · dep. 2024-03-19 → [scheda](2024/SU_7337_2024.md)
@@ -355,6 +356,7 @@
 
 ### Previdenza sociale
 
+- **Cass. Sez. IV n. 27395/2026** · dep. 2026-10-20 → [scheda](2026/Cass_27395_2026.md)
 - **Cass. Sez. IV n. 26864/2026** · dep. 2026-10-14 → [scheda](2026/Cass_26864_2026.md)
 - **Cass. Sez. IV n. 25175/2025** · dep. 2025-09-14 → [scheda](2025/Cass_25175_2025.md)
 - **Cass. Sez. IV n. 22066/2025** · dep. 2025-07-31 → [scheda](2025/Cass_22066_2025.md)
@@ -382,6 +384,7 @@
 
 ### Processo civile
 
+- **Cass. Sez. II n. 27417/2026** · dep. 2026-10-21 → [scheda](2026/Cass_27417_2026.md)
 - **Cass. SU n. 14226/2026** · dep. 2026-05-14 → [scheda](2026/SU_14226_2026.md)
 - **Cass. Sez. III n. 2010/2026** · dep. 2026-01-30 → [scheda](2026/Cass_2010_2026.md)
 - **Cass. SU n. 34301/2025** · dep. 2025-12-27 → [scheda](2025/SU_34301_2025.md)
@@ -569,6 +572,9 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 27546/2026 | ordinanza-interlocutoria | Prima | Fallimento | dep. 2026-10-22 | `2026/Cass_27546_2026.md` |
+| n. 27417/2026 | ordinanza-interlocutoria | Seconda | Processo civile | dep. 2026-10-21 | `2026/Cass_27417_2026.md` |
+| n. 27395/2026 | ordinanza-interlocutoria | Quarta | Previdenza sociale | dep. 2026-10-20 | `2026/Cass_27395_2026.md` |
 | n. 26864/2026 | sentenza | Quarta | Previdenza sociale | dep. 2026-10-14 | `2026/Cass_26864_2026.md` |
 | n. 26806/2026 | sentenza | Sezioni Unite | Pubblica amministrazione | dep. 2026-10-14 | `2026/SU_26806_2026.md` |
 | n. 26355/2026 | sentenza | Sezioni Unite | Previdenza | dep. 2026-10-07 | `2026/SU_26355_2026.md` |

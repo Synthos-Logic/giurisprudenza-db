@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-10-19 · Schede: 323 (267 sentenze/ordinanze, 56 questioni SU)
+> Ultimo aggiornamento: 2026-10-26 · Schede: 325 (268 sentenze/ordinanze, 57 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -226,6 +226,7 @@
 
 ### Mandato d'arresto europeo
 
+- **Cass. Sez. VI n. 36318/2026** · dep. 2026-10-15 → [scheda](2026/Cass_36318_2026.md)
 - **Cass. Sez. VI n. 37897/2025** · dep. 2025-11-21 → [scheda](2025/Cass_37897_2025.md)
 - **Cass. Sez. VI n. 33386/2025** · dep. 2025-10-08 → [scheda](2025/Cass_33386_2025.md)
 - **Cass. Sez. VI n. 32241/2025** · dep. 2025-09-29 → [scheda](2025/Cass_32241_2025.md)
@@ -487,6 +488,7 @@
 
 ## Questioni Sezioni Unite
 
+- **QSP R.G. 15007/2026 · PENDENTE** · ud. 2026-12-17 → [scheda](2026/QSP_15007_2026.md)
 - **QSP R.G. 10092/2026 · PENDENTE** · ud. 2026-11-26 → [scheda](2026/QSP_10092_2026.md)
 - **QSP R.G. 9916/2026 · PENDENTE** · ud. 2026-10-29 → [scheda](2026/QSP_9916_2026.md)
 - **QSP R.G. 6868/2026 · DECISA** · ud. 2026-09-24 → [scheda](2026/QSP_6868_2026.md)
@@ -548,11 +550,13 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| R.G. 15007/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-12-17 | `2026/QSP_15007_2026.md` |
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
 | R.G. 9916/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
 | n. 36525/2026 | sentenza | Sezioni Unite | Reati contro il patrimonio | dep. 2026-10-16 | `2026/SU_36525_2026.md` |
 | n. 36526/2026 | sentenza | Sezioni Unite | Reati contro il patrimonio | dep. 2026-10-16 | `2026/SU_36526_2026.md` |
 | n. 36314/2026 | sentenza | Prima | Pena | dep. 2026-10-15 | `2026/Cass_36314_2026.md` |
+| n. 36318/2026 | sentenza | Sesta | Mandato d'arresto europeo | dep. 2026-10-15 | `2026/Cass_36318_2026.md` |
 | n. 35986/2026 | sentenza | Sesta | Giudice (atti e provvedimenti) | dep. 2026-10-13 | `2026/Cass_35986_2026.md` |
 | n. 34812/2026 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2026-09-29 | `2026/Cass_34812_2026.md` |
 | n. 34813/2026 | sentenza | Sesta | Estradizione per l'estero | dep. 2026-09-29 | `2026/Cass_34813_2026.md` |

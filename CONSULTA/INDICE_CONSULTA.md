@@ -1,12 +1,18 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-10-19 · Schede: 22407 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-10-26 · Schede: 22413 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
 
-## 2026 (171 pronunce)
+## 2026 (177 pronunce)
 
+- **Ord. n. 177/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_177_2026.md) — dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 4-bis, comma 1-q
+- **Ord. n. 176/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_176_2026.md) — rinvia il giudizio a nuovo ruolo.
+- **Ord. n. 175/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_175_2026.md) — 1) dispone di sottoporre, ai sensi dell'art. 267 del Trattato sul funzionamento dell'Unione europea, alla Cort
+- **Sent. n. 174/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/S_174_2026.md) — dichiara l'illegittimità costituzionale dell'art. 8 della legge 15 luglio 1966, n. 604 (Norme sui licenziament
+- **Ord. n. 173/2026** · dep. 2026-10-20 · massime: 0 → [scheda](2026/O_173_2026.md) — dichiara inammissibile l'intervento spiegato nel giudizio di legittimità costituzionale promosso dalla Corte d
+- **Sent. n. 172/2026** · dep. 2026-10-20 · massime: 0 → [scheda](2026/S_172_2026.md) — dichiara l'illegittimità costituzionale dell'art. 9, comma 2, del decreto-legge 12 luglio 2018, n. 87 (Disposi
 - **Sent. n. 171/2026** · dep. 2026-10-15 · massime: 0 → [scheda](2026/S_171_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 276, comma 1-ter, del codice di pr
 - **Sent. n. 170/2026** · dep. 2026-10-13 · massime: 0 → [scheda](2026/S_170_2026.md) — riservata a separate pronunce la decisione sulle altre questioni di legittimità costituzionale promosse con il
 - **Sent. n. 169/2026** · dep. 2026-10-13 · massime: 0 → [scheda](2026/S_169_2026.md) — 1) dichiara che non spettava al Tribunale ordinario di Matera, sezione penale, adottare né i provvedimenti di 
@@ -38,7 +44,7 @@
 - **Sent. n. 143/2026** · dep. 2026-07-23 · massime: 0 → [scheda](2026/S_143_2026.md) — 1) dichiara l'illegittimità costituzionale degli artt. 2 e 4 della legge 20 dicembre 2012, n. 237 (Norme per l
 - **Sent. n. 142/2026** · dep. 2026-07-23 · massime: 5 → [scheda](2026/S_142_2026.md) — 1) dichiara l'illegittimità costituzionale degli artt. 25, 26, 27, 28 e 29 della legge della Regione Toscana 2
 - **Sent. n. 141/2026** · dep. 2026-07-21 · massime: 3 → [scheda](2026/S_141_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 80, comma 19, della legge 23 di
-- **Sent. n. 140/2026** · dep. 2026-07-21 · massime: 0 → [scheda](2026/S_140_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 2, comma 1, lettera ll), del de
+- **Sent. n. 140/2026** · dep. 2026-07-21 · massime: 2 → [scheda](2026/S_140_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 2, comma 1, lettera ll), del de
 - **Sent. n. 139/2026** · dep. 2026-07-21 · massime: 1 → [scheda](2026/S_139_2026.md) — dichiara inammissibili le questioni di legittimità dell'art. 13-bis, comma 1, lettera a), del decreto-legge 1°
 - **Sent. n. 138/2026** · dep. 2026-07-21 · massime: 2 → [scheda](2026/S_138_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 4-bis, comma 2, lettera a), della 
 - **Sent. n. 137/2026** · dep. 2026-07-21 · massime: 3 → [scheda](2026/S_137_2026.md) — 1) dichiara inammissibile la questione di legittimità costituzionale dell'art. 1, comma 812, lettera a), numer
@@ -54,7 +60,7 @@
 - **Sent. n. 127/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_127_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 5, commi 1 e 2, del decreto-legge 15
 - **Sent. n. 126/2026** · dep. 2026-07-16 · massime: 0 → [scheda](2026/S_126_2026.md) — dichiara l'illegittimità costituzionale dell'art. 104-bis, comma 1-bis, secondo periodo, del decreto legislati
 - **Sent. n. 125/2026** · dep. 2026-07-14 · massime: 0 → [scheda](2026/S_125_2026.md) — dichiara l'illegittimità costituzionale dell'art. 509, comma 3, del decreto legislativo 16 aprile 1994, n. 297
-- **Ord. n. 124/2026** · dep. 2026-07-13 · massime: 0 → [scheda](2026/O_124_2026.md) — dichiara ammissibile l'intervento spiegato da F. C. nel giudizio per conflitto di attribuzione tra poteri dell
+- **Ord. n. 124/2026** · dep. 2026-07-13 · massime: 1 → [scheda](2026/O_124_2026.md) — dichiara ammissibile l'intervento spiegato da F. C. nel giudizio per conflitto di attribuzione tra poteri dell
 - **Sent. n. 123/2026** · dep. 2026-07-13 · massime: 0 → [scheda](2026/S_123_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 11 della legge 16 marzo 2006, n. 1
 - **Ord. n. 122/2026** · dep. 2026-07-07 · massime: 1 → [scheda](2026/O_122_2026.md) — 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e su
 - **Sent. n. 121/2026** · dep. 2026-07-06 · massime: 8 → [scheda](2026/S_121_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 54-bis del decreto legislativo 1° agosto 2003, n. 259 (Co
