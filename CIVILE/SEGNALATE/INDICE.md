@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-10-26 · Schede: 311 (310 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-11-02 · Schede: 313 (312 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -408,6 +408,7 @@
 
 ### Processo del lavoro
 
+- **Cass. Sez. III n. 27991/2026** · dep. 2026-10-28 → [scheda](2026/Cass_27991_2026.md)
 - **Cass. SU n. 17603/2025** · dep. 2025-06-30 → [scheda](2025/SU_17603_2025.md)
 - **Cass. Sez. IV n. 11898/2024** · dep. 2024-05-03 → [scheda](2024/Cass_11898_2024.md)
 
@@ -464,6 +465,7 @@
 
 ### Ricorso per cassazione
 
+- **Cass. SU n. 28087/2026** · dep. 2026-10-29 → [scheda](2026/SU_28087_2026.md)
 - **Cass. SU n. 284/2025** · dep. 2025-01-07 → [scheda](2025/SU_284_2025.md)
 - **Cass. Sez. II n. 29812/2024** · dep. 2024-11-19 → [scheda](2024/Cass_29812_2024.md)
 - **Cass. SU n. 6477/2024** · dep. 2024-03-12 → [scheda](2024/SU_6477_2024.md)
@@ -572,6 +574,8 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 28087/2026 | sentenza | Sezioni Unite | Ricorso per cassazione | dep. 2026-10-29 | `2026/SU_28087_2026.md` |
+| n. 27991/2026 | ordinanza-interlocutoria | Terza | Processo del lavoro | dep. 2026-10-28 | `2026/Cass_27991_2026.md` |
 | n. 27546/2026 | ordinanza-interlocutoria | Prima | Fallimento | dep. 2026-10-22 | `2026/Cass_27546_2026.md` |
 | n. 27417/2026 | ordinanza-interlocutoria | Seconda | Processo civile | dep. 2026-10-21 | `2026/Cass_27417_2026.md` |
 | n. 27395/2026 | ordinanza-interlocutoria | Quarta | Previdenza sociale | dep. 2026-10-20 | `2026/Cass_27395_2026.md` |

@@ -1,8 +1,8 @@
 {
   "schema": "giurisprudenza-db/rassegne-civili/1",
-  "generato_il": "2026-10-26",
+  "generato_il": "2026-11-02",
   "tipo_fonte": "massimario-rassegne",
-  "totale_rassegne": 13,
+  "totale_rassegne": 14,
   "periodi": [
     "2025-01",
     "2025-04",
@@ -16,6 +16,7 @@
     "2026-02",
     "2026-03",
     "2026-05",
-    "2026-06"
+    "2026-06",
+    "2026-07"
   ]
 }

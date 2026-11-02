@@ -1,12 +1,13 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-10-26 · Schede: 22413 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-11-02 · Schede: 22414 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
 
-## 2026 (177 pronunce)
+## 2026 (178 pronunce)
 
+- **Ord. n. 178/2026** · dep. 2026-10-29 · massime: 0 → [scheda](2026/O_178_2026.md) — 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e su
 - **Ord. n. 177/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_177_2026.md) — dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 4-bis, comma 1-q
 - **Ord. n. 176/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_176_2026.md) — rinvia il giudizio a nuovo ruolo.
 - **Ord. n. 175/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_175_2026.md) — 1) dispone di sottoporre, ai sensi dell'art. 267 del Trattato sul funzionamento dell'Unione europea, alla Cort
