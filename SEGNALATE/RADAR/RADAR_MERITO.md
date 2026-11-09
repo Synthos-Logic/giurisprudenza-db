@@ -8,6 +8,17 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-11-09
+
+- **2026-11-09** · Giustizia Insieme · Processo penale — [Corrispondenza digitale dei parlamentari e limiti del potere autorizzatorio](https://www.giustiziainsieme.it/articolo/4166-corrispondenza-digitale-dei-parlamentari-e-limiti-del-potere-autorizzatorio.php)
+- **2026-11-06** · Giurisprudenza Penale — [Depositata la sentenza della Corte costituzionale (n. 190/2026) nella vicenda Almasri / Bartolozzi](https://www.giurisprudenzapenale.com/2026/11/06/depositata-la-sentenza-della-corte-costituzionale-n-190-2026-nella-vicenda-almasri-bartolozzi/)
+- **2026-11-05** · Diritto di Difesa (UCPI) — [“L’AVVOCATO TRA PROCESSO E SOCIETÀ.  IL VALORE DEMOCRATICO DELLA DIFESA”. LA RELAZIONE DEL PRESIDENTE UCPI FRANCESCO PETRELLI](https://dirittodidifesa.eu/lavvocato-tra-processo-e-societa-il-valore-democratico-della-difesa-la-relazione-del-presidente-ucpi-francesco-petrelli/)
+- **2026-11-05** · DisCrimen — [Appunti sullo statuto epistemologico della prova nell’era dell’intelligenza artificiale](https://discrimen.it/appunti-sullo-statuto-epistemologico-della-prova-nellera-dellintelligenza-artificiale/)
+- **2026-11-04** · La Legislazione Penale — [Matière pénale, presunzione di innocenza, diritto al silenzio e diritto di non collaborare – Barbara Lavarini](https://www.lalegislazionepenale.eu/matiere-penale-presunzione-di-innocenza-diritto-al-silenzio-e-diritto-di-non-collaborare-barbara-lavarini/)
+- **2026-11-04** · DisCrimen — [Riapertis verbisI macarons del devoto](https://discrimen.it/riapertis-verbisi-macarons-del-devoto-167/)
+- **2026-11-03** · Penale Diritto e Procedura — [Il delitto di corruzione tra privati. Vicende evolutive di una ipotesi negletta](https://www.penaledp.it/il-delitto-di-corruzione-tra-privati-vicende-evolutive-di-una-ipotesi-negletta/?utm_source=rss&utm_medium=rss&utm_campaign=il-delitto-di-corruzione-tra-privati-vicende-evolutive-di-una-ipotesi-negletta)
+- **2026-11-03** · Giustizia Insieme · Processo penale — [La nuova detenzione domiciliare per i tossicodipendenti](https://www.giustiziainsieme.it/articolo/4158-la-nuova-detenzione-domiciliare-per-i-tossicodipendenti.php)
+
 ## Aggiornamento del 2026-11-02
 
 - **s.d.** · Archivio Penale · Legittimità — [Interrogatorio preventivo - Cass., Sez. III, 19 febbraio 2026](https://archiviopenale.it/interrogatorio-preventivo--cass-sez-iii-19-febbraio-2026/contenuti/31874)

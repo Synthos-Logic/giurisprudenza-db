@@ -1,6 +1,6 @@
 # INDICE — Rinvii pregiudiziali ex art. 363-bis c.p.c.
 
-> Ultimo aggiornamento: 2026-11-02 · Schede: 111
+> Ultimo aggiornamento: 2026-11-09 · Schede: 112
 > Fonte: pagina "Rinvii pregiudiziali" del sito della Corte Suprema di Cassazione.
 >
 > ⚠️ Sono questioni **pendenti**: non si citano come precedente. Servono a segnalare
@@ -8,6 +8,7 @@
 
 | Rinvio | Ordinanza | Ufficio remittente | Materia | Scheda |
 |---|---|---|---|---|
+| (2026) | 2026-10-30 | Tribunale Napoli Nord | Contributi previdenza | `2026/RPC_2026_RPC53611.md` |
 | n. 30/2026 | 2026-10-22 | Corte dei Conti per la Regione Lombardia | Previdenza altro | `2026/RPC_30_2026.md` |
 | (2026) | 2026-10-14 | Corte d'Appello di Lecce | Lavoro | `2026/RPC_2026_RPC53205.md` |
 | (2026) | 2026-10-14 | Corte d'Appello di Napoli | Equa riparazione | `2026/RPC_2026_RPC53216.md` |
@@ -174,6 +175,7 @@
 
 ### Contributi previdenza
 
+- **rinvio 2026** · ord. 2026-10-30 · Tribunale Napoli Nord → [scheda](2026/RPC_2026_RPC53611.md)
 - **rinvio 2024** · ord. 2024-01-26 · Tribunale Cagliari → [scheda](2024/RPC_2024_RPC30186.md)
 
 ### Controversie agrarie

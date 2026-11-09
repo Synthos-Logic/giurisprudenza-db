@@ -1,6 +1,6 @@
 # RADAR CIVILE — segnalazioni dalle riviste giuridiche
 
-> Aggiornato il 2026-11-02 · fonti interrogate: 5 · voci nuove in questa esecuzione: 23
+> Aggiornato il 2026-11-09 · fonti interrogate: 5 · voci nuove in questa esecuzione: 24
 >
 > **A che cosa serve.** A sapere di che cosa si discute: dottrina, commenti a sentenza,
 > note a prima lettura. Sono **solo segnalazioni**: titolo, data e link alla fonte.
@@ -10,39 +10,39 @@
 
 ## Judicium _(processo civile)_
 
-*Nessuna voce nuova.*
+- **La scelta espressa del giudice di non decidere una questione pregiudiziale di rito: la Cassazione muta indirizzo.** · Mon, 09 Nov 2026 → [apri](https://www.judicium.it/la-scelta-espressa-del-giudice-di-non-decidere-una-questione-pregiudiziale-di-rito-la-cassazione-muta-indirizzo/)
+- **Spunti sulla separazione patrimoniale nelle cartolarizzazioni (a margine di due recenti pronunce)** · Thu, 05 Nov 2026 → [apri](https://www.judicium.it/spunti-sulla-separazione-patrimoniale-nelle-cartolarizzazioni-a-margine-di-due-recenti-pronunce/)
 
 ## Il Diritto Processuale Civile _(processo civile)_
 
-- **La notificazione apparente, ovvero quando l’indirizzo PEC è reale, ma estraneo all’effettivo destinatario** · Fri, 30 Oct 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/10/30/la-notificazione-apparente-ovvero-quando-lindirizzo-pec-e-reale-ma-estraneo-alleffettivo-destinatario/)
-- **Il deposito telematico non perfezionato e l’onere di pronta reazione del difensore** · Thu, 29 Oct 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/10/29/il-deposito-telematico-non-perfezionato-e-lonere-di-pronta-reazione-del-difensore/)
-- **Il costo dell’implicito. Giudicato sulle questioni e limiti oggettivi della cosa giudicata alla luce delle Model Rules ELI/UNIDROIT** · Tue, 27 Oct 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/10/27/il-costo-dellimplicito-giudicato-sulle-questioni-e-limiti-oggettivi-della-cosa-giudicata-alla-luce-delle-model-rules-eli-unidroit/)
+- **Il recepimento della Direttiva anti-SLAPP con il d.lgs. 194/2026: un cluster di regole processuali di cui in gran parte non c’era bisogno** · Thu, 05 Nov 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/11/05/il-recepimento-della-direttiva-anti-slapp-con-il-d-lgs-194-2026-un-cluster-di-regole-processuali-di-cui-in-gran-parte-non-cera-bisogno/)
+- **In tema di efficienza e qualità della giustizia civile. Alcune riflessioni sulla fase preparatoria nel giudizio di primo grado** · Tue, 03 Nov 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/11/03/in-tema-di-efficienza-e-qualita-della-giustizia-civile-alcune-riflessioni-sulla-fase-preparatoria-nel-giudizio-di-primo-grado/)
 
 ## Diritto Bancario _(bancario e finanziario)_
 
-- **Banca d’Italia: gli effetti dell’introduzione del salario minimo** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/banca-ditalia-gli-effetti-dellintroduzione-del-salario-minimo/)
-- **ACF: gli obblighi informativi nel regime execution only** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/acf-gli-obblighi-informativi-nel-regime-execution-only/)
-- **Operazioni straordinarie transfrontaliere: novità dal D. Lgs. 88/2025** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/operazioni-straordinarie-transfrontaliere-novita-dal-d-lgs-88-2025/)
-- **Imprese familiari, diffusione e sfide del passaggio generazionale** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/imprese-familiari-diffusione-e-sfide-del-passaggio-generazionale/)
-- **IT-Wallet: le nuove regole per la registrazione e la sperimentazione** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/it-wallet-le-nuove-regole-per-la-registrazione-e-la-sperimentazione/)
-- **La gestione del rischio esistenziale dell’intelligenza artificiale** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/la-gestione-del-rischio-esistenziale-dellintelligenza-artificiale/)
-- **Semplificazione rendicontazione tassonomia UE: parere EIOPA** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/semplificazione-rendicontazione-tassonomia-ue-parere-eiopa/)
-- **Privilegio processuale fondiario nel mutuo fondiario: illegittimità costituzionale?** · Mon, 02 Nov 2026 → [apri](https://www.dirittobancario.it/art/privilegio-processuale-fondiario-nel-mutuo-fondiario-illegittimita-costituzionale/)
-- **Fusione inversa del veicolo e riporto delle perdite della target** · Fri, 30 Oct 2026 → [apri](https://www.dirittobancario.it/art/fusione-inversa-del-veicolo-e-riporto-delle-perdite-della-target/)
-- **Sulla conservazione delle segnalazioni nei SIC** · Fri, 30 Oct 2026 → [apri](https://www.dirittobancario.it/art/sulla-conservazione-delle-segnalazioni-nei-sic/)
+- **ID caller spoofing, SMS alert e responsabilità della banca** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/id-caller-spoofing-sms-alert-e-responsabilita-della-banca/)
+- **White label: scheda informativa EBA per i consumatori** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/white-label-scheda-informativa-eba-per-i-consumatori/)
+- **Accordi di ristrutturazione: no all’omologa senza elenco creditori nella domanda** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/accordi-di-ristrutturazione-no-allomologa-senza-elenco-creditori-nella-domanda/)
+- **Polizze unit-linked: ACF su carenze informative e riscatti anticipati** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/polizze-unit-linked-acf-su-carenze-informative-e-riscatti-anticipati/)
+- **Holding di investimento: mancata distribuzione di utili e abuso del diritto** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/holding-di-investimento-mancata-distribuzione-di-utili-e-abuso-del-diritto/)
+- **EBA sulla deroga transitoria per esposizioni su strumenti di capitale** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/eba-sulla-deroga-transitoria-per-esposizioni-su-strumenti-di-capitale/)
+- **Limiti alla moratoria dei crediti privilegiati nel piano del consumatore** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/limiti-alla-moratoria-dei-crediti-privilegiati-nel-piano-del-consumatore/)
+- **FATF-GAFI: il ciclo delle truffe online e le strategie di prevenzione** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/fatf-gafi-il-ciclo-delle-truffe-online-e-le-strategie-di-prevenzione/)
+- **Utili extracontabili: la nuova presunzione non è retroattiva** · Fri, 06 Nov 2026 → [apri](https://www.dirittobancario.it/art/utili-extracontabili-la-nuova-presunzione-non-e-retroattiva/)
+- **CCD 2: Webinar 15/12 sulle prossime disposizioni Banca d’Italia** · Fri, 06 Nov 2026 → [apri](https://www.dirittobancario.it/art/ccd-2-webinar-15-12-sulle-prossime-disposizioni-banca-ditalia/)
 
 ## Diritto.it _(generalista)_
 
-- **Detenzione domiciliare, nuove regole in arrivo: cosa prevede la proposta di legge** · Mon, 02 Nov 2026 → [apri](https://www.diritto.it/detenzione-domiciliare-nuove-regole-ddl-3095/)
-- **Regolamento condominiale nullo se imposto dal costruttore: ecco perché** · Mon, 02 Nov 2026 → [apri](https://www.diritto.it/regolamento-condominiale-costruttore-nullo/)
-- **Ex Ilva, la Cassazione conferma lo stop all’area a caldo: ecco perché** · Mon, 02 Nov 2026 → [apri](https://www.diritto.it/ex-ilva-cassazione-stop-area-caldo/)
-- **Precedenti penali, liquidazione controllata ed esdebitazione nel Codice della crisi** · Mon, 02 Nov 2026 → [apri](https://www.diritto.it/precedenti-penali-liquidazione-controllata-ed-esdebitazione-nel-codice-della-crisi/)
-- **Booking.com sotto indagine UE: cosa rischia la piattaforma per truffe e phishing** · Fri, 30 Oct 2026 → [apri](https://www.diritto.it/booking-com-sotto-indagine-ue-dsa-gdpr-e-truffe/)
-- **Affitti brevi, il TAR conferma lo stop agli immobili irregolari** · Fri, 30 Oct 2026 → [apri](https://www.diritto.it/affitti-brevi-e-abusi-edilizi-quando-scatta-lo-stop/)
-- **Pene sostitutive negate in appello: l’errore che può costare caro alla difesa** · Fri, 30 Oct 2026 → [apri](https://www.diritto.it/pene-sostitutive-in-appello-quando-serve-richiesta/)
-- **Firma elettronica semplice, avanzata e qualificata: valore probatorio e requisiti tra CAD ed eIDAS** · Fri, 30 Oct 2026 → [apri](https://www.diritto.it/firma-elettronica-semplice-avanzata-e-qualificata-valore-probatorio-e-requisiti-tra-cad-ed-eidas/)
-- **Moto in corsia d’emergenza e nuove regole per i pedoni: cosa cambia nel Codice della Strada** · Thu, 29 Oct 2026 → [apri](https://www.diritto.it/nuovo-codice-della-strada-regole-per-pedoni-e-moto/)
-- **AI Act, le prossime scadenze: cosa devono fare le aziende entro il 2027 e il 2028** · Thu, 29 Oct 2026 → [apri](https://www.diritto.it/ai-act-nuove-scadenze-e-obblighi-per-le-aziende/)
+- **TFR non versato al fondo pensione: cosa cambia dopo la sentenza delle Sezioni Unite** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/tfr-non-versato-al-fondo-pensione/)
+- **Infiltrazioni in casa, quando il condominio deve risarcire anche il disagio abitativo?** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/danno-disagio-abitativo-infiltrazioni-condominio/)
+- **Reati ministeriali, la Consulta chiarisce i limiti del potere della magistratura** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/reati-ministeriali-sentenza-190-2026/)
+- **IRPEF 2027: aliquota del 33% si estende fino a 55.000 euro e forfettario si eleva a 100.000 euro. Cosa cambia per dipendenti e partite IVA** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/irpef-2027-cosa-cambia-forfettario/)
+- **Abusi sessuali dei dipendenti: quando risponde anche l’azienda?** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/responsabilita-civile-abusi-sessuali-dipendenti/)
+- **Esame avvocato 2026: nominate le commissioni, tutti gli elenchi** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/esame-avvocato-2026-commissioni/)
+- **Ponteggi nel cortile del vicino: quanto deve pagare il condominio?** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/indennita-ponteggi-cortile-condominio/)
+- **Pensioni avvocati, nella Legge di Bilancio 2027 nuove regole per Cassa Forense** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/pensioni-avvocati-2027-cassa-forense/)
+- **Oltraggio a pubblico ufficiale, niente tenuità del fatto: la Consulta conferma il divieto** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/oltraggio-a-pubblico-ufficiale-tenuita-fatto/)
+- **Impresa chiusa ma non cancellata: liquidazione giudiziale ancora possibile** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/liquidazione-giudiziale-impresa-individuale-termine/)
 
 ## Ius in Itinere _(generalista)_
 

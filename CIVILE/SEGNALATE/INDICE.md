@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-11-02 · Schede: 313 (312 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-11-09 · Schede: 315 (314 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -218,6 +218,7 @@
 
 ### Giudizio di cassazione
 
+- **Cass. SU n. 28375/2026** · dep. 2026-11-03 → [scheda](2026/SU_28375_2026.md)
 - **Cass. Sez. IV n. 2072/2026** · dep. 2026-01-31 → [scheda](2026/Cass_2072_2026.md)
 - **Cass. SU n. 14986/2025** · dep. 2025-06-04 → [scheda](2025/SU_14986_2025.md)
 - **Cass. Sez. III n. 12971/2024** · dep. 2024-05-13 → [scheda](2024/Cass_12971_2024.md)
@@ -477,6 +478,7 @@
 
 ### Risarcimento danni
 
+- **Cass. SU n. 28296/2026** · dep. 2026-11-03 → [scheda](2026/SU_28296_2026.md)
 - **Cass. SU n. 19129/2023** · dep. 2023-07-06 → [scheda](2023/SU_19129_2023.md)
 
 ### Risarcimento del danno non patrimoniale
@@ -574,6 +576,8 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 28296/2026 | sentenza | Sezioni Unite | Risarcimento danni | dep. 2026-11-03 | `2026/SU_28296_2026.md` |
+| n. 28375/2026 | sentenza | Sezioni Unite | Giudizio di cassazione | dep. 2026-11-03 | `2026/SU_28375_2026.md` |
 | n. 28087/2026 | sentenza | Sezioni Unite | Ricorso per cassazione | dep. 2026-10-29 | `2026/SU_28087_2026.md` |
 | n. 27991/2026 | ordinanza-interlocutoria | Terza | Processo del lavoro | dep. 2026-10-28 | `2026/Cass_27991_2026.md` |
 | n. 27546/2026 | ordinanza-interlocutoria | Prima | Fallimento | dep. 2026-10-22 | `2026/Cass_27546_2026.md` |

@@ -1,12 +1,25 @@
 # INDICE — Pronunce della Corte costituzionale
 
-> Ultimo aggiornamento: 2026-11-02 · Schede: 22414 · Fonte: open data ufficiale della Corte costituzionale
+> Ultimo aggiornamento: 2026-11-09 · Schede: 22427 · Fonte: open data ufficiale della Corte costituzionale
 > (dati.cortecostituzionale.it, licenza CC BY-SA 3.0). Schede senza epigrafe né testo
 > integrale (contengono dati delle parti): dispositivo, massime ufficiali e parametri,
 > con link alla scheda ufficiale per il testo completo.
 
-## 2026 (178 pronunce)
+## 2026 (191 pronunce)
 
+- **Ord. n. 191/2026** · dep. 2026-11-06 · massime: 0 → [scheda](2026/O_191_2026.md) — 1) dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 23-quater, co
+- **Sent. n. 190/2026** · dep. 2026-11-06 · massime: 0 → [scheda](2026/S_190_2026.md) — 1) dichiara che non spettava al Collegio per i reati ministeriali presso il Tribunale ordinario di Roma non es
+- **Ord. n. 189/2026** · dep. 2026-11-05 · massime: 0 → [scheda](2026/O_189_2026.md) — dichiara inammissibile l'intervento spiegato nel giudizio promosso dal Presidente del Consiglio dei ministri, 
+- **Ord. n. 188/2026** · dep. 2026-11-05 · massime: 0 → [scheda](2026/O_188_2026.md) — dichiara estinto il processo.
+- **Ord. n. 187/2026** · dep. 2026-11-05 · massime: 0 → [scheda](2026/O_187_2026.md) — dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 69-bis, commi 1,
+- **Sent. n. 186/2026** · dep. 2026-11-05 · massime: 0 → [scheda](2026/S_186_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 131-bis, terzo comma, del codice pen
+- **Sent. n. 185/2026** · dep. 2026-11-05 · massime: 0 → [scheda](2026/S_185_2026.md) — riservata a separate pronunce la decisione delle ulteriori questioni di legittimità costituzionale promosse co
+- **Sent. n. 184/2026** · dep. 2026-11-05 · massime: 0 → [scheda](2026/S_184_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 20, comma 1-bis, del decreto le
+- **Sent. n. 183/2026** · dep. 2026-11-03 · massime: 0 → [scheda](2026/S_183_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 1, comma 7, della legge della Region
+- **Sent. n. 182/2026** · dep. 2026-11-03 · massime: 0 → [scheda](2026/S_182_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 1, comma 707, secondo periodo, della legge 30 dicembre 20
+- **Sent. n. 181/2026** · dep. 2026-11-03 · massime: 0 → [scheda](2026/S_181_2026.md) — 1) dichiara l'illegittimità costituzionale dell'art. 227, primo e secondo comma, del codice penale militare di
+- **Sent. n. 180/2026** · dep. 2026-11-02 · massime: 0 → [scheda](2026/S_180_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 550, comma 2, del codice di pro
+- **Sent. n. 179/2026** · dep. 2026-11-02 · massime: 0 → [scheda](2026/S_179_2026.md) — dichiara non fondata la questione di legittimità costituzionale dell'art. 5, comma 3, lettera a), della legge 
 - **Ord. n. 178/2026** · dep. 2026-10-29 · massime: 0 → [scheda](2026/O_178_2026.md) — 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e su
 - **Ord. n. 177/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_177_2026.md) — dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 4-bis, comma 1-q
 - **Ord. n. 176/2026** · dep. 2026-10-22 · massime: 0 → [scheda](2026/O_176_2026.md) — rinvia il giudizio a nuovo ruolo.
@@ -28,11 +41,11 @@
 - **Sent. n. 160/2026** · dep. 2026-10-06 · massime: 0 → [scheda](2026/S_160_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 12, comma 4-bis, del d.P.R. 29 
 - **Sent. n. 159/2026** · dep. 2026-10-02 · massime: 0 → [scheda](2026/S_159_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 155 del codice penale e degli artt. 
 - **Sent. n. 158/2026** · dep. 2026-10-02 · massime: 0 → [scheda](2026/S_158_2026.md) — dichiara l'illegittimità costituzionale dell'art. 27, comma 1, del decreto legislativo 6 settembre 2011, n. 15
-- **Sent. n. 157/2026** · dep. 2026-10-02 · massime: 0 → [scheda](2026/S_157_2026.md) — dichiara l'illegittimità costituzionale dell'art. 35 della legge 23 dicembre 1978, n. 833 (Istituzione del ser
+- **Sent. n. 157/2026** · dep. 2026-10-02 · massime: 5 → [scheda](2026/S_157_2026.md) — dichiara l'illegittimità costituzionale dell'art. 35 della legge 23 dicembre 1978, n. 833 (Istituzione del ser
 - **Sent. n. 156/2026** · dep. 2026-10-01 · massime: 0 → [scheda](2026/S_156_2026.md) — 1) dichiara manifestamente inammissibili le questioni di legittimità costituzionale degli artt. 1, commi 2, 5,
 - **Sent. n. 155/2026** · dep. 2026-09-29 · massime: 0 → [scheda](2026/S_155_2026.md) — dichiara inammissibili le questioni di legittimità costituzionale dell'art. 1, comma 453, della legge 29 dicem
 - **Sent. n. 154/2026** · dep. 2026-09-25 · massime: 0 → [scheda](2026/S_154_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 162-ter, quarto comma, del codice pe
-- **Sent. n. 153/2026** · dep. 2026-07-24 · massime: 0 → [scheda](2026/S_153_2026.md) — dichiara non fondate, nei sensi di cui in motivazione, le questioni di legittimità costituzionale del combinat
+- **Sent. n. 153/2026** · dep. 2026-07-24 · massime: 3 → [scheda](2026/S_153_2026.md) — dichiara non fondate, nei sensi di cui in motivazione, le questioni di legittimità costituzionale del combinat
 - **Sent. n. 152/2026** · dep. 2026-07-24 · massime: 2 → [scheda](2026/S_152_2026.md) — 1) dichiara inammissibile la questione di legittimità costituzionale dell'art. 580 del codice penale, sollevat
 - **Sent. n. 151/2026** · dep. 2026-07-24 · massime: 4 → [scheda](2026/S_151_2026.md) — dichiara non fondate le questioni di legittimità costituzionale dell'art. 586 del codice di procedura civile, 
 - **Sent. n. 150/2026** · dep. 2026-07-24 · massime: 0 → [scheda](2026/S_150_2026.md) — 1) dichiara inammissibili le questioni di legittimità costituzionale dell'art. 7, terzo comma, del d.P.R. 6 ap

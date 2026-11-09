@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-11-02 · Schede: 328 (271 sentenze/ordinanze, 57 questioni SU)
+> Ultimo aggiornamento: 2026-11-09 · Schede: 329 (272 sentenze/ordinanze, 57 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -70,6 +70,7 @@
 
 ### Delitti contro la famiglia
 
+- **Cass. Sez. VI n. 38233/2026** · dep. 2026-11-03 → [scheda](2026/Cass_38233_2026.md)
 - **Cass. Sez. VI n. 1577/2026** · dep. 2026-01-14 → [scheda](2026/Cass_1577_2026.md)
 - **Cass. Sez. VI n. 534/2026** · dep. 2026-01-08 → [scheda](2026/Cass_534_2026.md)
 - **Cass. Sez. VI n. 26184/2025** · dep. 2025-07-17 → [scheda](2025/Cass_26184_2025.md)
@@ -555,6 +556,7 @@
 |---|---|---|---|---|---|
 | R.G. 15007/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-12-17 | `2026/QSP_15007_2026.md` |
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
+| n. 38233/2026 | sentenza | Sesta | Delitti contro la famiglia | dep. 2026-11-03 | `2026/Cass_38233_2026.md` |
 | R.G. 9916/2026 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
 | n. 37841/2026 | sentenza | Sesta | Indagini preliminari | dep. 2026-10-28 | `2026/Cass_37841_2026.md` |
 | n. 37533/2026 | sentenza | Sesta | Impugnazioni | dep. 2026-10-27 | `2026/Cass_37533_2026.md` |
