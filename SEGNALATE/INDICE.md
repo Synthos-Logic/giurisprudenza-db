@@ -1,6 +1,6 @@
 # INDICE — Pronunce penali segnalate
 
-> Ultimo aggiornamento: 2026-11-09 · Schede: 329 (272 sentenze/ordinanze, 57 questioni SU)
+> Ultimo aggiornamento: 2026-11-16 · Schede: 331 (274 sentenze/ordinanze, 57 questioni SU)
 > Fonte: pagina "Giurisprudenza Penale" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -418,6 +418,10 @@
 
 - **Cass. Sez. VI n. 21104/2024** · dep. 2024-05-29 → [scheda](2024/Cass_21104_2024.md)
 
+### Reati contro la persona
+
+- **Cass. Sez. V n. 39632/2026** · dep. 2026-11-11 → [scheda](2026/Cass_39632_2026.md)
+
 ### Reati fallimentari
 
 - **Cass. Sez. V n. 7277/2026** · dep. 2026-02-23 → [scheda](2026/Cass_7277_2026.md)
@@ -459,6 +463,7 @@
 
 ### Sequestro penale
 
+- **Cass. Sez. VI n. 39655/2026** · dep. 2026-11-11 → [scheda](2026/Cass_39655_2026.md)
 - **Cass. Sez. VI n. 543/2026** · dep. 2026-01-08 → [scheda](2026/Cass_543_2026.md)
 
 ### Spese giudiziali in materia penale
@@ -516,9 +521,9 @@
 - **QSP R.G. 33471/2024 · DECISA** · ud. 2025-07-10 → [scheda](2024/QSP_33471_2024.md)
 - **QSP R.G. 34370/2024 · DECISA** · ud. 2025-07-10 → [scheda](2024/QSP_34370_2024.md)
 - **QSP R.G. 35979/2024 · DECISA** · ud. 2025-07-10 → [scheda](2024/QSP_35979_2024.md)
+- **QSP R.G. 18402/2024 · DECISA** · ud. 2025-06-26 → [scheda](2024/QSP_18402_2024.md)
 - **QSP R.G. 2878/2025 · DECISA** · ud. 2025-06-26 → [scheda](2025/QSP_2878_2025.md)
 - **QSP R.G. 2880/2025 · DECISA** · ud. 2025-06-26 → [scheda](2025/QSP_2880_2025.md)
-- **QSP R.G. 18402/2024 · DECISA** · ud. 2025-06-26 → [scheda](2024/QSP_18402_2024.md)
 - **QSP R.G. 29938/2024 · DECISA** · ud. 2025-05-29 → [scheda](2024/QSP_29938_2024.md)
 - **QSP R.G. 39137/2024 · DECISA** · ud. 2025-05-29 → [scheda](2024/QSP_39137_2024.md)
 - **QSP R.G. 36993/2023 · DECISA** · ud. 2025-05-29 → [scheda](2023/QSP_36993_2023.md)
@@ -556,6 +561,8 @@
 |---|---|---|---|---|---|
 | R.G. 15007/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-12-17 | `2026/QSP_15007_2026.md` |
 | R.G. 10092/2026 | questione SU (pendente) | Sezioni Unite | — | ud. 2026-11-26 | `2026/QSP_10092_2026.md` |
+| n. 39632/2026 | sentenza | Quinta | Reati contro la persona | dep. 2026-11-11 | `2026/Cass_39632_2026.md` |
+| n. 39655/2026 | sentenza | Sesta | Sequestro penale | dep. 2026-11-11 | `2026/Cass_39655_2026.md` |
 | n. 38233/2026 | sentenza | Sesta | Delitti contro la famiglia | dep. 2026-11-03 | `2026/Cass_38233_2026.md` |
 | R.G. 9916/2026 | questione SU (decisa) | Sezioni Unite | — | ud. 2026-10-29 | `2026/QSP_9916_2026.md` |
 | n. 37841/2026 | sentenza | Sesta | Indagini preliminari | dep. 2026-10-28 | `2026/Cass_37841_2026.md` |
@@ -726,9 +733,9 @@
 | n. 25199/2025 | sentenza | Sesta | Pena | dep. 2025-07-09 | `2025/Cass_25199_2025.md` |
 | n. 25204/2025 | sentenza | Sesta | Misure di prevenzione e antimafia | dep. 2025-07-09 | `2025/Cass_25204_2025.md` |
 | n. 24100/2025 | sentenza | Sesta | Mandato d'arresto europeo | dep. 2025-06-30 | `2025/Cass_24100_2025.md` |
+| R.G. 18402/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-06-26 | `2024/QSP_18402_2024.md` |
 | R.G. 2878/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-06-26 | `2025/QSP_2878_2025.md` |
 | R.G. 2880/2025 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-06-26 | `2025/QSP_2880_2025.md` |
-| R.G. 18402/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-06-26 | `2024/QSP_18402_2024.md` |
 | n. 23328/2025 | sentenza | Sesta | Prescrizione | dep. 2025-06-23 | `2025/Cass_23328_2025.md` |
 | n. 23329/2025 | sentenza | Sesta | Persona giuridica | dep. 2025-06-23 | `2025/Cass_23329_2025.md` |
 | n. 23333/2025 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2025-06-23 | `2025/Cass_23333_2025.md` |
@@ -762,8 +769,8 @@
 | n. 13132/2025 | sentenza | Terza | Delitti contro il patrimonio | dep. 2025-04-04 | `2025/Cass_13132_2025.md` |
 | n. 13092/2025 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2025-04-03 | `2025/Cass_13092_2025.md` |
 | n. 12309/2025 | sentenza | Sesta | Patteggiamento | dep. 2025-03-28 | `2025/Cass_12309_2025.md` |
-| n. 12096/2025 | sentenza | Prima | Procedimento penale militare | dep. 2025-03-27 | `2025/Cass_12096_2025.md` |
 | R.G. 27791/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-03-27 | `2024/QSP_27791_2024.md` |
+| n. 12096/2025 | sentenza | Prima | Procedimento penale militare | dep. 2025-03-27 | `2025/Cass_12096_2025.md` |
 | n. 11969/2025 | sentenza | Sezioni Unite | Delitti contro la pubblica amministrazione | dep. 2025-03-26 | `2025/SU_11969_2025.md` |
 | n. 11169/2025 | sentenza | Quarta | Edilizia | dep. 2025-03-20 | `2025/Cass_11169_2025.md` |
 | n. 11447/2025 | sentenza | Sezioni Unite | Impugnazioni | dep. 2025-03-20 | `2025/SU_11447_2025.md` |
@@ -780,8 +787,8 @@
 | n. 8851/2025 | sentenza | Sesta | Mandato d'arresto europeo | dep. 2025-03-03 | `2025/Cass_8851_2025.md` |
 | n. 8269/2025 | sentenza | Terza | Finanze e tributi | dep. 2025-02-28 | `2025/Cass_8269_2025.md` |
 | n. 8379/2025 | sentenza | Quinta | Misure cautelari | dep. 2025-02-28 | `2025/Cass_8379_2025.md` |
-| n. 8022/2025 | sentenza | Seconda | Delitti contro il patrimonio | dep. 2025-02-27 | `2025/Cass_8022_2025.md` |
 | R.G. 34910/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-02-27 | `2024/QSP_34910_2024.md` |
+| n. 8022/2025 | sentenza | Seconda | Delitti contro il patrimonio | dep. 2025-02-27 | `2025/Cass_8022_2025.md` |
 | n. 7647/2025 | sentenza | Seconda | Indagini preliminari | dep. 2025-02-25 | `2025/Cass_7647_2025.md` |
 | n. 6984/2025 | ordinanza | Quinta | Impugnazioni | dep. 2025-02-19 | `2025/Cass_6984_2025.md` |
 | n. 5842/2025 | sentenza | Terza | Stupefacenti | dep. 2025-02-13 | `2025/Cass_5842_2025.md` |
@@ -790,8 +797,8 @@
 | n. 4936/2025 | sentenza | Sesta | Delitti contro l'amministrazione della giustizia | dep. 2025-02-06 | `2025/Cass_4936_2025.md` |
 | n. 4520/2025 | sentenza | Sesta | Delitti contro la pubblica amministrazione | dep. 2025-02-04 | `2025/Cass_4520_2025.md` |
 | n. 4308/2025 | ordinanza | Prima | Stranieri | dep. 2025-01-31 | `2025/Cass_4308_2025.md` |
-| n. 3892/2025 | sentenza | Sesta | Impugnazioni | dep. 2025-01-30 | `2025/Cass_3892_2025.md` |
 | R.G. 25628/2024 | questione SU (decisa) | Sezioni Unite | — | ud. 2025-01-30 | `2024/QSP_25628_2024.md` |
+| n. 3892/2025 | sentenza | Sesta | Impugnazioni | dep. 2025-01-30 | `2025/Cass_3892_2025.md` |
 | n. 3066/2025 | ordinanza | Sesta | Impugnazioni | dep. 2025-01-27 | `2025/Cass_3066_2025.md` |
 | n. 1908/2025 | sentenza | Prima | Misure di sicurezza | dep. 2025-01-16 | `2025/Cass_1908_2025.md` |
 | n. 1268/2025 | sentenza | Sesta | Delitti contro la famiglia | dep. 2025-01-13 | `2025/Cass_1268_2025.md` |

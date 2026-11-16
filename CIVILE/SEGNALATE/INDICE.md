@@ -1,6 +1,6 @@
 # INDICE — Pronunce civili segnalate
 
-> Ultimo aggiornamento: 2026-11-09 · Schede: 315 (314 sentenze/ordinanze, 0 questioni SU)
+> Ultimo aggiornamento: 2026-11-16 · Schede: 317 (316 sentenze/ordinanze, 0 questioni SU)
 > Fonte: pagina "Giurisprudenza Civile" del sito della Corte Suprema di Cassazione.
 
 ## Pronunce per materia
@@ -409,6 +409,7 @@
 
 ### Processo del lavoro
 
+- **Cass. Sez. IV n. 28751/2026** · dep. 2026-11-09 → [scheda](2026/Cass_28751_2026.md)
 - **Cass. Sez. III n. 27991/2026** · dep. 2026-10-28 → [scheda](2026/Cass_27991_2026.md)
 - **Cass. SU n. 17603/2025** · dep. 2025-06-30 → [scheda](2025/SU_17603_2025.md)
 - **Cass. Sez. IV n. 11898/2024** · dep. 2024-05-03 → [scheda](2024/Cass_11898_2024.md)
@@ -503,6 +504,7 @@
 
 ### Società
 
+- **Cass. SU n. 28669/2026** · dep. 2026-11-09 → [scheda](2026/SU_28669_2026.md)
 - **Cass. SU n. 19750/2025** · dep. 2025-07-17 → [scheda](2025/SU_19750_2025.md)
 - **Cass. Sez. I n. 15087/2025** · dep. 2025-06-05 → [scheda](2025/Cass_15087_2025.md)
 - **Cass. SU n. 5089/2025** · dep. 2025-02-26 → [scheda](2025/SU_5089_2025.md)
@@ -576,6 +578,8 @@
 
 | Pronuncia | Tipo | Sezione | Materia | Deposito / Udienza | Scheda |
 |---|---|---|---|---|---|
+| n. 28751/2026 | sentenza | Quarta | Processo del lavoro | dep. 2026-11-09 | `2026/Cass_28751_2026.md` |
+| n. 28669/2026 | sentenza | Sezioni Unite | Società | dep. 2026-11-09 | `2026/SU_28669_2026.md` |
 | n. 28296/2026 | sentenza | Sezioni Unite | Risarcimento danni | dep. 2026-11-03 | `2026/SU_28296_2026.md` |
 | n. 28375/2026 | sentenza | Sezioni Unite | Giudizio di cassazione | dep. 2026-11-03 | `2026/SU_28375_2026.md` |
 | n. 28087/2026 | sentenza | Sezioni Unite | Ricorso per cassazione | dep. 2026-10-29 | `2026/SU_28087_2026.md` |

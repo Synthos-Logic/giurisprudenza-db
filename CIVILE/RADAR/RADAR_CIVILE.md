@@ -1,6 +1,6 @@
 # RADAR CIVILE — segnalazioni dalle riviste giuridiche
 
-> Aggiornato il 2026-11-09 · fonti interrogate: 5 · voci nuove in questa esecuzione: 24
+> Aggiornato il 2026-11-16 · fonti interrogate: 5 · voci nuove in questa esecuzione: 29
 >
 > **A che cosa serve.** A sapere di che cosa si discute: dottrina, commenti a sentenza,
 > note a prima lettura. Sono **solo segnalazioni**: titolo, data e link alla fonte.
@@ -10,39 +10,44 @@
 
 ## Judicium _(processo civile)_
 
-- **La scelta espressa del giudice di non decidere una questione pregiudiziale di rito: la Cassazione muta indirizzo.** · Mon, 09 Nov 2026 → [apri](https://www.judicium.it/la-scelta-espressa-del-giudice-di-non-decidere-una-questione-pregiudiziale-di-rito-la-cassazione-muta-indirizzo/)
-- **Spunti sulla separazione patrimoniale nelle cartolarizzazioni (a margine di due recenti pronunce)** · Thu, 05 Nov 2026 → [apri](https://www.judicium.it/spunti-sulla-separazione-patrimoniale-nelle-cartolarizzazioni-a-margine-di-due-recenti-pronunce/)
+- **Rivista 3/2026 sfogliabile** · Wed, 11 Nov 2026 → [apri](https://www.judicium.it/rivista-3-2026-sfogliabile/)
+- **Indice Fascicolo 3/2026** · Wed, 11 Nov 2026 → [apri](https://www.judicium.it/indice-fascicolo-3-2026/)
+- **Sul tribolato rapporto fra ‘partecipazione’ alla mediazione e ‘rappresentanza’ dell’avvocato della parte alla luce di due recenti (e divergenti) pronunce di legittimità** · Wed, 11 Nov 2026 → [apri](https://www.judicium.it/sul-tribolato-rapporto-fra-partecipazione-alla-mediazione-e-rappresentanza-dellavvocato-della-parte-alla-luce-di-due-recenti-e-divergenti-pronunce-di-leg/)
+- **Riflessioni sul criterio della vicinanza alla prova** · Wed, 11 Nov 2026 → [apri](https://www.judicium.it/riflessioni-sul-criterio-della-vicinanza-alla-prova/)
+- **Accesso alle prove, allegazione e «fishing expedition» nel contenzioso civile sull’intelligenza artificiale: prime riflessioni sull’art. 17 del d.lgs. 9 settembre 2026, n. 160** · Wed, 11 Nov 2026 → [apri](https://www.judicium.it/accesso-alle-prove-allegazione-e-fishing-expedition-nel-contenzioso-civile-sullintelligenza-artificiale-prime-riflessioni-sullart-17-del-d-lgs-9-settembre-2026-n-16/)
+- **Les silences du juge** · Wed, 11 Nov 2026 → [apri](https://www.judicium.it/les-silences-du-juge/)
+- **Lis pendens, parallel proceedings and related actions (First Part)** · Wed, 11 Nov 2026 → [apri](https://www.judicium.it/lis-pendens-parallel-proceedings-and-related-actions-first-part/)
+- **La difesa tecnica entra nel procedimento di convalida del TSO: garanzie costituzionali, problemi applicativi e prospettive di riforma (considerazioni a margine di Corte cost., 2 ottobre 2026, n. 157)** · Tue, 10 Nov 2026 → [apri](https://www.judicium.it/la-difesa-tecnica-entra-nel-procedimento-di-convalida-del-tso-garanzie-costituzionali-problemi-applicativi-e-prospettive-di-riforma-considerazioni-a-margine-di-corte-cost-2-ottobre-2026-n-157/)
 
 ## Il Diritto Processuale Civile _(processo civile)_
 
-- **Il recepimento della Direttiva anti-SLAPP con il d.lgs. 194/2026: un cluster di regole processuali di cui in gran parte non c’era bisogno** · Thu, 05 Nov 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/11/05/il-recepimento-della-direttiva-anti-slapp-con-il-d-lgs-194-2026-un-cluster-di-regole-processuali-di-cui-in-gran-parte-non-cera-bisogno/)
-- **In tema di efficienza e qualità della giustizia civile. Alcune riflessioni sulla fase preparatoria nel giudizio di primo grado** · Tue, 03 Nov 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/11/03/in-tema-di-efficienza-e-qualita-della-giustizia-civile-alcune-riflessioni-sulla-fase-preparatoria-nel-giudizio-di-primo-grado/)
+- **Sintesi e prolissità, ovvero Sein und Zeit degli atti processuali** · Tue, 10 Nov 2026 → [apri](https://www.ildirittoprocessualecivile.it/2026/11/10/sintesi-e-prolissita-ovvero-sein-und-zeit-degli-atti-processuali/)
 
 ## Diritto Bancario _(bancario e finanziario)_
 
-- **ID caller spoofing, SMS alert e responsabilità della banca** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/id-caller-spoofing-sms-alert-e-responsabilita-della-banca/)
-- **White label: scheda informativa EBA per i consumatori** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/white-label-scheda-informativa-eba-per-i-consumatori/)
-- **Accordi di ristrutturazione: no all’omologa senza elenco creditori nella domanda** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/accordi-di-ristrutturazione-no-allomologa-senza-elenco-creditori-nella-domanda/)
-- **Polizze unit-linked: ACF su carenze informative e riscatti anticipati** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/polizze-unit-linked-acf-su-carenze-informative-e-riscatti-anticipati/)
-- **Holding di investimento: mancata distribuzione di utili e abuso del diritto** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/holding-di-investimento-mancata-distribuzione-di-utili-e-abuso-del-diritto/)
-- **EBA sulla deroga transitoria per esposizioni su strumenti di capitale** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/eba-sulla-deroga-transitoria-per-esposizioni-su-strumenti-di-capitale/)
-- **Limiti alla moratoria dei crediti privilegiati nel piano del consumatore** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/limiti-alla-moratoria-dei-crediti-privilegiati-nel-piano-del-consumatore/)
-- **FATF-GAFI: il ciclo delle truffe online e le strategie di prevenzione** · Mon, 09 Nov 2026 → [apri](https://www.dirittobancario.it/art/fatf-gafi-il-ciclo-delle-truffe-online-e-le-strategie-di-prevenzione/)
-- **Utili extracontabili: la nuova presunzione non è retroattiva** · Fri, 06 Nov 2026 → [apri](https://www.dirittobancario.it/art/utili-extracontabili-la-nuova-presunzione-non-e-retroattiva/)
-- **CCD 2: Webinar 15/12 sulle prossime disposizioni Banca d’Italia** · Fri, 06 Nov 2026 → [apri](https://www.dirittobancario.it/art/ccd-2-webinar-15-12-sulle-prossime-disposizioni-banca-ditalia/)
+- **I testi unici al tempo della deglobalizzazione** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/i-testi-unici-al-tempo-della-deglobalizzazione/)
+- **Responsabilità per omessa esecuzione di ordini per conto dei clienti** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/responsabilita-per-omessa-esecuzione-di-ordini-per-conto-dei-clienti/)
+- **L’educazione finanziaria nel TUF riformato: un’occasione mancata o una scelta di campo lungimirante?** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/leducazione-finanziaria-nel-tuf-riformato-unoccasione-mancata-o-una-scelta-di-campo-lungimirante/)
+- **Cybersecurity, ENISA: IA e sicurezza del software open source** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/cybersecurity-enisa-ia-e-sicurezza-del-software-open-source/)
+- **Aggiornato l’elenco dei conglomerati finanziari** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/aggiornato-lelenco-dei-conglomerati-finanziari/)
+- **Introduzione al Convegno Riforma del T.U.F. e nuove frontiere del diritto dell’economia 9 Aprile 2026.** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/introduzione-al-convegno-riforma-del-t-u-f-e-nuove-frontiere-del-diritto-delleconomia-9-aprile-2026/)
+- **Agenti e mediatori creditizi: linee guida OAM sulle violazioni dei collaboratori** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/agenti-e-mediatori-creditizi-linee-guida-oam-sulle-violazioni-dei-collaboratori/)
+- **Pagamenti transfrontalieri: l’avanzamento della roadmap del G20** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/pagamenti-transfrontalieri-lavanzamento-della-roadmap-del-g20/)
+- **Legge di Bilancio 2027: una Exit Tax da ripensare?** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/legge-di-bilancio-2027-una-exit-tax-da-ripensare/)
+- **Stabilità finanziaria: Banca d’Italia su rischi globali e quadro italiano** · Mon, 16 Nov 2026 → [apri](https://www.dirittobancario.it/art/stabilita-finanziaria-banca-ditalia-su-rischi-globali-e-quadro-italiano/)
 
 ## Diritto.it _(generalista)_
 
-- **TFR non versato al fondo pensione: cosa cambia dopo la sentenza delle Sezioni Unite** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/tfr-non-versato-al-fondo-pensione/)
-- **Infiltrazioni in casa, quando il condominio deve risarcire anche il disagio abitativo?** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/danno-disagio-abitativo-infiltrazioni-condominio/)
-- **Reati ministeriali, la Consulta chiarisce i limiti del potere della magistratura** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/reati-ministeriali-sentenza-190-2026/)
-- **IRPEF 2027: aliquota del 33% si estende fino a 55.000 euro e forfettario si eleva a 100.000 euro. Cosa cambia per dipendenti e partite IVA** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/irpef-2027-cosa-cambia-forfettario/)
-- **Abusi sessuali dei dipendenti: quando risponde anche l’azienda?** · Mon, 09 Nov 2026 → [apri](https://www.diritto.it/responsabilita-civile-abusi-sessuali-dipendenti/)
-- **Esame avvocato 2026: nominate le commissioni, tutti gli elenchi** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/esame-avvocato-2026-commissioni/)
-- **Ponteggi nel cortile del vicino: quanto deve pagare il condominio?** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/indennita-ponteggi-cortile-condominio/)
-- **Pensioni avvocati, nella Legge di Bilancio 2027 nuove regole per Cassa Forense** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/pensioni-avvocati-2027-cassa-forense/)
-- **Oltraggio a pubblico ufficiale, niente tenuità del fatto: la Consulta conferma il divieto** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/oltraggio-a-pubblico-ufficiale-tenuita-fatto/)
-- **Impresa chiusa ma non cancellata: liquidazione giudiziale ancora possibile** · Fri, 06 Nov 2026 → [apri](https://www.diritto.it/liquidazione-giudiziale-impresa-individuale-termine/)
+- **Carceri sovraffollate, la Consulta chiede interventi urgenti: cosa ha deciso** · Mon, 16 Nov 2026 → [apri](https://www.diritto.it/sovraffollamento-carcerario-consulta/)
+- **Energie rinnovabili e tutela del paesaggio: i limiti fissati dalla Consulta** · Mon, 16 Nov 2026 → [apri](https://www.diritto.it/energie-rinnovabili-tutela-paesaggio-consulta-197-2026/)
+- **Condizionatore sul pianerottolo, il giudice ordina di rimuoverlo: aveva cinque balconi** · Mon, 16 Nov 2026 → [apri](https://www.diritto.it/condizionatore-sul-pianerottolo/)
+- **Liberazione anticipata, la Consulta elimina un divieto: quando si può evitare il carcere** · Mon, 16 Nov 2026 → [apri](https://www.diritto.it/liberazione-anticipata-sentenza-203-2026/)
+- **Debiti di famiglia, ora si può fare un’unica domanda: chi paga e cosa succede alla casa?** · Mon, 16 Nov 2026 → [apri](https://www.diritto.it/sovraindebitamento-familiare-domanda-unica/)
+- **Concorsi pubblici, chi può vedere graduatorie e punteggi? I limiti imposti dalla privacy** · Fri, 13 Nov 2026 → [apri](https://www.diritto.it/privacy-nei-concorsi-pubblici/)
+- **Affitti brevi in Puglia, arrivano nuovi limiti: cosa cambia per proprietari e host** · Fri, 13 Nov 2026 → [apri](https://www.diritto.it/affitti-brevi-in-puglia-nuovi-limiti/)
+- **Danni durante le manifestazioni, la Consulta boccia una norma: cosa cambia per i reati** · Fri, 13 Nov 2026 → [apri](https://www.diritto.it/danneggiamento-durante-le-manifestazioni/)
+- **Divorzio e trasferimenti immobiliari: quando si applica l’esenzione fiscale** · Fri, 13 Nov 2026 → [apri](https://www.diritto.it/esenzione-fiscale-divorzio-trasferimenti-immobiliari/)
+- **Adozione maggiore d’età, illegittimo il divieto per la coppia unita civilmente** · Fri, 13 Nov 2026 → [apri](https://www.diritto.it/adozione-maggiore-deta/)
 
 ## Ius in Itinere _(generalista)_
 

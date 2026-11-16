@@ -1,6 +1,6 @@
 # INDICE — Rinvii pregiudiziali ex art. 363-bis c.p.c.
 
-> Ultimo aggiornamento: 2026-11-09 · Schede: 112
+> Ultimo aggiornamento: 2026-11-16 · Schede: 112
 > Fonte: pagina "Rinvii pregiudiziali" del sito della Corte Suprema di Cassazione.
 >
 > ⚠️ Sono questioni **pendenti**: non si citano come precedente. Servono a segnalare

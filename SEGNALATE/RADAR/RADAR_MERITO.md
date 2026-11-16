@@ -8,6 +8,21 @@
 > (da quel momento è citabile col protocollo quote-then-claim).
 > Aggiornamento automatico settimanale. Dedup per URL.
 
+## Aggiornamento del 2026-11-16
+
+- **2026-11-16** · Archivio Penale · Articoli — [Dalla continuità assistenziale alla transizione governata: presa in carico congiunta delle persone detenute con sofferenza psichica, dipendenze e doppia diagnosi](https://archiviopenale.it/dalla-continuita-assistenziale-alla-transizione-governata-presa-in-carico-congiunta-delle-persone-detenute-con-sofferenza-psichica-dipendenze-e-doppia-diagnosi/articoli/51087)
+- **2026-11-16** · Archivio Penale · Articoli — [Per un protocollo metodologico  di analisi eziologica delle ingiuste detenzioni](https://archiviopenale.it/per-un-protocollo-metodologico-di-analisi-eziologica-delle-ingiuste-detenzioni/articoli/51086)
+- **2026-11-16** · Archivio Penale · Articoli — [Verso nuove frontiere: l’integrazione dell’intelligenza artificiale  negli esperimenti giudiziali](https://archiviopenale.it/verso-nuove-frontiere-lintegrazione-dellintelligenza-artificiale-negli-esperimenti-giudiziali/articoli/51088)
+- **2026-11-16** · Archivio Penale · Articoli — [Interrogatorio preventivo e nullità genetica dell’ordinanza caute-lare:  il controllo del riesame sul titolo ostativo](https://archiviopenale.it/interrogatorio-preventivo-e-nullita-genetica-dellordinanza-caute-lare-il-controllo-del-riesame-sul-titolo-ostativo/articoli/51084)
+- **2026-11-15** · Giurisprudenza Penale — [La Corte decide di non decidere: inammissibile la questione di costituzionalità sul caso Sollicciano](https://www.giurisprudenzapenale.com/2026/11/15/la-corte-decide-di-non-decidere-inammissibile-la-questione-di-costituzionalita-sul-caso-sollicciano/)
+- **2026-11-14** · DisCrimen — [Sulla crisi del diritto internazionale](https://discrimen.it/sulla-crisi-del-diritto-internazionale/)
+- **2026-11-14** · Questione Giustizia · Diritto penale — [La punizione, bisogno vitale dell’anima in Simone Weil](https://www.questionegiustizia.it/articolo/la-punizione-bisogno-vitale-dell-anima-in-simone-weil)
+- **2026-11-13** · Diritto di Difesa (UCPI) — [CONFISCA PER EQUIVALENTE E CONCORSO DI PERSONE NEI REATI TRIBUTARI: IL PRINCIPIO SOLIDARISTICO TRA SPECIFICITÀ DELLA FATTISPECIE E VINCOLI COSTITUZIONALI E CONVENZIONALI – DI FABRIZIO COSTARELLA E COSIMO PALUMBO](https://dirittodidifesa.eu/confisca-per-equivalente-e-concorso-di-persone-nei-reati-tributari/)
+- **2026-11-12** · Giurisprudenza Penale — [Maltrattamenti in famiglia: il Tribunale di Modena solleva questione di legittimità costituzionale dell’aggravante di cui al comma 5](https://www.giurisprudenzapenale.com/2026/11/12/maltrattamenti-in-famiglia-il-tribunale-di-modena-solleva-questione-di-legittimita-costituzionale-dellaggravante-di-cui-al-comma-5/)
+- **2026-11-12** · DisCrimen — [La giustizia malata confonde ciò che è moralmente discutibile con ciò che è penalmente rilevante](https://discrimen.it/la-giustizia-malata-confonde-cio-che-e-moralmente-discutibile-con-cio-che-e-penalmente-rilevante/)
+- **2026-11-11** · DisCrimen — [Riapertis verbisI macarons del devoto](https://discrimen.it/riapertis-verbisi-macarons-del-devoto-168/)
+- **2026-11-10** · La Legislazione Penale — [Disastri annunciati. Il ruolo del precedente nella giurisprudenza sui macroeventi offensivi – Edoardo Mazzanti](https://www.lalegislazionepenale.eu/disastri-annunciati-il-ruolo-del-precedente-nella-giurisprudenza-sui-macroeventi-offensivi-edoardo-mazzanti/)
+
 ## Aggiornamento del 2026-11-09
 
 - **2026-11-09** · Giustizia Insieme · Processo penale — [Corrispondenza digitale dei parlamentari e limiti del potere autorizzatorio](https://www.giustiziainsieme.it/articolo/4166-corrispondenza-digitale-dei-parlamentari-e-limiti-del-potere-autorizzatorio.php)
